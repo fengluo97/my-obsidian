@@ -1,0 +1,71 @@
+{
+  "statusBarOrder": [],
+  "ribbonBarOrder": [],
+  "fileExplorerOrder": {
+    "工作": [
+      "工作/CS",
+      "工作/Java",
+      "工作/JVM",
+      "工作/JUC",
+      "工作/设计模式",
+      "工作/Spring",
+      "工作/SpringMVC",
+      "工作/MyBatis",
+      "工作/SpringBoot",
+      "工作/SpringSecurity",
+      "工作/MySQL",
+      "工作/Redis",
+      "工作/RocketMQ",
+      "工作/MongoDB",
+      "工作/ElasticSearch",
+      "工作/Dubbo",
+      "工作/Zookeeper",
+      "工作/Tomcat",
+      "工作/Netty",
+      "工作/力扣"
+    ],
+    "/": [
+      "resource",
+      "Life",
+      "Tech",
+      "DashBoard.md",
+      "README.md"
+    ],
+    "工作/JVM": [
+      "工作/JVM/resource",
+      "工作/JVM/JVM 概述.md",
+      "工作/JVM/类文件结构.md"
+    ],
+    "技术": [
+      "技术/CS",
+      "技术/ElasticSearch",
+      "技术/Java",
+      "技术/JUC",
+      "技术/JVM",
+      "技术/设计模式",
+      "技术/MyBatis",
+      "技术/MySQL",
+      "技术/Redis",
+      "技术/RocketMQ",
+      "技术/Spring",
+      "技术/SpringBoot",
+      "技术/SpringMVC",
+      "技术/SpringSecurity",
+      "技术/MongoDB",
+      "技术/Dubbo",
+      "技术/Zookeeper",
+      "技术/Tomcat",
+      "技术/Netty",
+      "技术/力扣"
+    ],
+    "Tech/RocketMQ": [
+      "Tech/RocketMQ/resource",
+      "Tech/RocketMQ/RocketMQ.md",
+      "Tech/RocketMQ/RocketMQ 消息发送.md"
+    ]
+  },
+  "actionBarOrder": {},
+  "autoHide": false,
+  "autoHideDelay": 2000,
+  "dragDelay": 200
+}
