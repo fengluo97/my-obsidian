@@ -1,4 +1,4 @@
-# 消息发送 API
+# 一、消息发送 API
 
 ![[Pasted image 20231113235952.png]]
 
@@ -6,7 +6,7 @@ DefaultMQProducer 实现了 MQProducer 接口，MQProducer 继承了 MQAdmin 接
 MQProducer 是消息发送接口，MQAdmin 是集群管理基础接口，ClientConfig 类是客户端配置类。
 
 
-## 发送接口分类
+## 1、发送接口分类
 
 按照发送方式
 - 同步发送
@@ -22,19 +22,19 @@ MQProducer 是消息发送接口，MQAdmin 是集群管理基础接口，ClientC
 - 指定特定消息队列
 - 自定义消息队列选择器
 
-## 集群管理接口
+## 2、集群管理接口
 
 MQAdmin 提供了对集群的基础管理能力，也提供了主题创建和消息查询等功能。
 
-## 客户端配置说明
+## 3、客户端配置说明
 
-## DefaultMQProducer
+## 4、DefaultMQProducer
 默认发送类，使用最为广泛。
 
 
-# 重要参数以及实战建议
+# 二、重要参数以及实战建议
 
-## 发送重试机制
+## 1、发送重试机制
 
 实际环境中，网络抖动、集群抖动的情况比较常见，引起抖动的原因也很多，不同机房之间的专线抖动、集群瞬时流量过大等，都可能导致某次消息发送失败。为了应对这种情况，RocketMQ 提供了发送重试机制。
 
@@ -44,5 +44,4 @@ sendMsgTimeout、retryTimesWhenSendFailed、retryTimesWhenSendAsyncFailed
 
 最佳实践：建议将 发送超时时间 和 重试次数 设置大一点，以便有做狗的重试次数来应对发送失败的场景。比如超时时间设置为 10 秒，重试次数设置为 16 次。
 
-## 延迟故障规避
-![[Pasted image 20231114003032.png]]
+## 2、延迟故障规避
