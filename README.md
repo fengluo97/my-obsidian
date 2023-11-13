@@ -1,0 +1,2 @@
+# my-obsidian
+My obsidian
