@@ -45,3 +45,4 @@ sendMsgTimeout、retryTimesWhenSendFailed、retryTimesWhenSendAsyncFailed
 最佳实践：建议将 发送超时时间 和 重试次数 设置大一点，以便有做狗的重试次数来应对发送失败的场景。比如超时时间设置为 10 秒，重试次数设置为 16 次。
 
 ## 延迟故障规避
+![[Pasted image 20231114003032.png]]
