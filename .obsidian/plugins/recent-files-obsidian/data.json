@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "RocketMQ 自测",
+      "path": "Tech/RocketMQ/RocketMQ 自测.md"
+    },
+    {
+      "basename": "RocketMQ",
+      "path": "Tech/RocketMQ/RocketMQ.md"
+    },
+    {
       "basename": "README",
       "path": "README.md"
     },
@@ -15,10 +23,6 @@
     {
       "basename": "JVM 概述",
       "path": "Tech/JVM/JVM 概述.md"
-    },
-    {
-      "basename": "RocketMQ",
-      "path": "Tech/RocketMQ/RocketMQ.md"
     },
     {
       "basename": "类文件结构",
