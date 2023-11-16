@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "646be285a76e5569",
+        "id": "587d1f72ae4c1573",
         "type": "tabs",
         "children": [
           {
-            "id": "fd735444ad3dca35",
+            "id": "1291e9e026277d30",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech/RocketMQ/RocketMQ 消息发送.md",
+                "file": "DashBoard.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tech/RocketMQ/RocketMQ 消息发送.md",
+                "file": "DashBoard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tech/RocketMQ/RocketMQ 消息发送.md",
+                "file": "DashBoard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tech/RocketMQ/RocketMQ 消息发送.md"
+                "file": "DashBoard.md"
               }
             }
           },
@@ -209,7 +209,7 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "fd735444ad3dca35",
+  "active": "1291e9e026277d30",
   "lastOpenFiles": [
     "Tech/RocketMQ/RocketMQ 自测.md",
     "Tech/RocketMQ/RocketMQ 消息发送.md",

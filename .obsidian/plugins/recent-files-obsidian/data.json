@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "DashBoard",
+      "path": "DashBoard.md"
+    },
+    {
       "basename": "RocketMQ 消息发送",
       "path": "Tech/RocketMQ/RocketMQ 消息发送.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "README",
       "path": "README.md"
-    },
-    {
-      "basename": "DashBoard",
-      "path": "DashBoard.md"
     },
     {
       "basename": "JVM 概述",
