@@ -62,6 +62,26 @@
       "Tech/RocketMQ/resource",
       "Tech/RocketMQ/RocketMQ.md",
       "Tech/RocketMQ/RocketMQ 消息发送.md"
+    ],
+    "Tech": [
+      "Tech/CS",
+      "Tech/Java",
+      "Tech/JUC",
+      "Tech/JVM",
+      "Tech/设计模式",
+      "Tech/Spring",
+      "Tech/SpringMVC",
+      "Tech/SpringBoot",
+      "Tech/MyBatis",
+      "Tech/MySQL",
+      "Tech/Redis",
+      "Tech/RocketMQ",
+      "Tech/Dubbo",
+      "Tech/Zookeeper",
+      "Tech/Netty",
+      "Tech/SpringSecurity",
+      "Tech/Tomcat",
+      "Tech/力扣"
     ]
   },
   "actionBarOrder": {},
