@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "243d297ced9dacf8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -135,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DashBoard.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DashBoard.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DashBoard.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -209,9 +223,10 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "55f95ecea5b37cc7",
+  "active": "243d297ced9dacf8",
   "lastOpenFiles": [
     "DashBoard.md",
+    "conflict-files-obsidian-git.md",
     "Tech/RocketMQ/RocketMQ 自测.md",
     "Tech/RocketMQ/RocketMQ 消息发送.md",
     "Tech/RocketMQ/RocketMQ.md",
