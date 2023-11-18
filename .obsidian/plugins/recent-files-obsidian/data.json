@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "Home",
-      "path": "Home.md"
-    },
-    {
       "basename": "DashBoard",
       "path": "DashBoard.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
     },
     {
       "basename": "RocketMQ 自测",
@@ -19,10 +19,6 @@
     {
       "basename": "RocketMQ",
       "path": "Tech/RocketMQ/RocketMQ.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
     },
     {
       "basename": "JVM 概述",
