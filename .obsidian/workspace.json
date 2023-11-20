@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DashBoard.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2f7af8ea9e5f57b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Tech/设计模式/设计模式.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -139,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Tech/设计模式/设计模式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Tech/设计模式/设计模式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Tech/设计模式/设计模式.md"
               }
             }
           },
@@ -215,10 +202,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2f7af8ea9e5f57b0",
+  "active": "850b5ea2b885aeff",
   "lastOpenFiles": [
-    "DashBoard.md",
+    "Tech/设计模式/结构型模式",
+    "Tech/设计模式/行为型模式",
+    "Tech/设计模式/创建型模式",
     "conflict-files-obsidian-git.md",
+    "DashBoard.md",
     "Tech/设计模式/设计模式.md",
     "Tech/SpringCloud/分布式",
     "README.md",
@@ -238,8 +228,6 @@
     "主页&工作台.md",
     "未命名",
     "娱乐",
-    "Life",
-    "Tech/Netty",
     "Tech/JVM/类文件结构.md",
     "resource/template/后端技术笔记模板.md",
     "resource/template/力扣模板.md",
@@ -255,7 +243,6 @@
     "日记/2023-11-11.md",
     "日记/2023-11-10.md",
     "日记/2023-11-18.md",
-    "日记/2023-11-12.md",
     "Java Virtual Machine/未命名.canvas"
   ]
 }
