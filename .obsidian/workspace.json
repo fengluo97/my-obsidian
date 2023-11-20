@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "836cd135ce322bfa",
+        "id": "077b33849adfe644",
         "type": "tabs",
         "children": [
           {
-            "id": "ae8d8c2ac09b4d78",
+            "id": "3e6eeee776a63ee4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "DashBoard.md",
-                "mode": "preview",
-                "source": true
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -202,8 +202,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ae8d8c2ac09b4d78",
+  "active": "3e6eeee776a63ee4",
   "lastOpenFiles": [
+    "Tech/SpringCloud/分布式",
     "README.md",
     "DashBoard.md",
     "Home.md",
