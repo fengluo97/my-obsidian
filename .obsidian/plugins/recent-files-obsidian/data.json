@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "行为型模式",
+      "path": "Tech/设计模式/行为型模式/行为型模式.md"
+    },
+    {
+      "basename": "责任链模式",
+      "path": "Tech/设计模式/行为型模式/责任链模式.md"
+    },
+    {
+      "basename": "策略模式",
+      "path": "Tech/设计模式/行为型模式/策略模式.md"
+    },
+    {
       "basename": "设计模式",
       "path": "Tech/设计模式/设计模式.md"
     },
