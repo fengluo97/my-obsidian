@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Tech/设计模式/设计模式.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1b4b12be00de7f7d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tech/设计模式/设计模式.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Tech/设计模式/设计模式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Tech/设计模式/设计模式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Tech/设计模式/设计模式.md"
               }
             }
           }
@@ -148,6 +161,13 @@
   },
   "active": "474aaac84ea12495",
   "lastOpenFiles": [
+    "Tech/设计模式/行为型模式",
+    "Tech/设计模式/结构型模式",
+    "Tech/设计模式/创建型模式",
+    "Tech/设计模式/适配器模式.md",
+    "Tech/设计模式/设计模式.md",
+    "README.md",
+    "Tech/设计模式",
     "DashBoard.md"
   ]
 }
