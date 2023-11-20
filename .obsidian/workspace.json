@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2f7af8ea9e5f57b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -126,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DashBoard.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DashBoard.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DashBoard.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -202,11 +215,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3e6eeee776a63ee4",
+  "active": "2f7af8ea9e5f57b0",
   "lastOpenFiles": [
+    "DashBoard.md",
+    "conflict-files-obsidian-git.md",
+    "Tech/设计模式/设计模式.md",
     "Tech/SpringCloud/分布式",
     "README.md",
-    "DashBoard.md",
     "Home.md",
     "Tech/MongoDB",
     "Tech/ElasticSearch",
@@ -214,7 +229,6 @@
     "Tech/RocketMQ/RocketMQ 消息发送.md",
     "Tech/RocketMQ/RocketMQ 自测.md",
     "Tech/SpringCloud",
-    "conflict-files-obsidian-git.md",
     "Tech/JVM/JVM 概述.md",
     "Tech/RocketMQ/resource/Pasted image 20231114003032.png",
     "Tech/RocketMQ/resource/Pasted image 20231113235952.png",
@@ -226,7 +240,6 @@
     "娱乐",
     "Life",
     "Tech/Netty",
-    "技术/ElasticSearch",
     "Tech/JVM/类文件结构.md",
     "resource/template/后端技术笔记模板.md",
     "resource/template/力扣模板.md",
