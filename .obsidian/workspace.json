@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "74f49dce814660fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -126,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DashBoard.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DashBoard.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DashBoard.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -202,8 +215,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7c5a017a22b409b2",
+  "active": "74f49dce814660fc",
   "lastOpenFiles": [
+    "DashBoard.md",
+    "conflict-files-obsidian-git.md",
+    "Tech/设计模式/行为型模式/观察者模式.md",
+    "Tech/设计模式/结构型模式/适配器模式.md",
+    "Tech/设计模式/结构型模式/过滤器模式.md",
+    "Tech/设计模式/结构型模式/桥接模式.md",
+    "Tech/设计模式/创建型模式/建造者模式.md",
+    "Tech/设计模式/创建型模式/工厂模式.md",
+    "Tech/设计模式/创建型模式/原型模式.md",
+    "Tech/设计模式/创建型模式/单例模式.md",
     "Tech/设计模式/行为型模式/策略模式.md",
     "Tech/设计模式/行为型模式/行为型模式.md",
     "Tech/设计模式/行为型模式/责任链模式.md",
@@ -211,8 +234,6 @@
     "Tech/设计模式/结构型模式",
     "Tech/设计模式/行为型模式",
     "Tech/设计模式/创建型模式",
-    "conflict-files-obsidian-git.md",
-    "DashBoard.md",
     "Tech/SpringCloud/分布式",
     "README.md",
     "Home.md",
@@ -235,14 +256,6 @@
     "resource/template/力扣模板.md",
     "工作/力扣/test.md",
     "JVM.md",
-    "工作/未命名思维导图.md",
-    "技术生涯/进度看板.md",
-    "技术生涯/未命名.md",
-    "技术生涯/JVM/未命名看板.md",
-    "template/简单表格.md",
-    "Excalidraw/Drawing 2023-11-12 11.21.10.excalidraw.md",
-    "template/未命名 1.md",
-    "日记/2023-11-11.md",
     "Java Virtual Machine/未命名.canvas"
   ]
 }
