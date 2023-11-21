@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DashBoard.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "74f49dce814660fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Tech/设计模式/行为型模式/责任链模式.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -44,7 +31,7 @@
       {
         "id": "85f702690bd89ad3",
         "type": "tabs",
-        "dimension": 61.642857142857146,
+        "dimension": 85.5,
         "children": [
           {
             "id": "850b5ea2b885aeff",
@@ -76,7 +63,7 @@
       {
         "id": "a900ed8d160b5151",
         "type": "tabs",
-        "dimension": 38.357142857142854,
+        "dimension": 14.499999999999998,
         "children": [
           {
             "id": "259b886ad2eaa262",
@@ -139,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Tech/设计模式/行为型模式/责任链模式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Tech/设计模式/行为型模式/责任链模式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Tech/设计模式/行为型模式/责任链模式.md"
               }
             }
           },
@@ -215,21 +202,24 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "74f49dce814660fc",
+  "active": "850b5ea2b885aeff",
   "lastOpenFiles": [
+    "Tech/设计模式/行为型模式/行为型模式.md",
+    "Tech/设计模式/行为型模式/模板模式.md",
+    "Tech/设计模式/行为型模式/观察者模式.md",
+    "Tech/设计模式/行为型模式/策略模式.md",
+    "Tech/设计模式/创建型模式/创建型模式.md",
+    "Tech/设计模式/结构型模式/结构型模式.md",
+    "Tech/设计模式/行为型模式/责任链模式.md",
+    "Tech/设计模式/创建型模式/单例模式.md",
     "DashBoard.md",
     "conflict-files-obsidian-git.md",
-    "Tech/设计模式/行为型模式/观察者模式.md",
     "Tech/设计模式/结构型模式/适配器模式.md",
     "Tech/设计模式/结构型模式/过滤器模式.md",
     "Tech/设计模式/结构型模式/桥接模式.md",
     "Tech/设计模式/创建型模式/建造者模式.md",
     "Tech/设计模式/创建型模式/工厂模式.md",
     "Tech/设计模式/创建型模式/原型模式.md",
-    "Tech/设计模式/创建型模式/单例模式.md",
-    "Tech/设计模式/行为型模式/策略模式.md",
-    "Tech/设计模式/行为型模式/行为型模式.md",
-    "Tech/设计模式/行为型模式/责任链模式.md",
     "Tech/设计模式/设计模式.md",
     "Tech/设计模式/结构型模式",
     "Tech/设计模式/行为型模式",
@@ -243,7 +233,7 @@
     "Tech/RocketMQ/RocketMQ 消息发送.md",
     "Tech/RocketMQ/RocketMQ 自测.md",
     "Tech/SpringCloud",
-    "Tech/JVM/JVM 概述.md",
+    "Tech/Java/JVM/JVM 概述.md",
     "Tech/RocketMQ/resource/Pasted image 20231114003032.png",
     "Tech/RocketMQ/resource/Pasted image 20231113235952.png",
     "新建文本文档.txt",
@@ -251,11 +241,8 @@
     "Tech/RocketMQ/resource",
     "主页&工作台.md",
     "未命名",
-    "Tech/JVM/类文件结构.md",
+    "Tech/Java/JVM/类文件结构.md",
     "resource/template/后端技术笔记模板.md",
-    "resource/template/力扣模板.md",
-    "工作/力扣/test.md",
-    "JVM.md",
     "Java Virtual Machine/未命名.canvas"
   ]
 }
