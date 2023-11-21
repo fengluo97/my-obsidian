@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "077b33849adfe644",
+        "id": "5bd467ae8fca27f1",
         "type": "tabs",
         "children": [
           {
-            "id": "3e6eeee776a63ee4",
+            "id": "7c5a017a22b409b2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech/设计模式/行为型模式/责任链模式.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7a96057cdbd2454e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tech/设计模式/行为型模式/行为型模式.md",
+                "file": "DashBoard.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -139,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tech/设计模式/行为型模式/行为型模式.md",
+                "file": "DashBoard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tech/设计模式/行为型模式/行为型模式.md",
+                "file": "DashBoard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tech/设计模式/行为型模式/行为型模式.md"
+                "file": "DashBoard.md"
               }
             }
           },
@@ -215,11 +202,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7a96057cdbd2454e",
+  "active": "7c5a017a22b409b2",
   "lastOpenFiles": [
-    "Tech/设计模式/行为型模式/责任链模式.md",
-    "Tech/设计模式/行为型模式/行为型模式.md",
     "Tech/设计模式/行为型模式/策略模式.md",
+    "Tech/设计模式/行为型模式/行为型模式.md",
+    "Tech/设计模式/行为型模式/责任链模式.md",
     "Tech/设计模式/设计模式.md",
     "Tech/设计模式/结构型模式",
     "Tech/设计模式/行为型模式",
