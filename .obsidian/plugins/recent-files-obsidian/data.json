@@ -1,24 +1,44 @@
 {
   "recentFiles": [
     {
+      "basename": "责任链模式",
+      "path": "Tech/设计模式/行为型模式/责任链模式.md"
+    },
+    {
       "basename": "行为型模式",
       "path": "Tech/设计模式/行为型模式/行为型模式.md"
     },
     {
-      "basename": "责任链模式",
-      "path": "Tech/设计模式/行为型模式/责任链模式.md"
+      "basename": "模板模式",
+      "path": "Tech/设计模式/行为型模式/模板模式.md"
+    },
+    {
+      "basename": "观察者模式",
+      "path": "Tech/设计模式/行为型模式/观察者模式.md"
     },
     {
       "basename": "策略模式",
       "path": "Tech/设计模式/行为型模式/策略模式.md"
     },
     {
-      "basename": "设计模式",
-      "path": "Tech/设计模式/设计模式.md"
+      "basename": "创建型模式",
+      "path": "Tech/设计模式/创建型模式/创建型模式.md"
+    },
+    {
+      "basename": "结构型模式",
+      "path": "Tech/设计模式/结构型模式/结构型模式.md"
+    },
+    {
+      "basename": "单例模式",
+      "path": "Tech/设计模式/创建型模式/单例模式.md"
     },
     {
       "basename": "DashBoard",
       "path": "DashBoard.md"
+    },
+    {
+      "basename": "设计模式",
+      "path": "Tech/设计模式/设计模式.md"
     },
     {
       "basename": "README",
@@ -38,11 +58,11 @@
     },
     {
       "basename": "JVM 概述",
-      "path": "Tech/JVM/JVM 概述.md"
+      "path": "Tech/Java/JVM/JVM 概述.md"
     },
     {
       "basename": "类文件结构",
-      "path": "Tech/JVM/类文件结构.md"
+      "path": "Tech/Java/JVM/类文件结构.md"
     },
     {
       "basename": "后端技术笔记模板",
