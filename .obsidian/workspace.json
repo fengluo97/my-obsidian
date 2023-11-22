@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "03130f1583c2e59c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -126,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tech/力扣/刷题计划.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tech/力扣/刷题计划.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tech/力扣/刷题计划.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -202,11 +215,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "850b5ea2b885aeff",
+  "active": "03130f1583c2e59c",
   "lastOpenFiles": [
+    "Tech/力扣/刷题计划.md",
+    "conflict-files-obsidian-git.md",
     "Tech/Java/基础",
     "DashBoard.md",
-    "Tech/力扣/刷题计划.md",
     "Tech/设计模式/行为型模式/行为型模式.md",
     "Tech/设计模式/行为型模式/模板模式.md",
     "Tech/设计模式/行为型模式/观察者模式.md",
@@ -215,7 +229,6 @@
     "Tech/设计模式/结构型模式/结构型模式.md",
     "Tech/设计模式/行为型模式/责任链模式.md",
     "Tech/设计模式/创建型模式/单例模式.md",
-    "conflict-files-obsidian-git.md",
     "Tech/设计模式/结构型模式/适配器模式.md",
     "Tech/设计模式/结构型模式/过滤器模式.md",
     "Tech/设计模式/结构型模式/桥接模式.md",
@@ -242,7 +255,6 @@
     "Tech/RocketMQ/resource/Pasted image 20231113223515.png",
     "Tech/RocketMQ/resource",
     "主页&工作台.md",
-    "未命名",
     "Java Virtual Machine/未命名.canvas"
   ]
 }
