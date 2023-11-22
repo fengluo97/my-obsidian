@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech/设计模式/行为型模式/观察者模式.md",
+                "file": "Tech/设计模式/行为型模式/责任链模式.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tech/设计模式/行为型模式/观察者模式.md",
+                "file": "Tech/设计模式/行为型模式/责任链模式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tech/设计模式/行为型模式/观察者模式.md",
+                "file": "Tech/设计模式/行为型模式/责任链模式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tech/设计模式/行为型模式/观察者模式.md"
+                "file": "Tech/设计模式/行为型模式/责任链模式.md"
               }
             }
           }
@@ -161,8 +161,8 @@
   },
   "active": "1b4b12be00de7f7d",
   "lastOpenFiles": [
-    "Tech/设计模式/行为型模式/策略模式.md",
     "Tech/设计模式/行为型模式/观察者模式.md",
+    "Tech/设计模式/行为型模式/策略模式.md",
     "Tech/设计模式/行为型模式/行为型模式.md",
     "Tech/设计模式/行为型模式/责任链模式.md",
     "Tech/设计模式/结构型模式/适配器模式.md",
