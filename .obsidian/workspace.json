@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "592711c90abffd2d",
+        "id": "23c1d239daf1d11e",
         "type": "tabs",
         "children": [
           {
-            "id": "5d5b4fdc22c5f186",
+            "id": "dc3e1e279cda1c24",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech/力扣/刷题计划.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "03130f1583c2e59c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Tech/MySQL/分库分表.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -139,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Tech/MySQL/分库分表.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Tech/MySQL/分库分表.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Tech/MySQL/分库分表.md"
               }
             }
           },
@@ -215,8 +202,21 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "03130f1583c2e59c",
+  "active": "850b5ea2b885aeff",
   "lastOpenFiles": [
+    "Tech/大数据",
+    "Tech/前端",
+    "Tech/云原生",
+    "未命名",
+    "Tech/大型Web架构",
+    "Tech/分布式三高",
+    "Tech/MySQL/分库分表.md",
+    "Tech/Spring/SpringMVC.md",
+    "Tech/SpringCloud/NacosConfig",
+    "Tech/SpringCloud/Seata",
+    "Tech/设计模式/resource/Pasted image 20231123002429.png",
+    "Tech/设计模式/设计模式.md",
+    "Tech/设计模式/resource",
     "Tech/力扣/刷题计划.md",
     "conflict-files-obsidian-git.md",
     "Tech/Java/基础",
@@ -235,26 +235,15 @@
     "Tech/设计模式/创建型模式/建造者模式.md",
     "Tech/设计模式/创建型模式/工厂模式.md",
     "Tech/设计模式/创建型模式/原型模式.md",
-    "Tech/设计模式/设计模式.md",
     "Tech/设计模式/结构型模式",
-    "Tech/设计模式/行为型模式",
-    "Tech/设计模式/创建型模式",
-    "Tech/SpringCloud/分布式",
     "README.md",
     "Home.md",
-    "Tech/MongoDB",
-    "Tech/ElasticSearch",
     "Tech/RocketMQ/RocketMQ.md",
     "Tech/RocketMQ/RocketMQ 消息发送.md",
     "Tech/RocketMQ/RocketMQ 自测.md",
-    "Tech/SpringCloud",
-    "Tech/Java/JVM/JVM 概述.md",
     "Tech/RocketMQ/resource/Pasted image 20231114003032.png",
     "Tech/RocketMQ/resource/Pasted image 20231113235952.png",
-    "新建文本文档.txt",
     "Tech/RocketMQ/resource/Pasted image 20231113223515.png",
-    "Tech/RocketMQ/resource",
-    "主页&工作台.md",
     "Java Virtual Machine/未命名.canvas"
   ]
 }

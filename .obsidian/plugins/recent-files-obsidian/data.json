@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "分库分表",
+      "path": "Tech/MySQL/分库分表.md"
+    },
+    {
+      "basename": "SpringMVC",
+      "path": "Tech/Spring/SpringMVC.md"
+    },
+    {
+      "basename": "Pasted image 20231123002429",
+      "path": "Tech/设计模式/resource/Pasted image 20231123002429.png"
+    },
+    {
+      "basename": "设计模式",
+      "path": "Tech/设计模式/设计模式.md"
+    },
+    {
       "basename": "刷题计划",
       "path": "Tech/力扣/刷题计划.md"
     },
@@ -39,10 +55,6 @@
     {
       "basename": "单例模式",
       "path": "Tech/设计模式/创建型模式/单例模式.md"
-    },
-    {
-      "basename": "设计模式",
-      "path": "Tech/设计模式/设计模式.md"
     },
     {
       "basename": "README",

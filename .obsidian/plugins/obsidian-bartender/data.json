@@ -28,6 +28,7 @@
       "resource",
       "Life",
       "Tech",
+      "未命名",
       "DashBoard.md",
       "README.md"
     ],
@@ -66,13 +67,10 @@
     "Tech": [
       "Tech/CS",
       "Tech/Java",
-      "Tech/JUC",
-      "Tech/JVM",
       "Tech/设计模式",
       "Tech/Spring",
-      "Tech/SpringMVC",
-      "Tech/SpringBoot",
       "Tech/MyBatis",
+      "Tech/SpringBoot",
       "Tech/MySQL",
       "Tech/Redis",
       "Tech/RocketMQ",
@@ -80,11 +78,21 @@
       "Tech/Zookeeper",
       "Tech/SpringCloud",
       "Tech/Netty",
-      "Tech/SpringSecurity",
       "Tech/Tomcat",
+      "Tech/分布式三高",
+      "Tech/大型Web架构",
       "Tech/ElasticSearch",
       "Tech/MongoDB",
+      "Tech/云原生",
+      "Tech/前端",
+      "Tech/大数据",
       "Tech/力扣"
+    ],
+    "Tech/设计模式": [
+      "Tech/设计模式/设计模式.md",
+      "Tech/设计模式/创建型模式",
+      "Tech/设计模式/结构型模式",
+      "Tech/设计模式/行为型模式"
     ]
   },
   "actionBarOrder": {},
