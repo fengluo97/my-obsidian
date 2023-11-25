@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "DashBoard",
+      "path": "DashBoard.md"
+    },
+    {
+      "basename": "RocketMQ 消息发送",
+      "path": "Tech/RocketMQ/RocketMQ 消息发送.md"
+    },
+    {
+      "basename": "RocketMQ 自测",
+      "path": "Tech/RocketMQ/RocketMQ 自测.md"
+    },
+    {
+      "basename": "RocketMQ",
+      "path": "Tech/RocketMQ/RocketMQ.md"
+    },
+    {
       "basename": "分库分表",
       "path": "Tech/MySQL/分库分表.md"
     },
@@ -19,10 +35,6 @@
     {
       "basename": "刷题计划",
       "path": "Tech/力扣/刷题计划.md"
-    },
-    {
-      "basename": "DashBoard",
-      "path": "DashBoard.md"
     },
     {
       "basename": "责任链模式",
@@ -59,18 +71,6 @@
     {
       "basename": "README",
       "path": "README.md"
-    },
-    {
-      "basename": "RocketMQ 自测",
-      "path": "Tech/RocketMQ/RocketMQ 自测.md"
-    },
-    {
-      "basename": "RocketMQ 消息发送",
-      "path": "Tech/RocketMQ/RocketMQ 消息发送.md"
-    },
-    {
-      "basename": "RocketMQ",
-      "path": "Tech/RocketMQ/RocketMQ.md"
     },
     {
       "basename": "JVM 概述",
