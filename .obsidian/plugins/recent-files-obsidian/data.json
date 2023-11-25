@@ -1,20 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "DashBoard",
-      "path": "DashBoard.md"
+      "basename": "Broker",
+      "path": "Tech/RocketMQ/Broker.md"
     },
     {
-      "basename": "RocketMQ 消息发送",
-      "path": "Tech/RocketMQ/RocketMQ 消息发送.md"
+      "basename": "NameServer",
+      "path": "Tech/RocketMQ/NameServer.md"
+    },
+    {
+      "basename": "RocketMQ",
+      "path": "Tech/RocketMQ/RocketMQ.md"
+    },
+    {
+      "basename": "DashBoard",
+      "path": "DashBoard.md"
     },
     {
       "basename": "RocketMQ 自测",
       "path": "Tech/RocketMQ/RocketMQ 自测.md"
     },
     {
-      "basename": "RocketMQ",
-      "path": "Tech/RocketMQ/RocketMQ.md"
+      "basename": "RocketMQ 消息发送",
+      "path": "Tech/RocketMQ/RocketMQ 消息发送.md"
     },
     {
       "basename": "分库分表",
