@@ -1,6 +1,8 @@
-路由注册 & 剔除机制
+设计理念：简单、高效、职责单一
 
-NameServer 工作流程
+# 路由注册 & 剔除机制
+
+## NameServer 工作流程
 1、Broker 每 30 秒向 NameServer 集群的每一台机器发送一次心跳包，包含自身创建的主题路由信息等
 2、消息客户端每 30 秒向 NameServer 更新对应主题的路由信息
 3、NameServer 在收到 Broker 发送的心跳包时记录时间戳并将其存在 brokerLiveTable 中
@@ -8,10 +10,23 @@ NameServer 工作流程
 5、在网络通信层如果 NameServer 与 Broker 之间的 TCP 连接断开，NameServer 能立即感知 Broker 节点崩溃而不必等待 120 秒，直接删除相关的路由信息
 
 如此以来， NameServer 保证了其设计上的简单性，但是也导致了两个问题：
-1、NameServer 不能实时感知路由信息的变化，即便感知到 broker 失效，也不会主动通知消费客户端
-2、NameServer 节点之间无状态，相互不通信，走的是依靠 broker 每30秒主动上报信息的最终一致性
+1、NameServer 不能实时感知路由信息的变化，即便感知到 broker 失效，也不会主动通知消费客户端，客户端只能在下一次 pull 路由信息时感知到 broker 失效
+2、NameServer 节点之间无状态，相互不通信，是依靠 broker 每30秒主动上报信息的最终一致性
 
-无状态导致的问题
-- 网络分区：如果 BrokerA 和 NameServerA 与 BrokerB、BrokerC和NameServerB、NameServerC 之间形成了网络分区，那么就会导致 NameServer 中的 broker 信息不一致。
-	- 对于消息发送：
+## 路由信息变更不及时的问题
+- 对于消息发送：消息发送默认对 broker 中的队列轮询发送，以实现消息的负载均衡，但是如果某个 broker 失效，由于 NameServer 的不及时，发送者不能立即得知 broker 无法承载，进而导致消息发送失败。
+- 对于消息消费：类似于消息发送，消费者还是会从宕掉的 broker 中拉取消息进行消息，会导致消息拉取失败，此时客户端会在 3 秒后重试，待路由信息更新后引导客户端从从节点开始消费。
 
+消息发送可以通过 发送者的 broker 故障规避解决，哪怕发送重试次数用尽还是发送失败，也可以通过我们的代码捕获失败异常，并记录到 db中，通过定时任务拉取重试来保证消息一定发送成功。
+消息消费失败可以通过 broker 从节点保证消息消费，但是如果 broker 采取的是 异步复制 可能会导致消息丢失。
+
+## 无状态导致的问题
+- 网络分区：如果 BrokerA 和 NameServer1 与 BrokerB、BrokerC和NameServer2 之间形成了网络分区，那么就会导致 NameServer 集群中的 broker 信息不一致。
+	- 对于消息发送：发送者a 连接 NameServer1，查出4个队列，发送的消息都会存储到 BrokerA 中，发送者b 连接 NameServer2，查出8个队列，按照负载均衡策略发送给 BrokerB 和 BrokerC。这样就导致了 BrokerA 与 BrokerB、BrokerC 之间消息发送的不均衡。
+	- 对于消息消费：如果消费者组内所有消费者都连接了同一个 NameServer，将会造成另一个 NameServer 上的 Broker 中的队列没有消费者消费，导致消息无法被消费；如果消费者组内所有消费者都部分连接了，理论上可以被消费。
+对于这类问题，都可以很容易的被监控到，并修复。
+
+
+# 总结
+
+NameServer 路由信息的不一致会导致部分队列消息不被消费、部分队列消息被重复消费，但是只要消费端实现幂等，这些问题都可以很容易恢复。由此可见，RocketMQ 在为了实现高性能上，做了一些权衡。

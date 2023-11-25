@@ -62,7 +62,11 @@
     "Tech/RocketMQ": [
       "Tech/RocketMQ/resource",
       "Tech/RocketMQ/RocketMQ.md",
-      "Tech/RocketMQ/RocketMQ 消息发送.md"
+      "Tech/RocketMQ/发送者.md",
+      "Tech/RocketMQ/消费者.md",
+      "Tech/RocketMQ/NameServer.md",
+      "Tech/RocketMQ/Broker.md",
+      "Tech/RocketMQ/RocketMQ 自测.md"
     ],
     "Tech": [
       "Tech/CS",

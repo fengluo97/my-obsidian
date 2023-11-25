@@ -16,6 +16,8 @@
 
 7、如何保证队列均衡，防止队列倾斜？
 
+8、Rebalance
+
 # 自测题目
 1、[RocketMQ常见问题总结 | JavaGuide(Java面试 + 学习指南)](https://javaguide.cn/high-performance/message-queue/rocketmq-questions.html)
 2、[RocketMQ面试题 - 掘金 (juejin.cn)](https://juejin.cn/post/7066064544837140510#heading-48)

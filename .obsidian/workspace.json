@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech/RocketMQ/Broker.md",
+                "file": "Tech/RocketMQ/发送者.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tech/RocketMQ/Broker.md",
+                "file": "Tech/RocketMQ/发送者.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tech/RocketMQ/Broker.md",
+                "file": "Tech/RocketMQ/发送者.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tech/RocketMQ/Broker.md"
+                "file": "Tech/RocketMQ/发送者.md"
               }
             }
           },
@@ -205,10 +205,13 @@
   "active": "8b45e53670d697de",
   "lastOpenFiles": [
     "Tech/RocketMQ/NameServer.md",
-    "Tech/RocketMQ/Broker.md",
     "Tech/RocketMQ/RocketMQ.md",
-    "DashBoard.md",
+    "Tech/RocketMQ/发送者.md",
+    "Tech/RocketMQ/消费者.md",
+    "Tech/RocketMQ/Broker.md",
+    "Tech/RocketMQ/几大消息中间件类比.md",
     "Tech/RocketMQ/RocketMQ 自测.md",
+    "DashBoard.md",
     "Tech/大数据",
     "Tech/前端",
     "Tech/云原生",
@@ -238,9 +241,6 @@
     "Tech/设计模式/结构型模式/桥接模式.md",
     "Tech/设计模式/创建型模式/建造者模式.md",
     "Tech/设计模式/创建型模式/工厂模式.md",
-    "Tech/设计模式/创建型模式/原型模式.md",
-    "README.md",
-    "Home.md",
     "Tech/RocketMQ/resource/Pasted image 20231114003032.png",
     "Tech/RocketMQ/resource/Pasted image 20231113235952.png",
     "Tech/RocketMQ/resource/Pasted image 20231113223515.png",
