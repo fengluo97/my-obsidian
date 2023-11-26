@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech/RocketMQ/消费者.md",
+                "file": "Tech/RocketMQ/Broker.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tech/RocketMQ/消费者.md",
+                "file": "Tech/RocketMQ/Broker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tech/RocketMQ/消费者.md",
+                "file": "Tech/RocketMQ/Broker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tech/RocketMQ/消费者.md"
+                "file": "Tech/RocketMQ/Broker.md"
               }
             }
           },
@@ -204,15 +204,16 @@
   },
   "active": "139497a028d356c8",
   "lastOpenFiles": [
-    "Tech/RocketMQ/NameServer.md",
+    "Tech/RocketMQ/RocketMQ 是如何保证高可用的？.md",
     "Tech/RocketMQ/RocketMQ 自测.md",
-    "Tech/RocketMQ/Broker.md",
+    "Tech/RocketMQ/NameServer.md",
     "Tech/RocketMQ/消费者.md",
+    "Tech/RocketMQ/RocketMQ 概述.md",
+    "Tech/RocketMQ/几大消息中间件类比.md",
+    "Tech/RocketMQ/Broker.md",
     "Tech/RocketMQ/生产者.md",
-    "Tech/RocketMQ/RocketMQ.md",
     "Tech/RocketMQ/主题.md",
     "DashBoard.md",
-    "Tech/RocketMQ/几大消息中间件类比.md",
     "Tech/大数据",
     "Tech/前端",
     "Tech/云原生",
@@ -240,7 +241,6 @@
     "Tech/设计模式/结构型模式/适配器模式.md",
     "Tech/设计模式/结构型模式/过滤器模式.md",
     "Tech/设计模式/结构型模式/桥接模式.md",
-    "Tech/设计模式/创建型模式/建造者模式.md",
     "Tech/RocketMQ/resource/Pasted image 20231114003032.png",
     "Tech/RocketMQ/resource/Pasted image 20231113235952.png",
     "Tech/RocketMQ/resource/Pasted image 20231113223515.png",

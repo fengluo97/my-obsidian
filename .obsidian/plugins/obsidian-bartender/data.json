@@ -61,7 +61,7 @@
     ],
     "Tech/RocketMQ": [
       "Tech/RocketMQ/resource",
-      "Tech/RocketMQ/RocketMQ.md",
+      "Tech/RocketMQ/RocketMQ 概述.md",
       "Tech/RocketMQ/生产者.md",
       "Tech/RocketMQ/消费者.md",
       "Tech/RocketMQ/NameServer.md",
