@@ -98,6 +98,10 @@
       "Tech/设计模式/创建型模式",
       "Tech/设计模式/结构型模式",
       "Tech/设计模式/行为型模式"
+    ],
+    "Tech/CS": [
+      "Tech/CS/操作系统",
+      "Tech/CS/零拷贝技术.md"
     ]
   },
   "actionBarOrder": {},

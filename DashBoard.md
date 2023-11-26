@@ -9,21 +9,23 @@ banner_y: 0.5
 #todo
 
 
+## 方向
+技术栈：技术体系
+源码篇：Spring、RocketMQ、Dubbo、JDK、Netty、Tomcat
+项目：项目经历
+开源贡献：博客、Github、RocketMQ社区
+算法篇：LeetCode
 
-
-
-
-技术体系
-
+## 技术体系
 内功
-- Java、JVM、JUC、设计模式
+- Java、JVM、JUC、**设计模式**
 - Spring、SpringMVC、SpringBoot、MyBatis、JavaWeb、Maven、Git、SpringSecurity
 数据库
 - JDBC、MySQL与分布式
 微服务
 - Dubbo+ZK、SpringCloud Alibaba
 中间件
-- Redis、RocketMQ/Kafka/RabbitMQ
+- Redis、**RocketMQ**
 - ElasticSearch、MongoDB
 - ElasticJob、Apollo
 神技
