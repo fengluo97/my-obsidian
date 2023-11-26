@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech/RocketMQ/Broker.md",
+                "file": "Tech/RocketMQ/RocketMQ 是如何保证高可用的？.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tech/RocketMQ/Broker.md",
+                "file": "Tech/RocketMQ/RocketMQ 是如何保证高可用的？.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tech/RocketMQ/Broker.md",
+                "file": "Tech/RocketMQ/RocketMQ 是如何保证高可用的？.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tech/RocketMQ/Broker.md"
+                "file": "Tech/RocketMQ/RocketMQ 是如何保证高可用的？.md"
               }
             }
           },
@@ -204,17 +204,19 @@
   },
   "active": "139497a028d356c8",
   "lastOpenFiles": [
+    "Tech/RocketMQ/几大消息中间件类比.md",
+    "Tech/RocketMQ/RocketMQ 是如何保证高可用的？.md",
+    "Tech/RocketMQ/RocketMQ 概述.md",
     "Tech/RocketMQ/NameServer.md",
-    "Tech/RocketMQ/Broker.md",
+    "Tech/RocketMQ/消费者.md",
+    "Tech/RocketMQ/生产者.md",
     "Tech/RocketMQ/RocketMQ 自测.md",
+    "Tech/RocketMQ/Broker.md",
+    "Tech/云原生/k8s",
+    "Tech/云原生/docker",
     "DashBoard.md",
     "Tech/CS/操作系统/零拷贝技术.md",
     "Tech/CS/操作系统",
-    "Tech/RocketMQ/RocketMQ 是如何保证高可用的？.md",
-    "Tech/RocketMQ/消费者.md",
-    "Tech/RocketMQ/RocketMQ 概述.md",
-    "Tech/RocketMQ/几大消息中间件类比.md",
-    "Tech/RocketMQ/生产者.md",
     "Tech/RocketMQ/主题.md",
     "Tech/大数据",
     "Tech/前端",
@@ -225,10 +227,8 @@
     "Tech/MySQL/分库分表.md",
     "Tech/Spring/SpringMVC.md",
     "Tech/SpringCloud/NacosConfig",
-    "Tech/SpringCloud/Seata",
     "Tech/设计模式/resource/Pasted image 20231123002429.png",
     "Tech/设计模式/设计模式.md",
-    "Tech/设计模式/resource",
     "Tech/力扣/刷题计划.md",
     "conflict-files-obsidian-git.md",
     "Tech/设计模式/行为型模式/行为型模式.md",
