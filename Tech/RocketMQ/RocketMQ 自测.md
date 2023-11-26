@@ -28,6 +28,9 @@
 5、[面试必备(背)--RocketMQ八股文系列 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/558139014)
 6、[消息队列面试题之RocketMQ篇，23道RocketMQ八股文（1.1万字45张手绘图），面渣逆袭必看👍 | 二哥的Java进阶之路 (javabetter.cn)](https://javabetter.cn/sidebar/sanfene/rocketmq.html)
 7、[RocketMQ在面试中那些常见问题及答案+汇总 - Java知音号 - 博客园 (cnblogs.com)](https://www.cnblogs.com/javazhiyin/p/13327925.html)
+8、[RocketMQ消费者的负载均衡策有哪些_云消息队列 RocketMQ 版-阿里云帮助中心 (aliyun.com)](https://help.aliyun.com/zh/apsaramq-for-rocketmq/cloud-message-queue-rocketmq-5-x-series/developer-reference/load-balancing-policies-for-consumers?spm=a2c4g.11186623.0.0.1fc93d06lIa1DS)
+9、[基本最佳实践 | RocketMQ (apache.org)](https://rocketmq.apache.org/zh/docs/bestPractice/01bestpractice/)
+
 
 
 

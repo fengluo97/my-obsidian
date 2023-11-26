@@ -1,36 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "RocketMQ 自测",
-      "path": "Tech/RocketMQ/RocketMQ 自测.md"
-    },
-    {
-      "basename": "几大消息中间件类比",
-      "path": "Tech/RocketMQ/几大消息中间件类比.md"
-    },
-    {
       "basename": "RocketMQ",
       "path": "Tech/RocketMQ/RocketMQ.md"
     },
     {
-      "basename": "发送者",
-      "path": "Tech/RocketMQ/发送者.md"
-    },
-    {
-      "basename": "Broker",
-      "path": "Tech/RocketMQ/Broker.md"
-    },
-    {
-      "basename": "NameServer",
-      "path": "Tech/RocketMQ/NameServer.md"
+      "basename": "生产者",
+      "path": "Tech/RocketMQ/生产者.md"
     },
     {
       "basename": "消费者",
       "path": "Tech/RocketMQ/消费者.md"
     },
     {
+      "basename": "Broker",
+      "path": "Tech/RocketMQ/Broker.md"
+    },
+    {
+      "basename": "RocketMQ 自测",
+      "path": "Tech/RocketMQ/RocketMQ 自测.md"
+    },
+    {
+      "basename": "NameServer",
+      "path": "Tech/RocketMQ/NameServer.md"
+    },
+    {
       "basename": "DashBoard",
       "path": "DashBoard.md"
+    },
+    {
+      "basename": "几大消息中间件类比",
+      "path": "Tech/RocketMQ/几大消息中间件类比.md"
     },
     {
       "basename": "分库分表",
