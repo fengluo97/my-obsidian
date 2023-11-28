@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "ZooKeeper",
+      "path": "Tech/Zookeeper/ZooKeeper.md"
+    },
+    {
+      "basename": "DashBoard",
+      "path": "DashBoard.md"
+    },
+    {
       "basename": "RocketMQ 是如何保证高可用的？",
       "path": "Tech/RocketMQ/RocketMQ 是如何保证高可用的？.md"
     },
@@ -31,10 +39,6 @@
     {
       "basename": "Broker",
       "path": "Tech/RocketMQ/Broker.md"
-    },
-    {
-      "basename": "DashBoard",
-      "path": "DashBoard.md"
     },
     {
       "basename": "零拷贝技术",
