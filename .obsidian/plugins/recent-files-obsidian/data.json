@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "ZooKeeper",
-      "path": "Tech/Zookeeper/ZooKeeper.md"
+      "basename": "索引",
+      "path": "Tech/MySQL/索引.md"
+    },
+    {
+      "basename": "分库分表",
+      "path": "Tech/MySQL/分库分表.md"
     },
     {
       "basename": "DashBoard",
       "path": "DashBoard.md"
+    },
+    {
+      "basename": "ZooKeeper",
+      "path": "Tech/Zookeeper/ZooKeeper.md"
     },
     {
       "basename": "RocketMQ 是如何保证高可用的？",
@@ -43,10 +51,6 @@
     {
       "basename": "零拷贝技术",
       "path": "Tech/CS/操作系统/零拷贝技术.md"
-    },
-    {
-      "basename": "分库分表",
-      "path": "Tech/MySQL/分库分表.md"
     },
     {
       "basename": "SpringMVC",
