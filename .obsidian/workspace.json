@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DashBoard.md",
+                "file": "Tech/MySQL/索引.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DashBoard.md",
+                "file": "Tech/MySQL/索引.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DashBoard.md",
+                "file": "Tech/MySQL/索引.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DashBoard.md"
+                "file": "Tech/MySQL/索引.md"
               }
             }
           },
@@ -204,9 +204,9 @@
   },
   "active": "ba9ba41c13464d03",
   "lastOpenFiles": [
+    "DashBoard.md",
     "Tech/MySQL/分库分表.md",
     "Tech/MySQL/索引.md",
-    "DashBoard.md",
     "Tech/Zookeeper/ZooKeeper.md",
     "Tech/RocketMQ/几大消息中间件类比.md",
     "Tech/RocketMQ/RocketMQ 是如何保证高可用的？.md",
