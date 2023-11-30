@@ -1,16 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "DashBoard",
+      "path": "DashBoard.md"
+    },
+    {
       "basename": "索引",
       "path": "Tech/MySQL/索引.md"
     },
     {
       "basename": "分库分表",
       "path": "Tech/MySQL/分库分表.md"
-    },
-    {
-      "basename": "DashBoard",
-      "path": "DashBoard.md"
     },
     {
       "basename": "ZooKeeper",
