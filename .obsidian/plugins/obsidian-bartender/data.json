@@ -102,6 +102,18 @@
     "Tech/CS": [
       "Tech/CS/操作系统",
       "Tech/CS/零拷贝技术.md"
+    ],
+    "Tech/MySQL": [
+      "Tech/MySQL/架构.md",
+      "Tech/MySQL/内存数据结构.md",
+      "Tech/MySQL/索引.md",
+      "Tech/MySQL/日志.md",
+      "Tech/MySQL/事务.md",
+      "Tech/MySQL/锁.md",
+      "Tech/MySQL/主从读写分离.md",
+      "Tech/MySQL/分库分表.md",
+      "Tech/MySQL/数据同步canal.md",
+      "Tech/MySQL/自测题.md"
     ]
   },
   "actionBarOrder": {},

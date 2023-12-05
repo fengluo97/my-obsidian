@@ -18,10 +18,10 @@ Redis 学习&笔记总结
 业务学习-门店管理域 & 门店标签
 
 1月
-Spring、MyBatis、SpringBoot、Tomcat
+JVM、JUC、Java
 
 2月
-JVM、JUC、Java
+Spring、MyBatis、SpringBoot、Tomcat
 
 3月（leetcode、github）
 Dubbo、ZK、Netty
@@ -32,7 +32,8 @@ SpringCloud、分布式三高、大型Web架构
 总结复盘，做点有意思的事情
 
 5月
-ES、MongoDB、Linux、Docker、K8s、计算机基础
+计算机基础
+稍微看看：ES、MongoDB、Linux、Docker、K8s
 总结复盘，做点有意思的事情
 
 6月
