@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech/MySQL/主从读写分离.md",
+                "file": "Tech/MySQL/锁.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tech/MySQL/主从读写分离.md",
+                "file": "Tech/MySQL/锁.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tech/MySQL/主从读写分离.md",
+                "file": "Tech/MySQL/锁.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tech/MySQL/主从读写分离.md"
+                "file": "Tech/MySQL/锁.md"
               }
             }
           },
@@ -204,6 +204,7 @@
   },
   "active": "ddacc6554a31020c",
   "lastOpenFiles": [
+    "Tech/MySQL/主从读写分离.md",
     "Tech/MySQL/分库分表.md",
     "Tech/MySQL/自测与补充.md",
     "Tech/RocketMQ/RocketMQ 自测与补充.md",
@@ -215,7 +216,6 @@
     "Tech/RocketMQ/几大消息中间件类比.md",
     "Tech/RocketMQ/RocketMQ 概述.md",
     "Tech/MySQL/数据同步canal.md",
-    "Tech/MySQL/主从读写分离.md",
     "Tech/MySQL/锁.md",
     "Tech/MySQL/事务.md",
     "Tech/MySQL/日志.md",
