@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9f0fc29dc7e423f2",
+        "id": "fbc789219bfab8f7",
         "type": "tabs",
         "children": [
           {
-            "id": "ddacc6554a31020c",
+            "id": "95222ffb9740bd10",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech/MySQL/锁.md",
+                "file": "DashBoard.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tech/MySQL/锁.md",
+                "file": "DashBoard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tech/MySQL/锁.md",
+                "file": "DashBoard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tech/MySQL/锁.md"
+                "file": "DashBoard.md"
               }
             }
           },
@@ -202,7 +202,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ddacc6554a31020c",
+  "active": "95222ffb9740bd10",
   "lastOpenFiles": [
     "Tech/MySQL/主从读写分离.md",
     "Tech/MySQL/分库分表.md",
