@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "索引",
+      "path": "Tech/MySQL/索引.md"
+    },
+    {
+      "basename": "内存数据结构",
+      "path": "Tech/MySQL/内存数据结构.md"
+    },
+    {
+      "basename": "架构",
+      "path": "Tech/MySQL/架构.md"
+    },
+    {
+      "basename": "自测与补充",
+      "path": "Tech/MySQL/自测与补充.md"
+    },
+    {
       "basename": "DashBoard",
       "path": "DashBoard.md"
     },
@@ -15,10 +31,6 @@
     {
       "basename": "分库分表",
       "path": "Tech/MySQL/分库分表.md"
-    },
-    {
-      "basename": "自测与补充",
-      "path": "Tech/MySQL/自测与补充.md"
     },
     {
       "basename": "RocketMQ 自测与补充",
@@ -63,18 +75,6 @@
     {
       "basename": "日志",
       "path": "Tech/MySQL/日志.md"
-    },
-    {
-      "basename": "索引",
-      "path": "Tech/MySQL/索引.md"
-    },
-    {
-      "basename": "内存数据结构",
-      "path": "Tech/MySQL/内存数据结构.md"
-    },
-    {
-      "basename": "架构",
-      "path": "Tech/MySQL/架构.md"
     },
     {
       "basename": "ZooKeeper",

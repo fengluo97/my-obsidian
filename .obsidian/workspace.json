@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DashBoard.md",
+                "file": "Tech/MySQL/索引.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DashBoard.md",
+                "file": "Tech/MySQL/索引.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DashBoard.md",
+                "file": "Tech/MySQL/索引.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DashBoard.md"
+                "file": "Tech/MySQL/索引.md"
               }
             }
           },
@@ -204,9 +204,13 @@
   },
   "active": "95222ffb9740bd10",
   "lastOpenFiles": [
+    "Tech/MySQL/内存数据结构.md",
+    "Tech/MySQL/索引.md",
+    "Tech/MySQL/架构.md",
+    "Tech/MySQL/自测与补充.md",
+    "DashBoard.md",
     "Tech/MySQL/主从读写分离.md",
     "Tech/MySQL/分库分表.md",
-    "Tech/MySQL/自测与补充.md",
     "Tech/RocketMQ/RocketMQ 自测与补充.md",
     "Tech/RocketMQ/RocketMQ 是如何保证高可用的？.md",
     "Tech/RocketMQ/Broker.md",
@@ -219,10 +223,6 @@
     "Tech/MySQL/锁.md",
     "Tech/MySQL/事务.md",
     "Tech/MySQL/日志.md",
-    "Tech/MySQL/索引.md",
-    "Tech/MySQL/内存数据结构.md",
-    "Tech/MySQL/架构.md",
-    "DashBoard.md",
     "Tech/Zookeeper/ZooKeeper.md",
     "Tech/云原生/k8s",
     "Tech/云原生/docker",
