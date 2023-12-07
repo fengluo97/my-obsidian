@@ -1,20 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "DashBoard",
-      "path": "DashBoard.md"
-    },
-    {
       "basename": "索引",
       "path": "Tech/MySQL/索引.md"
+    },
+    {
+      "basename": "架构",
+      "path": "Tech/MySQL/架构.md"
     },
     {
       "basename": "内存数据结构",
       "path": "Tech/MySQL/内存数据结构.md"
     },
     {
-      "basename": "架构",
-      "path": "Tech/MySQL/架构.md"
+      "basename": "消费者",
+      "path": "Tech/RocketMQ/消费者.md"
+    },
+    {
+      "basename": "RocketMQ 概述",
+      "path": "Tech/RocketMQ/RocketMQ 概述.md"
+    },
+    {
+      "basename": "DashBoard",
+      "path": "DashBoard.md"
     },
     {
       "basename": "自测与补充",
@@ -49,20 +57,12 @@
       "path": "Tech/RocketMQ/NameServer.md"
     },
     {
-      "basename": "消费者",
-      "path": "Tech/RocketMQ/消费者.md"
-    },
-    {
       "basename": "生产者",
       "path": "Tech/RocketMQ/生产者.md"
     },
     {
       "basename": "几大消息中间件类比",
       "path": "Tech/RocketMQ/几大消息中间件类比.md"
-    },
-    {
-      "basename": "RocketMQ 概述",
-      "path": "Tech/RocketMQ/RocketMQ 概述.md"
     },
     {
       "basename": "数据同步canal",
