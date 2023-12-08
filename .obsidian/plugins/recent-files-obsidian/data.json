@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "DashBoard",
+      "path": "DashBoard.md"
+    },
+    {
       "basename": "索引",
       "path": "Tech/MySQL/索引.md"
     },
@@ -19,10 +23,6 @@
     {
       "basename": "RocketMQ 概述",
       "path": "Tech/RocketMQ/RocketMQ 概述.md"
-    },
-    {
-      "basename": "DashBoard",
-      "path": "DashBoard.md"
     },
     {
       "basename": "自测与补充",
