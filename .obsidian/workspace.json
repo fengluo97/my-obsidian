@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9ca974a9a01b677d",
+        "id": "e905c6d2c912d738",
         "type": "tabs",
         "children": [
           {
-            "id": "f8baa4f3b6cd27ea",
+            "id": "ccd884f7fb5bf59e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -202,7 +202,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f8baa4f3b6cd27ea",
+  "active": "ccd884f7fb5bf59e",
   "lastOpenFiles": [
     "Tech/MySQL/resource/Pasted image 20231207234412.png",
     "Tech/MySQL/resource/Pasted image 20231207234321.png",
