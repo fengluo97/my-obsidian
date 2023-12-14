@@ -104,6 +104,7 @@
       "Tech/CS/零拷贝技术.md"
     ],
     "Tech/MySQL": [
+      "Tech/MySQL/resource",
       "Tech/MySQL/架构.md",
       "Tech/MySQL/内存数据结构.md",
       "Tech/MySQL/索引.md",
@@ -113,7 +114,8 @@
       "Tech/MySQL/主从读写分离.md",
       "Tech/MySQL/分库分表.md",
       "Tech/MySQL/数据同步canal.md",
-      "Tech/MySQL/自测题.md"
+      "Tech/MySQL/字段类型与使用.md",
+      "Tech/MySQL/自测与补充.md"
     ]
   },
   "actionBarOrder": {},
