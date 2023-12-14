@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech/MySQL/索引.md",
+                "file": "Tech/MySQL/事务.md",
                 "mode": "source",
                 "source": false
               }
@@ -71,7 +71,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tech/MySQL/索引.md"
+                "file": "Tech/MySQL/事务.md"
               }
             }
           }
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tech/MySQL/索引.md",
+                "file": "Tech/MySQL/事务.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tech/MySQL/索引.md",
+                "file": "Tech/MySQL/事务.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,10 +212,10 @@
   "active": "452ac05c4835ac7a",
   "lastOpenFiles": [
     "Tech/MySQL/日志.md",
+    "Tech/MySQL/索引.md",
     "Tech/MySQL/事务.md",
     "Tech/MySQL/主从读写分离.md",
     "Tech/MySQL/自测与补充.md",
-    "Tech/MySQL/索引.md",
     "DashBoard.md",
     "Tech/MySQL/resource/Pasted image 20231214235458.png",
     "Tech/MySQL/架构.md",

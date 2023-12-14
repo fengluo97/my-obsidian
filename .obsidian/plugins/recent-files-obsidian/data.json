@@ -1,8 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "索引",
-      "path": "Tech/MySQL/索引.md"
+      "basename": "DashBoard",
+      "path": "DashBoard.md"
     },
     {
       "basename": "日志",
@@ -13,16 +13,16 @@
       "path": "Tech/MySQL/事务.md"
     },
     {
+      "basename": "索引",
+      "path": "Tech/MySQL/索引.md"
+    },
+    {
       "basename": "主从读写分离",
       "path": "Tech/MySQL/主从读写分离.md"
     },
     {
       "basename": "自测与补充",
       "path": "Tech/MySQL/自测与补充.md"
-    },
-    {
-      "basename": "DashBoard",
-      "path": "DashBoard.md"
     },
     {
       "basename": "架构",
