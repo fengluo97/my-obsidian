@@ -1,28 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "维生素矿物质补剂",
-      "path": "Life/健康/维生素矿物质补剂.md"
-    },
-    {
-      "basename": "皮肤",
-      "path": "Life/健康/皮肤.md"
-    },
-    {
-      "basename": "核心要义",
-      "path": "Life/健康/核心要义.md"
+      "basename": "索引",
+      "path": "Tech/MySQL/索引.md"
     },
     {
       "basename": "DashBoard",
       "path": "DashBoard.md"
     },
     {
-      "basename": "索引",
-      "path": "Tech/MySQL/索引.md"
-    },
-    {
       "basename": "日志",
       "path": "Tech/MySQL/日志.md"
+    },
+    {
+      "basename": "锁",
+      "path": "Tech/MySQL/锁.md"
+    },
+    {
+      "basename": "主从读写分离",
+      "path": "Tech/MySQL/主从读写分离.md"
+    },
+    {
+      "basename": "分库分表",
+      "path": "Tech/MySQL/分库分表.md"
+    },
+    {
+      "basename": "自测与补充",
+      "path": "Tech/MySQL/自测与补充.md"
+    },
+    {
+      "basename": "营养补剂",
+      "path": "Life/健康/营养补剂.md"
+    },
+    {
+      "basename": "核心要义",
+      "path": "Life/健康/核心要义.md"
+    },
+    {
+      "basename": "皮肤与牙齿",
+      "path": "Life/健康/皮肤与牙齿.md"
     },
     {
       "basename": "内存数据结构",
@@ -31,10 +47,6 @@
     {
       "basename": "架构",
       "path": "Tech/MySQL/架构.md"
-    },
-    {
-      "basename": "自测与补充",
-      "path": "Tech/MySQL/自测与补充.md"
     },
     {
       "basename": "字段类型与使用",
@@ -47,18 +59,6 @@
     {
       "basename": "事务",
       "path": "Tech/MySQL/事务.md"
-    },
-    {
-      "basename": "主从读写分离",
-      "path": "Tech/MySQL/主从读写分离.md"
-    },
-    {
-      "basename": "分库分表",
-      "path": "Tech/MySQL/分库分表.md"
-    },
-    {
-      "basename": "锁",
-      "path": "Tech/MySQL/锁.md"
     },
     {
       "basename": "Pasted image 20231207234321",

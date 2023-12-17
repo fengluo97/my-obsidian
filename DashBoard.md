@@ -13,12 +13,13 @@ banner_y: 0.5
 12月
 RocketMQ 学习&笔记总结 rocket如何实现高可用
 MySQL 学习&笔记总结 索引解析
-Redis 学习&笔记总结
 转正
 业务学习-门店管理域 & 门店标签
 
 1月
+Redis 学习&笔记总结
 JVM、JUC、Java
+业务学习-门店管理域 & 门店标签
 
 2月
 Spring、MyBatis、SpringBoot、Tomcat

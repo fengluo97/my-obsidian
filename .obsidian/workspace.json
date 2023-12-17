@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Life/健康/维生素矿物质补剂.md",
+                "file": "Tech/MySQL/索引.md",
                 "mode": "source",
                 "source": false
               }
@@ -71,7 +71,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Life/健康/维生素矿物质补剂.md"
+                "file": "Tech/MySQL/索引.md"
               }
             }
           }
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Life/健康/维生素矿物质补剂.md",
+                "file": "Tech/MySQL/索引.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Life/健康/维生素矿物质补剂.md",
+                "file": "Tech/MySQL/索引.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,24 +211,24 @@
   },
   "active": "b98a515e80616366",
   "lastOpenFiles": [
-    "Life/健康/皮肤.md",
-    "Life/健康/核心要义.md",
-    "Life/健康/维生素矿物质补剂.md",
     "DashBoard.md",
-    "Life/健康",
-    "Tech/MySQL/日志.md",
     "Tech/MySQL/索引.md",
+    "Tech/MySQL/日志.md",
+    "Tech/MySQL/锁.md",
+    "Tech/MySQL/主从读写分离.md",
+    "Tech/MySQL/分库分表.md",
+    "Tech/MySQL/自测与补充.md",
+    "Life/健康/营养补剂.md",
+    "Life/健康/核心要义.md",
+    "Life/健康/皮肤与牙齿.md",
+    "Life/健康",
     "Tech/MySQL/内存数据结构.md",
     "Tech/MySQL/架构.md",
-    "Tech/MySQL/自测与补充.md",
     "Tech/MySQL/字段类型与使用.md",
     "Tech/MySQL/数据同步canal.md",
     "Tech/MySQL/事务.md",
-    "Tech/MySQL/主从读写分离.md",
-    "Tech/MySQL/分库分表.md",
     "Tech/MySQL/resource/Pasted image 20231214235458.png",
     "Tech/MySQL/未命名.md",
-    "Tech/MySQL/锁.md",
     "Tech/MySQL/resource/Pasted image 20231207234321.png",
     "Tech/MySQL/resource/Pasted image 20231207234308.png",
     "Tech/MySQL/resource/Pasted image 20231207234412.png",
