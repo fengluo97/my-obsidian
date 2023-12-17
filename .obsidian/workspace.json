@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b330027d09cbea0b",
+        "id": "aa3f2ef5011c647c",
         "type": "tabs",
         "children": [
           {
-            "id": "7ca256d727dbd2ad",
+            "id": "b98a515e80616366",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DashBoard.md",
+                "file": "Life/健康/维生素矿物质补剂.md",
                 "mode": "source",
                 "source": false
               }
@@ -71,7 +71,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DashBoard.md"
+                "file": "Life/健康/维生素矿物质补剂.md"
               }
             }
           }
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DashBoard.md",
+                "file": "Life/健康/维生素矿物质补剂.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DashBoard.md",
+                "file": "Life/健康/维生素矿物质补剂.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,8 +209,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7ca256d727dbd2ad",
+  "active": "b98a515e80616366",
   "lastOpenFiles": [
+    "Life/健康/皮肤.md",
+    "Life/健康/核心要义.md",
+    "Life/健康/维生素矿物质补剂.md",
+    "DashBoard.md",
+    "Life/健康",
     "Tech/MySQL/日志.md",
     "Tech/MySQL/索引.md",
     "Tech/MySQL/内存数据结构.md",
@@ -221,7 +226,6 @@
     "Tech/MySQL/事务.md",
     "Tech/MySQL/主从读写分离.md",
     "Tech/MySQL/分库分表.md",
-    "DashBoard.md",
     "Tech/MySQL/resource/Pasted image 20231214235458.png",
     "Tech/MySQL/未命名.md",
     "Tech/MySQL/锁.md",
@@ -242,14 +246,11 @@
     "Tech/云原生/docker",
     "Tech/CS/操作系统/零拷贝技术.md",
     "Tech/CS/操作系统",
-    "Tech/RocketMQ/主题.md",
     "Tech/大数据",
     "Tech/前端",
     "Tech/云原生",
     "未命名",
     "Tech/大型Web架构",
-    "Tech/分布式三高",
-    "Tech/Spring/SpringMVC.md",
     "Tech/设计模式/resource/Pasted image 20231123002429.png",
     "Tech/RocketMQ/resource/Pasted image 20231114003032.png",
     "Tech/RocketMQ/resource/Pasted image 20231113235952.png",
