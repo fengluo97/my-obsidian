@@ -1,16 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "DashBoard",
-      "path": "DashBoard.md"
-    },
-    {
       "basename": "索引",
       "path": "Tech/MySQL/索引.md"
     },
     {
+      "basename": "经验",
+      "path": "Tech/经验.md"
+    },
+    {
       "basename": "日志",
       "path": "Tech/MySQL/日志.md"
+    },
+    {
+      "basename": "核心要义",
+      "path": "Life/健康/核心要义.md"
+    },
+    {
+      "basename": "营养补剂",
+      "path": "Life/健康/营养补剂.md"
+    },
+    {
+      "basename": "形象管理",
+      "path": "Life/健康/形象管理.md"
+    },
+    {
+      "basename": "身材管理",
+      "path": "Life/健康/身材管理.md"
+    },
+    {
+      "basename": "DashBoard",
+      "path": "DashBoard.md"
     },
     {
       "basename": "锁",
@@ -27,18 +47,6 @@
     {
       "basename": "自测与补充",
       "path": "Tech/MySQL/自测与补充.md"
-    },
-    {
-      "basename": "营养补剂",
-      "path": "Life/健康/营养补剂.md"
-    },
-    {
-      "basename": "核心要义",
-      "path": "Life/健康/核心要义.md"
-    },
-    {
-      "basename": "皮肤与牙齿",
-      "path": "Life/健康/皮肤与牙齿.md"
     },
     {
       "basename": "内存数据结构",

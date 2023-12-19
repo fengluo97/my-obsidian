@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DashBoard.md",
+                "file": "Tech/MySQL/索引.md",
                 "mode": "source",
                 "source": false
               }
@@ -71,7 +71,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DashBoard.md"
+                "file": "Tech/MySQL/索引.md"
               }
             }
           }
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DashBoard.md",
+                "file": "Tech/MySQL/索引.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DashBoard.md",
+                "file": "Tech/MySQL/索引.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,16 +211,19 @@
   },
   "active": "1052c3d16c41b5eb",
   "lastOpenFiles": [
-    "DashBoard.md",
+    "Tech/MySQL/resource/Pasted image 20231220003941.png",
+    "Tech/经验.md",
     "Tech/MySQL/索引.md",
     "Tech/MySQL/日志.md",
+    "Life/健康/核心要义.md",
+    "Life/健康/营养补剂.md",
+    "Life/健康/形象管理.md",
+    "Life/健康/身材管理.md",
+    "DashBoard.md",
     "Tech/MySQL/锁.md",
     "Tech/MySQL/主从读写分离.md",
     "Tech/MySQL/分库分表.md",
     "Tech/MySQL/自测与补充.md",
-    "Life/健康/营养补剂.md",
-    "Life/健康/核心要义.md",
-    "Life/健康/皮肤与牙齿.md",
     "Life/健康",
     "Tech/MySQL/内存数据结构.md",
     "Tech/MySQL/架构.md",
@@ -240,11 +243,8 @@
     "Tech/RocketMQ/Broker.md",
     "Tech/RocketMQ/NameServer.md",
     "Tech/RocketMQ/生产者.md",
-    "Tech/RocketMQ/几大消息中间件类比.md",
-    "Tech/Zookeeper/ZooKeeper.md",
     "Tech/云原生/k8s",
     "Tech/云原生/docker",
-    "Tech/CS/操作系统/零拷贝技术.md",
     "Tech/CS/操作系统",
     "Tech/大数据",
     "Tech/前端",
