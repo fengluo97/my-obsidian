@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Life/健康/形象管理.md",
+                "file": "Tech/MySQL/索引.md",
                 "mode": "source",
                 "source": false
               }
@@ -71,7 +71,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Life/健康/形象管理.md"
+                "file": "Tech/MySQL/索引.md"
               }
             }
           }
@@ -105,7 +105,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 370.5
+    "width": 370.5,
+    "collapsed": true
   },
   "right": {
     "id": "154e219a70cee5f6",
@@ -143,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Life/健康/形象管理.md",
+                "file": "Tech/MySQL/索引.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Life/健康/形象管理.md",
+                "file": "Tech/MySQL/索引.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,30 +212,35 @@
   },
   "active": "05774f4241ca5ab1",
   "lastOpenFiles": [
+    "Tech/MySQL/日志.md",
+    "Tech/MySQL/索引.md",
+    "Tech/MySQL/自测与补充.md",
+    "Tech/MySQL/事务.md",
+    "Tech/MySQL/主从读写分离.md",
+    "Tech/MySQL/锁.md",
+    "Tech/MySQL/架构.md",
+    "Tech/经验.md",
+    "Tech/MySQL/resource/Pasted image 20231220215113.png",
+    "Tech/MySQL/resource/Pasted image 20231220213407.png",
+    "Tech/MySQL/resource/Pasted image 20231220213307.png",
+    "Tech/MySQL/resource/Pasted image 20231220212959.png",
+    "Tech/MySQL/resource/Pasted image 20231220212819.png",
+    "Tech/MySQL/resource/Pasted image 20231220212753.png",
+    "Tech/MySQL/内存数据结构.md",
+    "Life/健康/形象管理.md",
     "Life/健康/核心要义.md",
     "Life/健康/身材管理.md",
-    "Life/健康/形象管理.md",
     "Life/健康/营养补剂.md",
     "DashBoard.md",
     "Tech/MySQL/resource/Pasted image 20231220003941.png",
-    "Tech/经验.md",
-    "Tech/MySQL/索引.md",
-    "Tech/MySQL/日志.md",
-    "Tech/MySQL/锁.md",
-    "Tech/MySQL/主从读写分离.md",
     "Tech/MySQL/分库分表.md",
-    "Tech/MySQL/自测与补充.md",
     "Life/健康",
-    "Tech/MySQL/内存数据结构.md",
-    "Tech/MySQL/架构.md",
     "Tech/MySQL/字段类型与使用.md",
     "Tech/MySQL/数据同步canal.md",
-    "Tech/MySQL/事务.md",
     "Tech/MySQL/resource/Pasted image 20231214235458.png",
     "Tech/MySQL/未命名.md",
     "Tech/MySQL/resource/Pasted image 20231207234321.png",
     "Tech/MySQL/resource/Pasted image 20231207234308.png",
-    "Tech/MySQL/resource/Pasted image 20231207234412.png",
     "Tech/MySQL/resource",
     "Tech/RocketMQ/消费者.md",
     "Tech/RocketMQ/RocketMQ 概述.md",
@@ -251,10 +257,6 @@
     "Tech/云原生",
     "未命名",
     "Tech/大型Web架构",
-    "Tech/设计模式/resource/Pasted image 20231123002429.png",
-    "Tech/RocketMQ/resource/Pasted image 20231114003032.png",
-    "Tech/RocketMQ/resource/Pasted image 20231113235952.png",
-    "Tech/RocketMQ/resource/Pasted image 20231113223515.png",
     "Java Virtual Machine/未命名.canvas"
   ]
 }
