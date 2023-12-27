@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DashBoard.md",
+                "file": "Tech/开源/自己实现一个数据库连接池.md",
                 "mode": "source",
                 "source": false
               }
@@ -71,7 +71,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DashBoard.md"
+                "file": "Tech/开源/自己实现一个数据库连接池.md"
               }
             }
           }
@@ -105,8 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 370.5,
-    "collapsed": true
+    "width": 370.5
   },
   "right": {
     "id": "154e219a70cee5f6",
@@ -144,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DashBoard.md",
+                "file": "Tech/开源/自己实现一个数据库连接池.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DashBoard.md",
+                "file": "Tech/开源/自己实现一个数据库连接池.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,6 +211,11 @@
   },
   "active": "6213625283269a35",
   "lastOpenFiles": [
+    "Tech/开源/resource/Pasted image 20231227222444.png",
+    "Tech/开源/resource",
+    "DashBoard.md",
+    "Tech/开源/自己实现一个数据库连接池.md",
+    "Tech/开源",
     "Tech/MySQL/日志.md",
     "Tech/MySQL/索引.md",
     "Tech/MySQL/自测与补充.md",
@@ -231,7 +235,6 @@
     "Life/健康/核心要义.md",
     "Life/健康/身材管理.md",
     "Life/健康/营养补剂.md",
-    "DashBoard.md",
     "Tech/MySQL/resource/Pasted image 20231220003941.png",
     "Tech/MySQL/分库分表.md",
     "Life/健康",
@@ -248,15 +251,12 @@
     "Tech/RocketMQ/RocketMQ 是如何保证高可用的？.md",
     "Tech/RocketMQ/Broker.md",
     "Tech/RocketMQ/NameServer.md",
-    "Tech/RocketMQ/生产者.md",
     "Tech/云原生/k8s",
     "Tech/云原生/docker",
     "Tech/CS/操作系统",
     "Tech/大数据",
     "Tech/前端",
     "Tech/云原生",
-    "未命名",
-    "Tech/大型Web架构",
     "Java Virtual Machine/未命名.canvas"
   ]
 }
