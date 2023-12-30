@@ -1,8 +1,44 @@
 {
   "recentFiles": [
     {
+      "basename": "营养补剂",
+      "path": "Life/健康/营养补剂.md"
+    },
+    {
+      "basename": "核心要义",
+      "path": "Life/健康/核心要义.md"
+    },
+    {
+      "basename": "身材管理",
+      "path": "Life/健康/身材管理.md"
+    },
+    {
+      "basename": "形象管理",
+      "path": "Life/健康/形象管理.md"
+    },
+    {
       "basename": "Spring Framework",
       "path": "Tech/Spring/Spring Framework.md"
+    },
+    {
+      "basename": "注解大合集",
+      "path": "Tech/Spring/注解大合集.md"
+    },
+    {
+      "basename": "集合",
+      "path": "Tech/Java/基础/集合.md"
+    },
+    {
+      "basename": "注解",
+      "path": "Tech/Java/基础/注解.md"
+    },
+    {
+      "basename": "泛型",
+      "path": "Tech/Java/基础/泛型.md"
+    },
+    {
+      "basename": "反射",
+      "path": "Tech/Java/基础/反射.md"
     },
     {
       "basename": "DashBoard",
@@ -47,22 +83,6 @@
     {
       "basename": "内存数据结构",
       "path": "Tech/MySQL/内存数据结构.md"
-    },
-    {
-      "basename": "形象管理",
-      "path": "Life/健康/形象管理.md"
-    },
-    {
-      "basename": "核心要义",
-      "path": "Life/健康/核心要义.md"
-    },
-    {
-      "basename": "身材管理",
-      "path": "Life/健康/身材管理.md"
-    },
-    {
-      "basename": "营养补剂",
-      "path": "Life/健康/营养补剂.md"
     },
     {
       "basename": "分库分表",
@@ -179,22 +199,6 @@
     {
       "basename": "README",
       "path": "README.md"
-    },
-    {
-      "basename": "JVM 概述",
-      "path": "Tech/Java/JVM/JVM 概述.md"
-    },
-    {
-      "basename": "类文件结构",
-      "path": "Tech/Java/JVM/类文件结构.md"
-    },
-    {
-      "basename": "后端技术笔记模板",
-      "path": "resource/template/后端技术笔记模板.md"
-    },
-    {
-      "basename": "力扣模板",
-      "path": "resource/template/力扣模板.md"
     }
   ],
   "omittedPaths": [],
