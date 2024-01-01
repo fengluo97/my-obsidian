@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Spring Framework",
+      "path": "Tech/Spring/Spring Framework.md"
+    },
+    {
+      "basename": "DashBoard",
+      "path": "DashBoard.md"
+    },
+    {
       "basename": "营养补剂",
       "path": "Life/健康/营养补剂.md"
     },
@@ -15,10 +23,6 @@
     {
       "basename": "形象管理",
       "path": "Life/健康/形象管理.md"
-    },
-    {
-      "basename": "Spring Framework",
-      "path": "Tech/Spring/Spring Framework.md"
     },
     {
       "basename": "注解大合集",
@@ -39,10 +43,6 @@
     {
       "basename": "反射",
       "path": "Tech/Java/基础/反射.md"
-    },
-    {
-      "basename": "DashBoard",
-      "path": "DashBoard.md"
     },
     {
       "basename": "经验",
