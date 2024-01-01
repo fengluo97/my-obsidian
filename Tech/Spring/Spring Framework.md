@@ -24,13 +24,13 @@ Spring 中通过 Ioc 容器来管理 Bean，所有的 Bean 都在 Ioc 容器中�
 - ApplicationContext：BeanFactory子接口，提供更多的功能，面向开发人员使用，饿汉式创建对象
 
 ## Ioc 创建对象
-Ioc 创建对象基本原理：xml 配置类属性（比如全限定名） + 工厂模式（也就是对象工厂，创建Bean） + 反射创建对象。
+Ioc 创建对象基本原理：xml 配置类属性定义（比如全限定名） + 工厂模式（也就是对象工厂，创建Bean） + 反射 创建对象。
 
 ## Ioc 依赖注入的三种方式
 注入属性或者对象。
 1、Setter 方法注入，创建类之后通过 **set 方法**注入属性。Spring xml 配置文件中通过 property 标签注入就是调用了类的 set 方法。
 2、构造器注入，**有参构造器**注入属性，xml 中的 constructor-arg 标签。
-3、Field 属性注入，字段直接注入方式，当前最流行的方式。
+3、Field 属性注入，属性直接注入方式，当前最流行的方式。目前Idea会对Field注入标黄，表示不建议使用属性注入，原因可能在于导致某个类容易引入过多的外部依赖。
 这三种方式都可以结合注入注解使用。
 
 ## Spring Ioc Bean
@@ -46,8 +46,8 @@ Ioc 创建对象基本原理：xml 配置类属性（比如全限定名） + 工
 
 ### 注入 Bean 的注解
 Spring 内置的 `@Autowired` 以及 JDK 内置的 `@Resource`。
-- `Autowired` 属于 Spring 内置的注解，默认的注入方式为`byType`，也就是说会优先根据接口类型去匹配并注入 Bean（接口的实现类），Autowired 遇到多个实现类时，会匹配变量名对应的类名，不过一般建议使用@Qualifier 注解显式指定（首字母小写，根据 byName 的方式自动装配）。
-- `@Resource`属于 JDK 提供的注解，默认注入方式为 `byName`。Resource 遇到多个实现类时，会先匹配变量名对应的类名。如果无法通过名称匹配到对应的 Bean 的话，注入方式会变为`byType`。有两个比较重要且日常开发常用的属性：`name`（名称）、`type`（类型）。
+- `Autowired` 属于 Spring 内置的注解，默认的注入方式为`byType`，也就是说会优先根据接口类型去匹配并注入 Bean（接口的实现类），Autowired 遇到多个实现类时，会匹配属性名对应的类名，不过一般建议使用@Qualifier 注解显式指定（首字母小写，根据 byName 的方式自动装配）。
+- `@Resource`属于 JDK 提供的注解，默认注入方式为 `byName`。Resource 遇到多个实现类时，会先匹配属性名对应的类名。如果无法通过名称匹配到对应的 Bean 的话，注入方式会变为`byType`。有两个比较重要且日常开发常用的属性：`name`（名称）、`type`（类型）。
 当一个接口存在多个实现类的情况下，`@Autowired` 和`@Resource`都需要通过名称才能正确匹配到对应的 Bean。`Autowired` 可以通过 `@Qualifier` 注解来显式指定名称，`@Resource`可以通过 `name` 属性来显式指定名称。
 `@Autowired` 支持在构造函数、方法、字段和参数上使用。`@Resource` 主要用于字段和方法上的注入，不支持在构造函数或参数上使用。
 
@@ -66,6 +66,15 @@ Spring 内置的 `@Autowired` 以及 JDK 内置的 `@Resource`。
 如果是 singleton，那么就要看这个 Bean 内部是否是有状态的，也就是说是否有共享的变量，如果这个 Bean 是有状态的，那么就会存在线程安全问题。
 
 ### Bean 的生命周期
+1、实例化：Spring 容器启动时，通过构造器或者反射创建 bean 实例
+2、设置对象属性，以及检查 Aware 相关接口，并注入相关依赖
+3、如果有实现 BeanPostProcessor 接口则执行`postProcessBeforeInitialization()`方法，进行前置处理
+4、如果有实现 InitializingBean 接口则调用 afterPropertiesSet 方法或者存在被 @PostConstruct 注解标记的方法，则进行 bean 的初始化
+5、如果有实现 BeanPostProcessor 接口则执行`postProcessAfterInitialization()`方法，进行后置处理
+6、使用中，bean 已被放入 Ioc 容器中
+7、容器关闭时，调用 bean 的 destroy 方法
+
+
 
 
 

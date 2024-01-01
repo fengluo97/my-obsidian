@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech/Spring/Spring Framework.md",
+                "file": "Tech/开源/手写Ioc.md",
                 "mode": "source",
                 "source": false
               }
@@ -71,7 +71,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tech/Spring/Spring Framework.md"
+                "file": "Tech/开源/手写Ioc.md"
               }
             }
           }
@@ -105,7 +105,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289.5
+    "width": 289.5,
+    "collapsed": true
   },
   "right": {
     "id": "154e219a70cee5f6",
@@ -143,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tech/Spring/Spring Framework.md",
+                "file": "Tech/开源/手写Ioc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tech/Spring/Spring Framework.md",
+                "file": "Tech/开源/手写Ioc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,12 +214,13 @@
   },
   "active": "82b1651e6e0c91bc",
   "lastOpenFiles": [
+    "Tech/Spring/Spring Framework.md",
+    "Tech/开源/手写Ioc.md",
     "DashBoard.md",
     "Life/健康/核心要义.md",
     "Life/健康/身材管理.md",
     "Life/健康/形象管理.md",
     "Life/健康/营养补剂.md",
-    "Tech/Spring/Spring Framework.md",
     "Tech/Spring/注解大合集.md",
     "Tech/Java/基础/集合.md",
     "Tech/Java/基础/注解.md",
@@ -253,7 +255,6 @@
     "Tech/MySQL/resource/Pasted image 20231214235458.png",
     "Tech/MySQL/未命名.md",
     "Tech/MySQL/resource",
-    "Tech/RocketMQ/消费者.md",
     "Tech/云原生/k8s",
     "Tech/云原生/docker",
     "Tech/CS/操作系统",

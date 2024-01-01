@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "手写Ioc",
+      "path": "Tech/开源/手写Ioc.md"
+    },
+    {
       "basename": "Spring Framework",
       "path": "Tech/Spring/Spring Framework.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "单例模式",
       "path": "Tech/设计模式/创建型模式/单例模式.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
     }
   ],
   "omittedPaths": [],
