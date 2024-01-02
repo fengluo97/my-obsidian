@@ -4,16 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "8413099137d25abe",
+        "id": "b0a2e9dcdf8b6e9f",
         "type": "tabs",
         "children": [
           {
-            "id": "82b1651e6e0c91bc",
+            "id": "1b3b22ab5d6cf727",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Tech/开源/手写Ioc.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "088f98aec419b6dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tech/Spring/Spring Framework.md",
                 "mode": "source",
                 "source": false
               }
@@ -212,7 +224,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "82b1651e6e0c91bc",
+  "active": "1b3b22ab5d6cf727",
   "lastOpenFiles": [
     "Tech/Spring/Spring Framework.md",
     "Tech/开源/手写Ioc.md",

@@ -24,7 +24,7 @@ Spring 中通过 Ioc 容器来管理 Bean，所有的 Bean 都在 Ioc 容器中�
 - ApplicationContext：BeanFactory子接口，提供更多的功能，面向开发人员使用，饿汉式创建对象
 
 ## Ioc 创建对象
-Ioc 创建对象基本原理：xml 配置类属性定义（比如全限定名） + 工厂模式（也就是对象工厂，创建Bean） + 反射 创建对象。
+Ioc 创建对象基本原理：xml 配置类属性定义或者注解方式获取类的信息 + 反射或者工厂方法创建对象。
 
 ## Ioc 依赖注入的三种方式
 注入属性或者对象。
@@ -41,7 +41,7 @@ Ioc 创建对象基本原理：xml 配置类属性定义（比如全限定名）
 - `@Repository`: 对应持久层即 Dao 层，主要用于数据库相关操作。
 - `@Service` : 对应服务层，主要涉及一些复杂的逻辑，需要用到 Dao 层。
 - `@Controller`: 对应 Spring MVC 控制层，主要用于接受用户请求并调用 `Service` 层返回数据给前端页面。
--  `@Configuration`: 通过用来声明配置类。
+-  `@Configuration`: 用来声明配置类。
 - `@Bean`：唯一一个作用在方法上的注解，通常和 `@Configuration`注解配合使用。@Bean 注解用于告诉 Ioc，该方法会产生一个 Bean 对象，然后将这个 Bean 对象交给 Ioc 管理。产生这个 Bean 对象的方法 Spring 只会调用一次，随后 Spring 会将这个 Bean 对象放在自己的 Ioc 容器中；
 
 ### 注入 Bean 的注解
@@ -66,13 +66,14 @@ Spring 内置的 `@Autowired` 以及 JDK 内置的 `@Resource`。
 如果是 singleton，那么就要看这个 Bean 内部是否是有状态的，也就是说是否有共享的变量，如果这个 Bean 是有状态的，那么就会存在线程安全问题。
 
 ### Bean 的生命周期
-1、实例化：Spring 容器启动时，通过构造器或者反射创建 bean 实例
-2、设置对象属性，以及检查 Aware 相关接口，并注入相关依赖
+1、实例化：Spring 容器启动时，读取配置信息或者注解信息，拿到类信息，再通过构造器或者反射或者工厂方法创建 bean 实例
+2、设置对象属性，以及检查 Aware 相关接口，并注入相关依赖（通过@Autowried与@Resource）
 3、如果有实现 BeanPostProcessor 接口则执行`postProcessBeforeInitialization()`方法，进行前置处理
 4、如果有实现 InitializingBean 接口则调用 afterPropertiesSet 方法或者存在被 @PostConstruct 注解标记的方法，则进行 bean 的初始化
 5、如果有实现 BeanPostProcessor 接口则执行`postProcessAfterInitialization()`方法，进行后置处理
 6、使用中，bean 已被放入 Ioc 容器中
-7、容器关闭时，调用 bean 的 destroy 方法
+7、容器关闭时，如果有实现 DisposableBean 接口，则调用 bean 的 destroy 方法，或者是 @PreDestroy 注解标记的方法
+
 
 
 
