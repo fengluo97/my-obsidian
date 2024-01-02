@@ -74,6 +74,7 @@ Spring 内置的 `@Autowired` 以及 JDK 内置的 `@Resource`。
 6、使用中，bean 已被放入 Ioc 容器中
 7、容器关闭时，如果有实现 DisposableBean 接口，则调用 bean 的 destroy 方法，或者是 @PreDestroy 注解标记的方法
 
+### Spring 如何解决 Bean 的循环依赖
 
 
 
