@@ -1,32 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "DashBoard",
-      "path": "DashBoard.md"
-    },
-    {
-      "basename": "手写Ioc",
-      "path": "Tech/开源/手写Ioc.md"
-    },
-    {
       "basename": "Spring Framework",
       "path": "Tech/Spring/Spring Framework.md"
+    },
+    {
+      "basename": "分布式锁前世今生",
+      "path": "Tech/分布式三高/分布式锁前世今生.md"
+    },
+    {
+      "basename": "索引",
+      "path": "Tech/MySQL/索引.md"
     },
     {
       "basename": "营养补剂",
       "path": "Life/健康/营养补剂.md"
     },
     {
-      "basename": "核心要义",
-      "path": "Life/健康/核心要义.md"
+      "basename": "形象管理",
+      "path": "Life/健康/形象管理.md"
     },
     {
       "basename": "身材管理",
       "path": "Life/健康/身材管理.md"
     },
     {
-      "basename": "形象管理",
-      "path": "Life/健康/形象管理.md"
+      "basename": "核心要义",
+      "path": "Life/健康/核心要义.md"
+    },
+    {
+      "basename": "DashBoard",
+      "path": "DashBoard.md"
+    },
+    {
+      "basename": "手写Ioc",
+      "path": "Tech/开源/手写Ioc.md"
     },
     {
       "basename": "注解大合集",
@@ -55,10 +63,6 @@
     {
       "basename": "自己实现一个数据库连接池",
       "path": "Tech/开源/自己实现一个数据库连接池.md"
-    },
-    {
-      "basename": "索引",
-      "path": "Tech/MySQL/索引.md"
     },
     {
       "basename": "日志",
@@ -195,10 +199,6 @@
     {
       "basename": "结构型模式",
       "path": "Tech/设计模式/结构型模式/结构型模式.md"
-    },
-    {
-      "basename": "单例模式",
-      "path": "Tech/设计模式/创建型模式/单例模式.md"
     }
   ],
   "omittedPaths": [],

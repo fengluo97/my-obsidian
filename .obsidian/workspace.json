@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b0a2e9dcdf8b6e9f",
+        "id": "9d3433c731aaa9c4",
         "type": "tabs",
         "children": [
           {
-            "id": "1b3b22ab5d6cf727",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tech/开源/手写Ioc.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "088f98aec419b6dd",
+            "id": "1867b04967863bd7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -83,7 +71,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tech/开源/手写Ioc.md"
+                "file": "Tech/Spring/Spring Framework.md"
               }
             }
           }
@@ -156,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tech/开源/手写Ioc.md",
+                "file": "Tech/Spring/Spring Framework.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tech/开源/手写Ioc.md",
+                "file": "Tech/Spring/Spring Framework.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -224,15 +212,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1b3b22ab5d6cf727",
+  "active": "1867b04967863bd7",
   "lastOpenFiles": [
+    "Tech/分布式三高/分布式锁前世今生.md",
+    "Tech/MySQL/索引.md",
     "Tech/Spring/Spring Framework.md",
-    "Tech/开源/手写Ioc.md",
-    "DashBoard.md",
-    "Life/健康/核心要义.md",
-    "Life/健康/身材管理.md",
-    "Life/健康/形象管理.md",
     "Life/健康/营养补剂.md",
+    "Life/健康/形象管理.md",
+    "Life/健康/身材管理.md",
+    "Life/健康/核心要义.md",
+    "DashBoard.md",
+    "Tech/开源/手写Ioc.md",
     "Tech/Spring/注解大合集.md",
     "Tech/Java/基础/集合.md",
     "Tech/Java/基础/注解.md",
@@ -246,7 +236,6 @@
     "Tech/开源/resource",
     "Tech/开源",
     "Tech/MySQL/日志.md",
-    "Tech/MySQL/索引.md",
     "Tech/MySQL/自测与补充.md",
     "Tech/MySQL/事务.md",
     "Tech/MySQL/主从读写分离.md",
@@ -265,7 +254,6 @@
     "Tech/MySQL/字段类型与使用.md",
     "Tech/MySQL/数据同步canal.md",
     "Tech/MySQL/resource/Pasted image 20231214235458.png",
-    "Tech/MySQL/未命名.md",
     "Tech/MySQL/resource",
     "Tech/云原生/k8s",
     "Tech/云原生/docker",
