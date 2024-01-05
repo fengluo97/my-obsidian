@@ -9,65 +9,42 @@ banner_y: 0.5
 #todo
 One By One，兴趣驱动
 
-11 月
-部分：RocketMQ、设计模式、JVM
-
-12月
-RocketMQ 学习&笔记总结 rocket如何实现高可用
-MySQL 学习&笔记总结 索引解析
-转正
-业务学习-门店管理域 & 门店标签
-
 1月
-Redis 学习&笔记总结
-JVM、JUC、Java
-业务学习-门店管理域 & 门店标签
+内功
+- Java、JVM、JUC、设计模式
+- Spring、SpringMVC、SpringBoot、MyBatis
+数据库
+- JDBC、MySQL、分库分表
 
 2月
-Spring、MyBatis、SpringBoot、Tomcat
-
-3月（leetcode、github）
-Dubbo、ZK、Netty
-总结复盘，做点有意思的事情
-
-4月
-SpringCloud、分布式三高、大型Web架构
-总结复盘，做点有意思的事情
-
-5月
-计算机基础
-稍微看看：ES、MongoDB、Linux、Docker、K8s
-总结复盘，做点有意思的事情
-
-6月
-总结复盘，做点有意思的事情
-
-7月
-总结复盘，做点有意思的事情
-
-贷款
-
+中间件
+- Redis、**RocketMQ**
+微服务
+- Dubbo+ZK、SpringCloud Alibaba
 
 
 ## 方向
-技术栈：技术体系
-源码篇：Spring、RocketMQ、Dubbo、JDK、Netty、Tomcat
-项目：项目经历
-开源贡献：博客、Github、RocketMQ社区
-算法篇：LeetCode
+技术：技术体系 + 应用场景 + 架构设计
+源码：**JDK** + **Spring**  + **MyBatis** + **RocketMQ** + **Dubbo** + Tomcat + Netty
+项目：工作项目，抽出比较有亮点的点
+开源：博客、Github、RocketMQ 社区贡献、Dubbo 社区贡献
+手撕：LeetCode 算法 + SQL + 并发 + 设计模式
 
 ## 技术体系
 内功
-- Java、JVM、JUC、**设计模式**
-- Spring、SpringMVC、SpringBoot、MyBatis、JavaWeb、Maven、Git、SpringSecurity
+- 计算机网络、操作系统、计算机组成原理、算法与数据结构
+- Java、JVM、JUC、设计模式
+- Spring、SpringMVC、SpringBoot、MyBatis
 数据库
-- JDBC、MySQL与分布式
+- JDBC、MySQL、分库分表
 微服务
 - Dubbo+ZK、SpringCloud Alibaba
 中间件
 - Redis、**RocketMQ**
-- ElasticSearch、MongoDB
-- ElasticJob、Apollo
+- 分布式搜索引擎 ElasticSearch、分布式文档数据库 MongoDB
+- 分布式调度中心 ElasticJob、分布式配置中心 Apollo
+
+
 神技
 - Nginx、Tomcat、Netty、网络编程
 - Linux、Docker、K8s
@@ -75,7 +52,6 @@ SpringCloud、分布式三高、大型Web架构
 - 分布式架构演进
 - 分布式下各类问题
 全栈
-- HTML、CSS、JS
-- Vue、React
+- HTML、CSS、JS、Vue、React
 - Golang
 - 大数据

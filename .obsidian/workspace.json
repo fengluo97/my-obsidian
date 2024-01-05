@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3fd678ff6daf5860",
+        "id": "9fde8285c75a36ab",
         "type": "tabs",
         "children": [
           {
-            "id": "f869a6af96710e60",
+            "id": "df20cf8d0b65a7b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech/Spring/Spring Framework.md",
+                "file": "Tech/90、云原生/Linux.md",
                 "mode": "source",
                 "source": false
               }
@@ -71,7 +71,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tech/Spring/Spring Framework.md"
+                "file": "Tech/90、云原生/Linux.md"
               }
             }
           }
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tech/Spring/Spring Framework.md",
+                "file": "Tech/90、云原生/Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tech/Spring/Spring Framework.md",
+                "file": "Tech/90、云原生/Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,54 +211,53 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f869a6af96710e60",
+  "active": "df20cf8d0b65a7b1",
   "lastOpenFiles": [
+    "Tech/90、云原生/K8s.md",
     "DashBoard.md",
-    "Tech/Spring/Spring Framework.md",
-    "Tech/分布式三高/分布式锁前世今生.md",
-    "Tech/MySQL/索引.md",
-    "Life/健康/营养补剂.md",
-    "Life/健康/形象管理.md",
+    "Tech/99、面试经验/经验.md",
+    "Tech/99、面试经验",
+    "Tech/66、力扣/刷题计划.md",
+    "Tech/90、云原生/Linux.md",
+    "Tech/22、领域驱动设计",
+    "Tech/90、云原生/Docker.md",
+    "README.md",
+    "Tech/0、CS/操作系统/进程和线程.md",
+    "Tech/3、Spring/Spring Framework.md",
     "Life/健康/身材管理.md",
     "Life/健康/核心要义.md",
-    "Tech/开源/手写Ioc.md",
-    "Tech/Spring/注解大合集.md",
-    "Tech/Java/基础/集合.md",
-    "Tech/Java/基础/注解.md",
-    "Tech/Java/基础/泛型.md",
-    "Tech/Java/基础/反射.md",
-    "Tech/Spring/resource/Pasted image 20231230150829.png",
-    "Tech/Spring/resource",
-    "Tech/经验.md",
-    "Tech/开源/自己实现一个数据库连接池.md",
-    "Tech/开源/resource/Pasted image 20231227222444.png",
-    "Tech/开源/resource",
-    "Tech/开源",
-    "Tech/MySQL/日志.md",
-    "Tech/MySQL/自测与补充.md",
-    "Tech/MySQL/事务.md",
-    "Tech/MySQL/主从读写分离.md",
-    "Tech/MySQL/锁.md",
-    "Tech/MySQL/架构.md",
-    "Tech/MySQL/resource/Pasted image 20231220215113.png",
-    "Tech/MySQL/resource/Pasted image 20231220213407.png",
-    "Tech/MySQL/resource/Pasted image 20231220213307.png",
-    "Tech/MySQL/resource/Pasted image 20231220212959.png",
-    "Tech/MySQL/resource/Pasted image 20231220212819.png",
-    "Tech/MySQL/resource/Pasted image 20231220212753.png",
-    "Tech/MySQL/内存数据结构.md",
-    "Tech/MySQL/resource/Pasted image 20231220003941.png",
-    "Tech/MySQL/分库分表.md",
+    "Life/健康/营养补剂.md",
+    "Life/健康/形象管理.md",
     "Life/健康",
-    "Tech/MySQL/字段类型与使用.md",
-    "Tech/MySQL/数据同步canal.md",
-    "Tech/MySQL/resource/Pasted image 20231214235458.png",
-    "Tech/MySQL/resource",
-    "Tech/云原生/k8s",
-    "Tech/云原生/docker",
-    "Tech/CS/操作系统",
-    "Tech/大数据",
-    "Tech/前端",
+    "Life",
+    "2024-01-05.md",
+    "Tech/20、分布式三高/分布式锁前世今生.md",
+    "Tech/5、MySQL/索引.md",
+    "Tech/66、开源/手写Ioc.md",
+    "Tech/3、Spring/注解大合集.md",
+    "Tech/1、Java/基础/集合.md",
+    "Tech/1、Java/基础/注解.md",
+    "Tech/1、Java/基础/泛型.md",
+    "Tech/1、Java/基础/反射.md",
+    "Tech/3、Spring/resource/Pasted image 20231230150829.png",
+    "Tech/3、Spring/resource",
+    "Tech/66、开源/自己实现一个数据库连接池.md",
+    "Tech/66、开源/resource/Pasted image 20231227222444.png",
+    "Tech/66、开源/resource",
+    "Tech/66、开源",
+    "Tech/5、MySQL/日志.md",
+    "Tech/5、MySQL/自测与补充.md",
+    "Tech/5、MySQL/resource/Pasted image 20231220215113.png",
+    "Tech/5、MySQL/resource/Pasted image 20231220213407.png",
+    "Tech/5、MySQL/resource/Pasted image 20231220213307.png",
+    "Tech/5、MySQL/resource/Pasted image 20231220212959.png",
+    "Tech/5、MySQL/resource/Pasted image 20231220212819.png",
+    "Tech/5、MySQL/resource/Pasted image 20231220212753.png",
+    "Tech/5、MySQL/resource/Pasted image 20231220003941.png",
+    "Tech/5、MySQL/resource/Pasted image 20231214235458.png",
+    "Tech/5、MySQL/resource",
+    "Tech/99、云原生/k8s",
+    "Tech/99、云原生/docker",
     "Java Virtual Machine/未命名.canvas"
   ]
 }
