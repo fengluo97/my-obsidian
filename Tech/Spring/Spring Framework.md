@@ -105,7 +105,13 @@ cglib 动态代理类（无接口使用）
 AspectJ是一个强大的面向切面编程（AOP）框架，它在 Java 编程语言的基础上扩展了 AOP 的功能。AspectJ 提供了更丰富和灵活的切面编程能力，相较于 Spring AOP，AspectJ更直接地支持 AOP 的各种概念和功能。
 
 
- 
+切面优先级
+
+@Pointcut() 来声明切点方法。
+
+
+# Spring 事务
+
 
 
 
