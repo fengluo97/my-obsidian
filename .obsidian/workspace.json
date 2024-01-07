@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9fde8285c75a36ab",
+        "id": "048028af42f3cb10",
         "type": "tabs",
         "children": [
           {
-            "id": "df20cf8d0b65a7b1",
+            "id": "d9fb5b91b8db071f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech/90、云原生/Linux.md",
+                "file": "DashBoard.md",
                 "mode": "source",
                 "source": false
               }
@@ -71,7 +71,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tech/90、云原生/Linux.md"
+                "file": "DashBoard.md"
               }
             }
           }
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tech/90、云原生/Linux.md",
+                "file": "DashBoard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tech/90、云原生/Linux.md",
+                "file": "DashBoard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,7 +211,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "df20cf8d0b65a7b1",
+  "active": "d9fb5b91b8db071f",
   "lastOpenFiles": [
     "Tech/90、云原生/K8s.md",
     "DashBoard.md",
