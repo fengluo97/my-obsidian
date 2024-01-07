@@ -20,8 +20,9 @@ IoC 容器就像是一个工厂一样，当我们需要创建一个对象的时�
 
 ## Ioc 容器管理
 Spring 中通过 Ioc 容器来管理 Bean，所有的 Bean 都在 Ioc 容器中进行管理，有两个核心接口：
-- BeanFactory：最顶层的接口，Ioc容器基本实现，是Spring内部使用的接口，一般不提供给外部开发人员使用，懒汉式创建对象
-- ApplicationContext：BeanFactory子接口，提供更多的功能，面向开发人员使用，饿汉式创建对象
+- BeanFactory：最顶层的接口，Ioc容器基本实现，是Spring内部使用的接口，一般不提供给外部开发人员使用。**getBean 懒汉式创建对象**，不会主动调用 BeanFactory 后处理器扫描 @Bean 和 Bean 后处理器，需要写一定的代码来手动配置，使用较为复杂。
+- ApplicationContext：BeanFactory子接口，提供更多的功能，比如帮助我们调用各种后处理器来实现自动装配，国际化（MessageSource接口），资源接口（ResourceLoader）等，面向开发人员使用，**getBean 饿汉式创建对象**。
+相同类型的后置处理器之间的顺序通过 order 变量控制。
 
 ## Ioc 创建对象
 基本原理：xml 配置类属性定义或者注解方式获取类的信息（扫描包路径） + 反射或者工厂方法创建对象。
@@ -66,7 +67,7 @@ Spring 内置的 `@Autowired` 以及 JDK 内置的 `@Resource`。
 如果是 singleton，那么就要看这个 Bean 内部是否是有状态的，也就是说是否有共享的变量，如果这个 Bean 是有状态的，那么就会存在线程安全问题。
 
 ### Bean 的生命周期
-1、实例化：Spring 容器启动时，读取配置信息或者注解信息，拿到类信息，再通过构造器或者反射或者工厂方法创建 bean 实例
+1、实例化：Spring 容器启动时，读取配置信息或者注解信息，拿到类信息定义（BeanDefinition），再通过构造器或者反射或者工厂方法创建 bean 实例，其实在实例化前后也有回调方法，在实例化前后做处理
 2、设置对象属性，以及检查 Aware 相关接口，并注入相关依赖（通过@Autowried与@Resource）
 3、如果有实现 BeanPostProcessor 接口则执行`postProcessBeforeInitialization()`方法，进行前置处理
 4、如果有实现 InitializingBean 接口则调用 afterPropertiesSet 方法或者存在被 @PostConstruct 注解标记的方法，则进行 bean 的初始化
@@ -112,6 +113,9 @@ AspectJ是一个强大的面向切面编程（AOP）框架，它在 Java 编程�
 
 
 # Spring 事务
+
+
+# Spring MVC
 
 
 

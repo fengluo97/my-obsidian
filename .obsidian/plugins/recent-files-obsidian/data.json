@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "1、Spring Framework",
+      "path": "Tech/3、Spring/1、Spring Framework.md"
+    },
+    {
+      "basename": "Spring 里用到的设计模式",
+      "path": "Tech/3、Spring/Spring 里用到的设计模式.md"
+    },
+    {
       "basename": "DashBoard",
       "path": "DashBoard.md"
     },
@@ -27,10 +35,6 @@
     {
       "basename": "进程和线程",
       "path": "Tech/0、CS/操作系统/进程和线程.md"
-    },
-    {
-      "basename": "Spring Framework",
-      "path": "Tech/3、Spring/Spring Framework.md"
     },
     {
       "basename": "索引",
@@ -159,10 +163,6 @@
     {
       "basename": "零拷贝技术",
       "path": "Tech/0、CS/操作系统/零拷贝技术.md"
-    },
-    {
-      "basename": "SpringMVC",
-      "path": "Tech/3、Spring/SpringMVC.md"
     },
     {
       "basename": "Pasted image 20231123002429",
