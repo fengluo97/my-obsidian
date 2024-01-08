@@ -77,6 +77,21 @@ Spring 内置的 `@Autowired` 以及 JDK 内置的 `@Resource`。
 
 ### Spring 如何解决 Bean 的循环依赖？
 
+### Spring 各类后处理器以及扩展点？
+
+### Spring 生命周期的执行顺序？
+
+### Spring @Autowire 的失效场景？
+
+### Spring 作用域
+scope 类型
+scope 的销毁
+单例使用其他域会导致失效，因为在依赖注入时，只会注入一次其他 scope bean，需要推迟对其他 scope bean 的获取。
+- @Lazy 注解会注入代理，在单例内使用代理对象注入，代理对象调用 getBean 会生成新的实例。
+- 使用 ObjectFactory 
+- 通过 ApplicationContext 手动获取。
+
+
 # 三、Spring Aop
 底层实现：动态代理
 
