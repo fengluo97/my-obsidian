@@ -11,19 +11,18 @@ One By One，兴趣驱动
 
 1月
 内功
-- Java、JVM、JUC、设计模式（十五天）
-- Spring、SpringMVC、SpringBoot、MyBatis（十天）
+- Java、JVM、JUC、设计模式
+- Spring、SpringMVC、SpringBoot、MyBatis、Tomcat
 数据库
-- JDBC、MySQL、分库分表（五天）
+- JDBC、MySQL、分库分表
 
 2月
 中间件
 - Redis、**RocketMQ**（十五天）
-- 分布式搜索引擎 ElasticSearch、分布式文档数据库 MongoDB（两天）
-- 分布式调度中心 ElasticJob、分布式配置中心 Apollo（两天）
+- 分布式搜索引擎 ElasticSearch、分布式文档数据库 MongoDB（三天）
+- 分布式调度中心 ElasticJob、分布式配置中心 Apollo（三天）
 微服务
 - Dubbo+ZK、SpringCloud Alibaba（十五天）
-- Tomcat（七天）
 
 3月
 - 计算机网络、操作系统、计算机组成原理、算法与数据结构（补充面试题）
@@ -39,26 +38,21 @@ One By One，兴趣驱动
 
 ## 技术体系
 内功
-- 计算机网络、操作系统、计算机组成原理、算法与数据结构
+- 计算机网络、操作系统、计算机组成原理、算法与数据结构、编译原理
 - Java、JVM、JUC、设计模式
-- Spring、SpringMVC、SpringBoot、MyBatis
-数据库
+- Spring、SpringMVC、SpringBoot、MyBatis、Tomcat
 - JDBC、MySQL、分库分表
 微服务
 - Dubbo+ZK、SpringCloud Alibaba
 中间件
 - Redis、**RocketMQ**
-- 分布式搜索引擎 ElasticSearch、分布式文档数据库 MongoDB
-- 分布式调度中心 ElasticJob、分布式配置中心 Apollo
-
-
-
-神技
-- Nginx、Tomcat、Netty、网络编程
+- ElasticSearch、MongoDB
+- ElasticJob、Apollo
+- Netty、网络编程
+分布式
+- 分布式带来的各类问题与组件
+云原生
 - Linux、Docker、K8s
-心法
-- 分布式架构演进
-- 分布式下各类问题
 全栈
 - HTML、CSS、JS、Vue、React
 - Golang

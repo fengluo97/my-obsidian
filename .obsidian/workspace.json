@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "5bab24a61084436b",
+        "id": "f7495b7aeb316fff",
         "type": "tabs",
         "children": [
           {
-            "id": "4145e156e47a2af0",
+            "id": "64dd03460201b0b5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech/3、Spring/1、Spring Framework.md",
+                "file": "98、Tech/1、Java/基础/IO 模型.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e3c29cb4e21ba4f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "99、DashBoard.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -31,7 +44,7 @@
       {
         "id": "85f702690bd89ad3",
         "type": "tabs",
-        "dimension": 66.63346613545816,
+        "dimension": 48.60557768924303,
         "children": [
           {
             "id": "850b5ea2b885aeff",
@@ -63,7 +76,7 @@
       {
         "id": "dba66ff0f0387d2d",
         "type": "tabs",
-        "dimension": 18.874501992031874,
+        "dimension": 36.90239043824701,
         "children": [
           {
             "id": "54977890cbe08c4e",
@@ -71,7 +84,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tech/3、Spring/1、Spring Framework.md"
+                "file": "99、DashBoard.md"
               }
             }
           }
@@ -105,7 +118,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321.5
+    "width": 321.5,
+    "collapsed": true
   },
   "right": {
     "id": "154e219a70cee5f6",
@@ -143,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tech/3、Spring/1、Spring Framework.md",
+                "file": "99、DashBoard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tech/3、Spring/1、Spring Framework.md",
+                "file": "99、DashBoard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,54 +225,54 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4145e156e47a2af0",
+  "active": "e3c29cb4e21ba4f6",
   "lastOpenFiles": [
-    "DashBoard.md",
-    "Tech/3、Spring/Spring 里用到的设计模式.md",
-    "Tech/3、Spring/1、Spring Framework.md",
+    "98、Tech/25、常见场景篇",
+    "98、Tech/24、在线运维篇",
+    "README.md",
+    "99、DashBoard.md",
+    "98、Tech/6、Tomcat/Tomcat.md",
+    "Tech/源码阅读.md",
+    "98、Tech/6、Tomcat/resource/Pasted image 20240110003638.png",
+    "98、Tech/6、Tomcat/resource/Pasted image 20240110000417.png",
+    "98、Tech/6、Tomcat/resource/Pasted image 20240110000251.png",
+    "98、Tech/6、Tomcat/resource/Pasted image 20240109235850.png",
+    "98、Tech/6、Tomcat/resource",
+    "98、Tech/23、系统调优篇",
+    "98、Tech/1、Java/基础/IO 模型.md",
+    "98、Tech/1、Java/基础/序列化.md",
+    "98、Tech/3、Spring/Spring 里用到的设计模式.md",
+    "98、Tech/3、Spring/1、Spring Framework.md",
     "Tech/3、Spring/未命名",
     "Tech/3、Spring/SpringMVC.md",
-    "Tech/90、云原生/K8s.md",
-    "Tech/99、面试经验/经验.md",
-    "Tech/99、面试经验",
-    "Tech/66、力扣/刷题计划.md",
-    "Tech/90、云原生/Linux.md",
-    "Tech/22、领域驱动设计",
-    "Tech/90、云原生/Docker.md",
-    "README.md",
-    "Tech/0、CS/操作系统/进程和线程.md",
-    "Life/健康/身材管理.md",
-    "Life/健康/核心要义.md",
-    "Life/健康/营养补剂.md",
-    "Life/健康/形象管理.md",
-    "Life/健康",
-    "Life",
+    "98、Tech/90、云原生/K8s.md",
+    "98、Tech/99、面试经验/经验.md",
+    "98、Tech/99、面试经验",
+    "98、Tech/66、力扣/刷题计划.md",
+    "98、Tech/90、云原生/Linux.md",
+    "98、Tech/21、领域驱动设计",
+    "98、Tech/90、云原生/Docker.md",
+    "98、Tech/0、CS/操作系统/进程和线程.md",
+    "1、Life/健康/身材管理.md",
+    "1、Life/健康/核心要义.md",
+    "1、Life/健康/营养补剂.md",
+    "1、Life/健康/形象管理.md",
+    "1、Life/健康",
+    "1、Life",
     "2024-01-05.md",
-    "Tech/20、分布式三高/分布式锁前世今生.md",
-    "Tech/5、MySQL/索引.md",
-    "Tech/66、开源/手写Ioc.md",
-    "Tech/3、Spring/注解大合集.md",
-    "Tech/1、Java/基础/集合.md",
-    "Tech/1、Java/基础/注解.md",
-    "Tech/1、Java/基础/泛型.md",
-    "Tech/1、Java/基础/反射.md",
-    "Tech/3、Spring/resource/Pasted image 20231230150829.png",
-    "Tech/3、Spring/resource",
-    "Tech/66、开源/自己实现一个数据库连接池.md",
-    "Tech/66、开源/resource/Pasted image 20231227222444.png",
-    "Tech/66、开源/resource",
-    "Tech/66、开源",
-    "Tech/5、MySQL/日志.md",
-    "Tech/5、MySQL/resource/Pasted image 20231220215113.png",
-    "Tech/5、MySQL/resource/Pasted image 20231220213407.png",
-    "Tech/5、MySQL/resource/Pasted image 20231220213307.png",
-    "Tech/5、MySQL/resource/Pasted image 20231220212959.png",
-    "Tech/5、MySQL/resource/Pasted image 20231220212819.png",
-    "Tech/5、MySQL/resource/Pasted image 20231220212753.png",
-    "Tech/5、MySQL/resource/Pasted image 20231220003941.png",
-    "Tech/5、MySQL/resource/Pasted image 20231214235458.png",
-    "Tech/5、MySQL/resource",
-    "Tech/99、云原生/k8s",
+    "98、Tech/20、分布式三高/分布式锁前世今生.md",
+    "98、Tech/5、MySQL/索引.md",
+    "98、Tech/66、开源/手写Ioc.md",
+    "98、Tech/3、Spring/注解大合集.md",
+    "98、Tech/1、Java/基础/集合.md",
+    "98、Tech/3、Spring/resource/Pasted image 20231230150829.png",
+    "98、Tech/3、Spring/resource",
+    "98、Tech/66、开源/resource/Pasted image 20231227222444.png",
+    "98、Tech/66、开源/resource",
+    "98、Tech/5、MySQL/resource/Pasted image 20231220215113.png",
+    "98、Tech/5、MySQL/resource/Pasted image 20231220213407.png",
+    "98、Tech/5、MySQL/resource/Pasted image 20231220213307.png",
+    "98、Tech/5、MySQL/resource/Pasted image 20231220212959.png",
     "Java Virtual Machine/未命名.canvas"
   ]
 }
