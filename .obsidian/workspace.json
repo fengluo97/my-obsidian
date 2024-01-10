@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "f7495b7aeb316fff",
+        "id": "773deeacb6dc1c5f",
         "type": "tabs",
         "children": [
           {
-            "id": "64dd03460201b0b5",
+            "id": "3a454c9bbf7a12b5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "98、Tech/1、Java/基础/IO 模型.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e3c29cb4e21ba4f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "99、DashBoard.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -225,7 +208,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e3c29cb4e21ba4f6",
+  "active": "3a454c9bbf7a12b5",
   "lastOpenFiles": [
     "98、Tech/25、常见场景篇",
     "98、Tech/24、在线运维篇",
@@ -248,7 +231,7 @@
     "98、Tech/90、云原生/K8s.md",
     "98、Tech/99、面试经验/经验.md",
     "98、Tech/99、面试经验",
-    "98、Tech/66、力扣/刷题计划.md",
+    "98、Tech/66、力扣刷题/刷题计划.md",
     "98、Tech/90、云原生/Linux.md",
     "98、Tech/21、领域驱动设计",
     "98、Tech/90、云原生/Docker.md",
@@ -260,15 +243,15 @@
     "1、Life/健康",
     "1、Life",
     "2024-01-05.md",
-    "98、Tech/20、分布式三高/分布式锁前世今生.md",
+    "98、Tech/20、分布式与三高/分布式锁前世今生.md",
     "98、Tech/5、MySQL/索引.md",
-    "98、Tech/66、开源/手写Ioc.md",
+    "98、Tech/66、开源贡献/手写Ioc.md",
     "98、Tech/3、Spring/注解大合集.md",
     "98、Tech/1、Java/基础/集合.md",
     "98、Tech/3、Spring/resource/Pasted image 20231230150829.png",
     "98、Tech/3、Spring/resource",
-    "98、Tech/66、开源/resource/Pasted image 20231227222444.png",
-    "98、Tech/66、开源/resource",
+    "98、Tech/66、开源贡献/resource/Pasted image 20231227222444.png",
+    "98、Tech/66、开源贡献/resource",
     "98、Tech/5、MySQL/resource/Pasted image 20231220215113.png",
     "98、Tech/5、MySQL/resource/Pasted image 20231220213407.png",
     "98、Tech/5、MySQL/resource/Pasted image 20231220213307.png",
