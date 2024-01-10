@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "99、Spring 里用到的设计模式",
+      "path": "2、Tech/3、Spring/99、Spring 里用到的设计模式.md"
+    },
+    {
+      "basename": "Tomcat 开篇与源码环境搭建",
+      "path": "2、Tech/66、源码阅读/Tomcat/Tomcat 开篇与源码环境搭建.md"
+    },
+    {
+      "basename": "为什么要读源码？如何读源码？",
+      "path": "2、Tech/66、源码阅读/为什么要读源码？如何读源码？.md"
+    },
+    {
+      "basename": "Tomcat",
+      "path": "2、Tech/6、Tomcat/Tomcat.md"
+    },
+    {
+      "basename": "网络编程",
+      "path": "2、Tech/1、Java/基础/网络编程.md"
+    },
+    {
       "basename": "MyBatis",
       "path": "2、Tech/4、MyBatis/MyBatis.md"
     },
@@ -89,10 +109,6 @@
       "path": "2、Tech/21、领域驱动设计/DDD.md"
     },
     {
-      "basename": "Tomcat",
-      "path": "2、Tech/6、Tomcat/Tomcat.md"
-    },
-    {
       "basename": "IO 模型",
       "path": "2、Tech/1、Java/基础/IO 模型.md"
     },
@@ -103,10 +119,6 @@
     {
       "basename": "1、Spring Framework",
       "path": "2、Tech/3、Spring/1、Spring Framework.md"
-    },
-    {
-      "basename": "Spring 里用到的设计模式",
-      "path": "2、Tech/3、Spring/Spring 里用到的设计模式.md"
     },
     {
       "basename": "Linux",
@@ -137,8 +149,8 @@
       "path": "2、Tech/66、开源贡献/手写Ioc.md"
     },
     {
-      "basename": "注解大合集",
-      "path": "2、Tech/3、Spring/注解大合集.md"
+      "basename": "99、注解大合集",
+      "path": "2、Tech/3、Spring/99、注解大合集.md"
     },
     {
       "basename": "集合",
@@ -187,18 +199,6 @@
     {
       "basename": "内存数据结构",
       "path": "2、Tech/5、MySQL/内存数据结构.md"
-    },
-    {
-      "basename": "分库分表",
-      "path": "2、Tech/5、MySQL/分库分表.md"
-    },
-    {
-      "basename": "字段类型与使用",
-      "path": "2、Tech/5、MySQL/字段类型与使用.md"
-    },
-    {
-      "basename": "数据同步canal",
-      "path": "2、Tech/5、MySQL/数据同步canal.md"
     }
   ],
   "omittedPaths": [],
