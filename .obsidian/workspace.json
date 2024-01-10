@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2、Tech/3、Spring/99、Spring 里用到的设计模式.md",
+                "file": "DashBoard.md",
                 "mode": "source",
                 "source": false
               }
@@ -71,7 +71,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2、Tech/3、Spring/99、Spring 里用到的设计模式.md"
+                "file": "DashBoard.md"
               }
             }
           }
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2、Tech/3、Spring/99、Spring 里用到的设计模式.md",
+                "file": "DashBoard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2、Tech/3、Spring/99、Spring 里用到的设计模式.md",
+                "file": "DashBoard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,6 +213,10 @@
   },
   "active": "850b5ea2b885aeff",
   "lastOpenFiles": [
+    "2、Tech/66、源码阅读/JDK/JUC",
+    "2、Tech/66、源码阅读/JDK/集合",
+    "2、Tech/66、源码阅读/JDK",
+    "2、Tech/3、Spring/99、Spring 里用到的设计模式.md",
     "2、Tech/66、源码阅读/Tomcat/Tomcat 开篇与源码环境搭建.md",
     "2、Tech/66、源码阅读/为什么要读源码？如何读源码？.md",
     "2、Tech/6、Tomcat/Tomcat.md",
@@ -241,8 +245,6 @@
     "2、Tech/25、系统调优篇/数据库调优.md",
     "2、Tech/25、系统调优篇/Tomcat 调优.md",
     "2、Tech/25、系统调优篇/JVM 调优.md",
-    "2、Tech/22、架构设计篇/凤凰架构.md",
-    "2、Tech/21、领域驱动设计/DDD.md",
     "2、Tech/23、场景设计篇",
     "2、Tech/24、在线运维篇",
     "2、Tech/6、Tomcat/resource/Pasted image 20240110003638.png",
@@ -252,8 +254,6 @@
     "2、Tech/6、Tomcat/resource",
     "2、Tech/25、系统调优篇",
     "Tech/3、Spring/未命名",
-    "2、Tech/99、面试经验",
-    "2、Tech/21、领域驱动设计",
     "2、Tech/3、Spring/resource/Pasted image 20231230150829.png",
     "2、Tech/66、开源贡献/resource/Pasted image 20231227222444.png",
     "2、Tech/5、MySQL/resource/Pasted image 20231220215113.png",

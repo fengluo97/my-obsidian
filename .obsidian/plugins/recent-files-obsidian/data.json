@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "DashBoard",
+      "path": "DashBoard.md"
+    },
+    {
       "basename": "99、Spring 里用到的设计模式",
       "path": "2、Tech/3、Spring/99、Spring 里用到的设计模式.md"
     },
@@ -51,10 +55,6 @@
     {
       "basename": "Golang",
       "path": "2、Tech/90、云原生/Golang.md"
-    },
-    {
-      "basename": "DashBoard",
-      "path": "DashBoard.md"
     },
     {
       "basename": "README",
