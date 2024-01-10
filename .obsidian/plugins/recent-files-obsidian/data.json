@@ -1,204 +1,204 @@
 {
   "recentFiles": [
     {
-      "basename": "DashBoard",
-      "path": "DashBoard.md"
+      "basename": "MyBatis",
+      "path": "2、Tech/4、MyBatis/MyBatis.md"
     },
     {
-      "basename": "99、DashBoard",
-      "path": "99、DashBoard.md"
+      "basename": "Redis",
+      "path": "2、Tech/10、Redis/Redis.md"
+    },
+    {
+      "basename": "Dubbo",
+      "path": "2、Tech/12、Dubbo/Dubbo.md"
+    },
+    {
+      "basename": "ElasticSearch",
+      "path": "2、Tech/15、ElasticSearch/ElasticSearch.md"
+    },
+    {
+      "basename": "分布式",
+      "path": "2、Tech/14、SpringCloud/分布式.md"
+    },
+    {
+      "basename": "MongDB",
+      "path": "2、Tech/16、MongoDB/MongDB.md"
+    },
+    {
+      "basename": "网络 IO 模型",
+      "path": "2、Tech/17、Netty/网络 IO 模型.md"
+    },
+    {
+      "basename": "Golang",
+      "path": "2、Tech/90、云原生/Golang.md"
+    },
+    {
+      "basename": "DashBoard",
+      "path": "DashBoard.md"
     },
     {
       "basename": "README",
       "path": "README.md"
     },
     {
-      "basename": "Tomcat",
-      "path": "98、Tech/6、Tomcat/Tomcat.md"
-    },
-    {
-      "basename": "IO 模型",
-      "path": "98、Tech/1、Java/基础/IO 模型.md"
-    },
-    {
-      "basename": "序列化",
-      "path": "98、Tech/1、Java/基础/序列化.md"
-    },
-    {
-      "basename": "1、Spring Framework",
-      "path": "98、Tech/3、Spring/1、Spring Framework.md"
-    },
-    {
-      "basename": "Spring 里用到的设计模式",
-      "path": "98、Tech/3、Spring/Spring 里用到的设计模式.md"
-    },
-    {
-      "basename": "Linux",
-      "path": "98、Tech/90、云原生/Linux.md"
-    },
-    {
-      "basename": "K8s",
-      "path": "98、Tech/90、云原生/K8s.md"
-    },
-    {
       "basename": "经验",
-      "path": "98、Tech/99、面试经验/经验.md"
+      "path": "2、Tech/99、面试经验/经验.md"
+    },
+    {
+      "basename": "Spark",
+      "path": "2、Tech/92、大数据/Spark.md"
+    },
+    {
+      "basename": "Vue",
+      "path": "2、Tech/91、前端/Vue.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "2、Tech/66、力扣刷题/未命名.md"
     },
     {
       "basename": "刷题计划",
-      "path": "98、Tech/66、力扣刷题/刷题计划.md"
+      "path": "2、Tech/66、力扣刷题/刷题计划.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "2、Tech/23、场景设计篇/未命名.md"
+    },
+    {
+      "basename": "线上 CPU 飙升如何排查",
+      "path": "2、Tech/24、在线运维篇/线上 CPU 飙升如何排查.md"
+    },
+    {
+      "basename": "数据库调优",
+      "path": "2、Tech/25、系统调优篇/数据库调优.md"
+    },
+    {
+      "basename": "Tomcat 调优",
+      "path": "2、Tech/25、系统调优篇/Tomcat 调优.md"
+    },
+    {
+      "basename": "JVM 调优",
+      "path": "2、Tech/25、系统调优篇/JVM 调优.md"
+    },
+    {
+      "basename": "凤凰架构",
+      "path": "2、Tech/22、架构设计篇/凤凰架构.md"
+    },
+    {
+      "basename": "DDD",
+      "path": "2、Tech/21、领域驱动设计/DDD.md"
+    },
+    {
+      "basename": "Tomcat",
+      "path": "2、Tech/6、Tomcat/Tomcat.md"
+    },
+    {
+      "basename": "IO 模型",
+      "path": "2、Tech/1、Java/基础/IO 模型.md"
+    },
+    {
+      "basename": "序列化",
+      "path": "2、Tech/1、Java/基础/序列化.md"
+    },
+    {
+      "basename": "1、Spring Framework",
+      "path": "2、Tech/3、Spring/1、Spring Framework.md"
+    },
+    {
+      "basename": "Spring 里用到的设计模式",
+      "path": "2、Tech/3、Spring/Spring 里用到的设计模式.md"
+    },
+    {
+      "basename": "Linux",
+      "path": "2、Tech/90、云原生/Linux.md"
+    },
+    {
+      "basename": "K8s",
+      "path": "2、Tech/90、云原生/K8s.md"
     },
     {
       "basename": "Docker",
-      "path": "98、Tech/90、云原生/Docker.md"
+      "path": "2、Tech/90、云原生/Docker.md"
     },
     {
       "basename": "进程和线程",
-      "path": "98、Tech/0、CS/操作系统/进程和线程.md"
+      "path": "2、Tech/0、CS/操作系统/进程和线程.md"
     },
     {
       "basename": "索引",
-      "path": "98、Tech/5、MySQL/索引.md"
+      "path": "2、Tech/5、MySQL/索引.md"
     },
     {
       "basename": "分布式锁前世今生",
-      "path": "98、Tech/20、分布式与三高/分布式锁前世今生.md"
+      "path": "2、Tech/20、分布式与四高/分布式锁前世今生.md"
     },
     {
       "basename": "手写Ioc",
-      "path": "98、Tech/66、开源贡献/手写Ioc.md"
+      "path": "2、Tech/66、开源贡献/手写Ioc.md"
     },
     {
       "basename": "注解大合集",
-      "path": "98、Tech/3、Spring/注解大合集.md"
+      "path": "2、Tech/3、Spring/注解大合集.md"
     },
     {
       "basename": "集合",
-      "path": "98、Tech/1、Java/基础/集合.md"
+      "path": "2、Tech/1、Java/基础/集合.md"
     },
     {
       "basename": "注解",
-      "path": "98、Tech/1、Java/基础/注解.md"
+      "path": "2、Tech/1、Java/基础/注解.md"
     },
     {
       "basename": "泛型",
-      "path": "98、Tech/1、Java/基础/泛型.md"
+      "path": "2、Tech/1、Java/基础/泛型.md"
     },
     {
       "basename": "反射",
-      "path": "98、Tech/1、Java/基础/反射.md"
+      "path": "2、Tech/1、Java/基础/反射.md"
     },
     {
       "basename": "自己实现一个数据库连接池",
-      "path": "98、Tech/66、开源贡献/自己实现一个数据库连接池.md"
+      "path": "2、Tech/66、开源贡献/自己实现一个数据库连接池.md"
     },
     {
       "basename": "日志",
-      "path": "98、Tech/5、MySQL/日志.md"
+      "path": "2、Tech/5、MySQL/日志.md"
     },
     {
       "basename": "自测与补充",
-      "path": "98、Tech/5、MySQL/自测与补充.md"
+      "path": "2、Tech/5、MySQL/自测与补充.md"
     },
     {
       "basename": "事务",
-      "path": "98、Tech/5、MySQL/事务.md"
+      "path": "2、Tech/5、MySQL/事务.md"
     },
     {
       "basename": "主从读写分离",
-      "path": "98、Tech/5、MySQL/主从读写分离.md"
+      "path": "2、Tech/5、MySQL/主从读写分离.md"
     },
     {
       "basename": "锁",
-      "path": "98、Tech/5、MySQL/锁.md"
+      "path": "2、Tech/5、MySQL/锁.md"
     },
     {
       "basename": "架构",
-      "path": "98、Tech/5、MySQL/架构.md"
+      "path": "2、Tech/5、MySQL/架构.md"
     },
     {
       "basename": "内存数据结构",
-      "path": "98、Tech/5、MySQL/内存数据结构.md"
+      "path": "2、Tech/5、MySQL/内存数据结构.md"
     },
     {
       "basename": "分库分表",
-      "path": "98、Tech/5、MySQL/分库分表.md"
+      "path": "2、Tech/5、MySQL/分库分表.md"
     },
     {
       "basename": "字段类型与使用",
-      "path": "98、Tech/5、MySQL/字段类型与使用.md"
+      "path": "2、Tech/5、MySQL/字段类型与使用.md"
     },
     {
       "basename": "数据同步canal",
-      "path": "98、Tech/5、MySQL/数据同步canal.md"
-    },
-    {
-      "basename": "Pasted image 20231207234321",
-      "path": "98、Tech/5、MySQL/resource/Pasted image 20231207234321.png"
-    },
-    {
-      "basename": "Pasted image 20231207234308",
-      "path": "98、Tech/5、MySQL/resource/Pasted image 20231207234308.png"
-    },
-    {
-      "basename": "Pasted image 20231207234412",
-      "path": "98、Tech/5、MySQL/resource/Pasted image 20231207234412.png"
-    },
-    {
-      "basename": "消费者",
-      "path": "98、Tech/11、RocketMQ/消费者.md"
-    },
-    {
-      "basename": "RocketMQ 概述",
-      "path": "98、Tech/11、RocketMQ/RocketMQ 概述.md"
-    },
-    {
-      "basename": "RocketMQ 自测与补充",
-      "path": "98、Tech/11、RocketMQ/RocketMQ 自测与补充.md"
-    },
-    {
-      "basename": "RocketMQ 是如何保证高可用的？",
-      "path": "98、Tech/11、RocketMQ/RocketMQ 是如何保证高可用的？.md"
-    },
-    {
-      "basename": "Broker",
-      "path": "98、Tech/11、RocketMQ/Broker.md"
-    },
-    {
-      "basename": "NameServer",
-      "path": "98、Tech/11、RocketMQ/NameServer.md"
-    },
-    {
-      "basename": "生产者",
-      "path": "98、Tech/11、RocketMQ/生产者.md"
-    },
-    {
-      "basename": "几大消息中间件类比",
-      "path": "98、Tech/11、RocketMQ/几大消息中间件类比.md"
-    },
-    {
-      "basename": "ZooKeeper",
-      "path": "98、Tech/13、Zookeeper/ZooKeeper.md"
-    },
-    {
-      "basename": "零拷贝技术",
-      "path": "98、Tech/0、CS/操作系统/零拷贝技术.md"
-    },
-    {
-      "basename": "Pasted image 20231123002429",
-      "path": "98、Tech/2、设计模式/resource/Pasted image 20231123002429.png"
-    },
-    {
-      "basename": "设计模式",
-      "path": "98、Tech/2、设计模式/设计模式.md"
-    },
-    {
-      "basename": "责任链模式",
-      "path": "98、Tech/2、设计模式/行为型模式/责任链模式.md"
-    },
-    {
-      "basename": "行为型模式",
-      "path": "98、Tech/2、设计模式/行为型模式/行为型模式.md"
+      "path": "2、Tech/5、MySQL/数据同步canal.md"
     }
   ],
   "omittedPaths": [],
