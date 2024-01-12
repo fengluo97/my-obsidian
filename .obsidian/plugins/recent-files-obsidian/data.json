@@ -5,6 +5,10 @@
       "path": "DashBoard.md"
     },
     {
+      "basename": "Tomcat",
+      "path": "2、Tech/6、Tomcat/Tomcat.md"
+    },
+    {
       "basename": "99、Spring 里用到的设计模式",
       "path": "2、Tech/3、Spring/99、Spring 里用到的设计模式.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "为什么要读源码？如何读源码？",
       "path": "2、Tech/66、源码阅读/为什么要读源码？如何读源码？.md"
-    },
-    {
-      "basename": "Tomcat",
-      "path": "2、Tech/6、Tomcat/Tomcat.md"
     },
     {
       "basename": "网络编程",
