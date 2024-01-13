@@ -5,6 +5,22 @@
       "path": "DashBoard.md"
     },
     {
+      "basename": "医学概念",
+      "path": "1、Life/健康/医学概念.md"
+    },
+    {
+      "basename": "身材管理",
+      "path": "1、Life/健康/身材管理.md"
+    },
+    {
+      "basename": "形象管理",
+      "path": "1、Life/健康/形象管理.md"
+    },
+    {
+      "basename": "营养补剂",
+      "path": "1、Life/健康/营养补剂.md"
+    },
+    {
       "basename": "Tomcat",
       "path": "2、Tech/6、Tomcat/Tomcat.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "事务",
       "path": "2、Tech/5、MySQL/事务.md"
-    },
-    {
-      "basename": "主从读写分离",
-      "path": "2、Tech/5、MySQL/主从读写分离.md"
-    },
-    {
-      "basename": "锁",
-      "path": "2、Tech/5、MySQL/锁.md"
-    },
-    {
-      "basename": "架构",
-      "path": "2、Tech/5、MySQL/架构.md"
-    },
-    {
-      "basename": "内存数据结构",
-      "path": "2、Tech/5、MySQL/内存数据结构.md"
     }
   ],
   "omittedPaths": [],

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DashBoard.md",
+                "file": "1、Life/健康/医学概念.md",
                 "mode": "source",
                 "source": false
               }
@@ -71,7 +71,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DashBoard.md"
+                "file": "1、Life/健康/医学概念.md"
               }
             }
           }
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DashBoard.md",
+                "file": "1、Life/健康/医学概念.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DashBoard.md",
+                "file": "1、Life/健康/医学概念.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,6 +213,10 @@
   },
   "active": "a484ebe08ef77b82",
   "lastOpenFiles": [
+    "1、Life/健康/身材管理.md",
+    "1、Life/健康/形象管理.md",
+    "1、Life/健康/医学概念.md",
+    "1、Life/健康/营养补剂.md",
     "DashBoard.md",
     "2、Tech/66、源码阅读/JDK/JUC",
     "2、Tech/66、源码阅读/JDK/集合",
@@ -242,9 +246,6 @@
     "2、Tech/66、力扣刷题/刷题计划.md",
     "2、Tech/23、场景设计篇/未命名.md",
     "2、Tech/24、在线运维篇/线上 CPU 飙升如何排查.md",
-    "2、Tech/25、系统调优篇/数据库调优.md",
-    "2、Tech/25、系统调优篇/Tomcat 调优.md",
-    "2、Tech/25、系统调优篇/JVM 调优.md",
     "2、Tech/23、场景设计篇",
     "2、Tech/24、在线运维篇",
     "2、Tech/6、Tomcat/resource/Pasted image 20240110003638.png",
