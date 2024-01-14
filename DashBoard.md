@@ -10,7 +10,7 @@ One By One，兴趣驱动
 # 1月
 内功
 - Java、JVM、JUC、设计模式
-- Spring、SpringMVC、SpringBoot、MyBatis、Tomcat
+- Spring、SpringMVC、SpringBoot、MyBatis、Tomcat（ok）
 数据库
 - JDBC、MySQL、分库分表
 

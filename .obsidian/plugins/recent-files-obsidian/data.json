@@ -5,6 +5,10 @@
       "path": "2、Tech/3、Spring/1、Spring Framework.md"
     },
     {
+      "basename": "DashBoard",
+      "path": "DashBoard.md"
+    },
+    {
       "basename": "Tomcat",
       "path": "2、Tech/6、Tomcat/Tomcat.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "Tomcat 开篇与源码环境搭建",
       "path": "2、Tech/66、源码阅读/Tomcat/Tomcat 开篇与源码环境搭建.md"
-    },
-    {
-      "basename": "DashBoard",
-      "path": "DashBoard.md"
     },
     {
       "basename": "身材管理",

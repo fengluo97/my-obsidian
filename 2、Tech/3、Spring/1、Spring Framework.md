@@ -77,11 +77,15 @@ Spring 内置的 `@Autowired` 以及 JDK 内置的 `@Resource`。
 
 ### Spring 如何解决 Bean 的循环依赖？
 
+
 ### Spring 各类后处理器以及扩展点？
+
 
 ### Spring 生命周期的执行顺序？
 
+
 ### Spring @Autowire 的失效场景？
+
 
 ### Spring 作用域
 scope 类型
