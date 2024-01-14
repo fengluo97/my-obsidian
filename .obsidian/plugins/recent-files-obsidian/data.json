@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "DashBoard",
-      "path": "DashBoard.md"
+      "basename": "1、Spring Framework",
+      "path": "2、Tech/3、Spring/1、Spring Framework.md"
     },
     {
       "basename": "Tomcat",
       "path": "2、Tech/6、Tomcat/Tomcat.md"
+    },
+    {
+      "basename": "为什么要读源码？如何读源码？",
+      "path": "2、Tech/66、源码阅读/为什么要读源码？如何读源码？.md"
+    },
+    {
+      "basename": "Tomcat 开篇与源码环境搭建",
+      "path": "2、Tech/66、源码阅读/Tomcat/Tomcat 开篇与源码环境搭建.md"
+    },
+    {
+      "basename": "DashBoard",
+      "path": "DashBoard.md"
     },
     {
       "basename": "身材管理",
@@ -27,14 +39,6 @@
     {
       "basename": "99、Spring 里用到的设计模式",
       "path": "2、Tech/3、Spring/99、Spring 里用到的设计模式.md"
-    },
-    {
-      "basename": "Tomcat 开篇与源码环境搭建",
-      "path": "2、Tech/66、源码阅读/Tomcat/Tomcat 开篇与源码环境搭建.md"
-    },
-    {
-      "basename": "为什么要读源码？如何读源码？",
-      "path": "2、Tech/66、源码阅读/为什么要读源码？如何读源码？.md"
     },
     {
       "basename": "网络编程",
@@ -131,10 +135,6 @@
     {
       "basename": "序列化",
       "path": "2、Tech/1、Java/基础/序列化.md"
-    },
-    {
-      "basename": "1、Spring Framework",
-      "path": "2、Tech/3、Spring/1、Spring Framework.md"
     },
     {
       "basename": "Linux",
