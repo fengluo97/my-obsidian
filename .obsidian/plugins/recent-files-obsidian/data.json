@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "DashBoard",
+      "path": "DashBoard.md"
+    },
+    {
       "basename": "Tomcat",
       "path": "2、Tech/6、Tomcat/Tomcat.md"
     },
@@ -19,10 +23,6 @@
     {
       "basename": "营养补剂",
       "path": "1、Life/健康/营养补剂.md"
-    },
-    {
-      "basename": "DashBoard",
-      "path": "DashBoard.md"
     },
     {
       "basename": "99、Spring 里用到的设计模式",
