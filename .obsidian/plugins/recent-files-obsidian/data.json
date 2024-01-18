@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "JUC",
+      "path": "2、Tech/1、Java/JUC/JUC.md"
+    },
+    {
+      "basename": "Tomcat",
+      "path": "2、Tech/6、Tomcat/Tomcat.md"
+    },
+    {
+      "basename": "操作系统",
+      "path": "2、Tech/0、CS/操作系统/操作系统.md"
+    },
+    {
+      "basename": "进程和线程",
+      "path": "2、Tech/0、CS/操作系统/进程和线程.md"
+    },
+    {
       "basename": "DashBoard",
       "path": "DashBoard.md"
     },
     {
       "basename": "1、Spring Framework",
       "path": "2、Tech/3、Spring/1、Spring Framework.md"
-    },
-    {
-      "basename": "Tomcat",
-      "path": "2、Tech/6、Tomcat/Tomcat.md"
     },
     {
       "basename": "为什么要读源码？如何读源码？",
@@ -149,10 +161,6 @@
       "path": "2、Tech/90、云原生/Docker.md"
     },
     {
-      "basename": "进程和线程",
-      "path": "2、Tech/0、CS/操作系统/进程和线程.md"
-    },
-    {
       "basename": "索引",
       "path": "2、Tech/5、MySQL/索引.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "日志",
       "path": "2、Tech/5、MySQL/日志.md"
-    },
-    {
-      "basename": "自测与补充",
-      "path": "2、Tech/5、MySQL/自测与补充.md"
-    },
-    {
-      "basename": "事务",
-      "path": "2、Tech/5、MySQL/事务.md"
     }
   ],
   "omittedPaths": [],
