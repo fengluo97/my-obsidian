@@ -68,9 +68,9 @@ Spring 内置的 `@Autowired` 以及 JDK 内置的 `@Resource`。
 
 ### Bean 的生命周期
 1、实例化：Spring 容器启动时，读取配置信息或者注解信息，拿到类信息定义（BeanDefinition），再反射通过构造器创建 bean 实例，其实在实例化前后也有回调方法，在实例化前后做处理。
-2、设置对象属性，以及检查 Aware 相关接口，来 set 对应的 aware 的属性（比如 beanName，ApplicationContext），并注入相关依赖（通过@Autowried与@Resource）。
+2、设置对象属性（依赖注入），以及检查 Aware 相关接口，来 set 对应的 aware 的属性（比如 beanName，ApplicationContext），并注入相关依赖（通过@Autowried与@Resource）。
 3、如果有实现 BeanPostProcessor 接口则执行`postProcessBeforeInitialization()`方法，进行前置处理。
-4、如果有实现 InitializingBean 接口则调用 afterPropertiesSet 方法或者存在被 @PostConstruct 注解标记的方法，则进行 bean 的初始化。
+4、初始化，如果有实现 InitializingBean 接口则调用 afterPropertiesSet 方法或者存在被 @PostConstruct 注解标记的方法，则进行 bean 的初始化。
 5、如果有实现 BeanPostProcessor 接口则执行`postProcessAfterInitialization()`方法，进行后置处理。
 6、使用中，bean 已被放入 Ioc 容器中。
 7、容器关闭时，如果有实现 DisposableBean 接口，则调用 bean 的 destroy 方法，或者是 @PreDestroy 注解标记的方法。
@@ -125,21 +125,33 @@ cglib 动态代理类（无接口使用）
 ## AspectJ
 AspectJ是一个强大的面向切面编程（AOP）框架，它在 Java 编程语言的基础上扩展了 AOP 的功能。AspectJ 提供了更丰富和灵活的切面编程能力，相较于 Spring AOP，AspectJ更直接地支持 AOP 的各种概念和功能。
 
-
-切面优先级
-
 @Pointcut() 来声明切点方法。
 
-aop 增强的四种实现方式
+## aop 增强的四种实现方式
 1、aspectJ 编译器，在编译期增强，直接修改了class文件，不会导致类内部调用失效
 2、javaagent，在类加载时期增强，直接修改了class文件，不会导致类内部调用失效
 3、jdk 增强，针对接口代理，代理类与目标类同级，实现了同一个接口。
 4、cglib 增强，没有接口时使用，代理类与目标类是父子关系，代理类继承父类型。要求目标类与目标方法不能为 final。
 
+## Spring 如何选择代理
+1、如果目标实现了接口，则使用 JDK 实现动态代理
+2、如果目标没有实现接口，则使用 cglib 实现动态代理
+3、如果 proxyTargetClass = true，则总是使用 cglib 实现动态代理。
 
+## 代理的创建时机
+1、初始化之后（无循环依赖时）
+2、实例创建后，依赖注入前（有循环依赖时），暂存与二级缓存。
+依赖注入与初始化不应该被增强，仍应被施加于原始对象。
+
+## 切面顺序
+通过 @Order 注解，控制切面顺序，@Order(1)，数字越小，优先级越高。只能控制切面的顺序，不能控制切面内的方法的顺序。
 
 # Spring 事务
+## 声明式事务
+ 
+## 编程式事务
 
+## 事务失效场景
 
 # Spring MVC
 
