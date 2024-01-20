@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "DashBoard",
+      "path": "DashBoard.md"
+    },
+    {
       "basename": "JUC",
       "path": "2、Tech/1、Java/JUC/JUC.md"
+    },
+    {
+      "basename": "Java新特性",
+      "path": "2、Tech/1、Java/Java新特性.md"
+    },
+    {
+      "basename": "IO 模型",
+      "path": "2、Tech/1、Java/基础/IO 模型.md"
     },
     {
       "basename": "Tomcat",
@@ -15,10 +27,6 @@
     {
       "basename": "进程和线程",
       "path": "2、Tech/0、CS/操作系统/进程和线程.md"
-    },
-    {
-      "basename": "DashBoard",
-      "path": "DashBoard.md"
     },
     {
       "basename": "1、Spring Framework",
@@ -141,10 +149,6 @@
       "path": "2、Tech/21、领域驱动设计/DDD.md"
     },
     {
-      "basename": "IO 模型",
-      "path": "2、Tech/1、Java/基础/IO 模型.md"
-    },
-    {
       "basename": "序列化",
       "path": "2、Tech/1、Java/基础/序列化.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "自己实现一个数据库连接池",
       "path": "2、Tech/66、开源贡献/自己实现一个数据库连接池.md"
-    },
-    {
-      "basename": "日志",
-      "path": "2、Tech/5、MySQL/日志.md"
     }
   ],
   "omittedPaths": [],
