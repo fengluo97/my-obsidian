@@ -126,7 +126,15 @@ Hashtable
 juc下的类
 当有多个线程调用它们的同一个实例的某一个方法时，它是线程安全的。
 
+## Monitor
+### Java 对象头
 
+### Monitor
+每个 Java 对象都可以关联一个 Monitor 对象，如果使用 synchronized 给对象上锁（重量级）之后，该对象头的 Mark Word 就会被设置指向 Monitor 对象的指针。Monitor 对象包含了 Owner、EntryList、WaitSet。
+
+
+
+ 
 
 
 
