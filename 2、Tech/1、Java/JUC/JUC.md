@@ -32,6 +32,103 @@
 - 频繁的上下文切换会影响性能。
 
 ## 常用方法
+1、**run**() 方法，相当于执行一次普通方法。
+2、**start**() 方法，启动线程，并执行任务，只能被调用一次。
+
+3、**sleep**() 方法，让当前线程休眠一定的时间，并从 Running 状态进入到 Timed_waiting 状态。
+4、**yield**() 方法，即让出，让当前线程从 Running 进入到 Runnable 就绪状态，然后调度执行其他线程。
+5、线程优先级，设置线程优先级可以让操作系统来决定获得CPU执行权的线程，但是并不是绝对的。优先级和 yield 都是不可靠的线程调度。
+
+6、**join**() 方法，**同步等待**该线程运行结束，可选等待超时时间。
+7、**interrupt**() 方法，可以打断一个线程。如果打断了sleep()、wait()、join() 则会清楚打断标记，并抛出中断异常，通过异常来感知被打断。如果是正在运行中的线程，则会将打断标记设置为 true。可以通过 **isInterrupted**() 来判断是否被打断，来做一些其他的处理，isInterrupted() 不会重置打断标记。
+8、**interrupted**() 静态方法，与 isInterrupted() 方法不同的是，该方法在获得打断标记之后会重置清楚打断标记。
+
+## 两阶段终止模式
+```java
+class TowPhaseTermination {  
+  
+	private Thread monitor;  
+	  
+	public void start() {  
+		monitor = new Thread(() -> {  
+			while (true) {  
+				if (Thread.currentThread().isInterrupted()) {  
+					// 优雅关闭  
+					System.out.println("优雅关闭。。");  
+					break;  
+				}  
+				try {  
+					Thread.sleep(1000);  
+					System.out.println("执行监控操作");  
+				} catch (InterruptedException e) {  
+					e.printStackTrace();  
+					Thread.currentThread().interrupt();  
+				}  
+			}  
+		});  
+		monitor.start();  
+	}  
+	  
+	public void stop() {  
+		monitor.interrupt();  
+	}  
+  
+}
+```
+
+9、不推荐使用的方法，stop()，暴力停止线程，不会释放资源，容易造成死锁。
+10、不推荐使用的方法，suspend()，挂起暂停线程。
+11、不推荐使用的方法，resume()，恢复运行线程。
+
+## 线程状态
+NEW：新建
+RUNNABLE：操作系统层面的阻塞、就绪、运行
+TIMED_WAITING：有等待时间限制的等待，Thread.sleep()
+WAITING：等待，join() 方法
+BLOCKED：阻塞，synchronized
+TERMINATED：终止
+
+# 共享模型
+## 临界区 Critical Section
+一个程序运行多个贤臣本身是没有问题的
+问题出现在多个线程访问共享资源
+- 多个线程读共享资源其实也没有问题
+- 如果对共享资源读写操作时发生指令交错，就会出现问题
+一个段代码块内如果存在对共享资源的多线程读写操作，就称这段代码为临界区。
+
+竞态条件：计算的正确性取决于多个线程的交替执行时序时，就会发生竞态条件。
+
+### Synchronized
+使用对象锁保证了临界区内的代码的原子性。
+加在方法上锁的是 this 对象（不同类实例级别），加在类上锁的是 class 对象（类/JVM 级别）。
+
+
+## 线程安全分析
+成员变量和静态变量是否线程安全？
+- 如果它们没有共享，则线程安全
+- 如果它们被共享了，根据它们的状态是否能够改变，又分为
+	- 如果只有读操作，则线程安全
+	- 如果只有读写操作，则这段代码是临界区，需要考虑线程安全问题
+
+局部变量是否线程安全？
+- 局部变量是线程安全的，因为栈帧的存在，每个线程都有一个独立的局部变量表
+- 局部变量引用的对象则未必，因为引用了堆内存中的对象，堆内存是线程共享的 
+	- 如果该对象没有逃离方法的作用访问，它是线程安全的
+	- 如果该对象逃离方法的作用范围，则需要考虑线程安全
+
+### 线程安全类
+String 不可变类
+StringBuffer
+Random
+Interger 不可变类
+Vector
+Hashtable
+juc下的类
+当有多个线程调用它们的同一个实例的某一个方法时，它是线程安全的。
 
 
 
+
+
+
+# 非共享模型
