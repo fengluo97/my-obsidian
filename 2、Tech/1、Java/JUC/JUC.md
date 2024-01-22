@@ -43,7 +43,8 @@
 7、**interrupt**() 方法，可以打断一个线程。如果打断了sleep()、wait()、join() 则会清楚打断标记，并抛出中断异常，通过异常来感知被打断。如果是正在运行中的线程，则会将打断标记设置为 true。可以通过 **isInterrupted**() 来判断是否被打断，来做一些其他的处理，isInterrupted() 不会重置打断标记。
 8、**interrupted**() 静态方法，与 isInterrupted() 方法不同的是，该方法在获得打断标记之后会重置清楚打断标记。
 
-## 两阶段终止模式
+## 终止模式-两阶段终止模式
+在优雅关闭线程时，为了避免 sleep、wait、join 方法被中断时，抛出异常并清楚中断标记的问题。
 ```java
 class TowPhaseTermination {  
   
@@ -52,6 +53,7 @@ class TowPhaseTermination {
 	public void start() {  
 		monitor = new Thread(() -> {  
 			while (true) {  
+				// 检查打断标记
 				if (Thread.currentThread().isInterrupted()) {  
 					// 优雅关闭  
 					System.out.println("优雅关闭。。");  
@@ -62,7 +64,7 @@ class TowPhaseTermination {
 					System.out.println("执行监控操作");  
 				} catch (InterruptedException e) {  
 					e.printStackTrace();  
-					Thread.currentThread().interrupt();  
+					Thread.currentThread().interrupt(); // 二阶段终止，重新设置打断标记
 				}  
 			}  
 		});  
@@ -70,13 +72,13 @@ class TowPhaseTermination {
 	}  
 	  
 	public void stop() {  
-		monitor.interrupt();  
+		monitor.interrupt();  // 一阶段终止，设置打断标记
 	}  
   
 }
 ```
 
-9、不推荐使用的方法，stop()，暴力停止线程，不会释放资源，容易造成死锁。
+9、不推荐使用的方法，**stop()，暴力停止线程，不会释放资源**，容易造成死锁。
 10、不推荐使用的方法，suspend()，挂起暂停线程。
 11、不推荐使用的方法，resume()，恢复运行线程。
 
@@ -152,9 +154,84 @@ synchronized (lock) {
 }
 ```
 
-## 保护性暂停
-通过 wait/notify 机制实现。
+## 同步模式-保护性暂停
+通过 wait/notify 机制实现。即 Guarded Suspension，用在一个线程等待另一个线程的执行结果。Future 类的实现，RPC 内部实现等。
+```java
+class GuardedObject {
 
+    private Object response = null;
+
+    private final Object lock = new Object();
+
+    public Object get() {
+        synchronized (lock) {
+            while (response == null) {
+                try {
+                    lock.wait();
+                } catch (InterruptedException e) {
+                    throw new RuntimeException(e);
+                }
+            }
+            return response;
+        }
+    }
+
+    public void set(Object response) {
+        synchronized (lock) {
+            this.response = response;
+            lock.notifyAll();
+        }
+    }
+
+}
+```
+
+## 异步模式-生产者/消费者
+```java
+class MessageQueue {
+
+    private int capacity;
+
+    private final LinkedList<Object> list = new LinkedList<>();
+
+    public Object get() {
+        synchronized (list) {
+            while (list.isEmpty()) {
+                try {
+                    list.wait();
+                } catch (InterruptedException e) {
+                    throw new RuntimeException(e);
+                }
+            }
+            Object object = list.removeLast();
+            list.notifyAll();
+            return object;
+        }
+    }
+
+    public void put(Object object) {
+        synchronized (list) {
+            while (list.size() >= capacity) {
+                try {
+                    list.wait();
+                } catch (InterruptedException e) {
+                    throw new RuntimeException(e);
+                }
+            }
+            list.add(object);
+            list.notifyAll();
+        }
+    }
+
+}
+```
+
+LockSupport
+park()
+unpark()
+
+wait、notify 和 notifyAll 必须结合 ObjectMonitor 来使用。
+unpark 可以提前执行
 
 
 # 非共享模型
