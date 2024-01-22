@@ -98,11 +98,6 @@ TERMINATED：终止
 
 竞态条件：计算的正确性取决于多个线程的交替执行时序时，就会发生竞态条件。
 
-### Synchronized
-使用对象锁保证了临界区内的代码的原子性。
-加在方法上锁的是 this 对象（不同类实例级别），加在类上锁的是 class 对象（类/JVM 级别）。
-
-
 ## 线程安全分析
 成员变量和静态变量是否线程安全？
 - 如果它们没有共享，则线程安全
@@ -126,6 +121,10 @@ Hashtable
 juc下的类
 当有多个线程调用它们的同一个实例的某一个方法时，它是线程安全的。
 
+## Synchronized
+使用对象锁保证了临界区内的代码的原子性。
+加在方法上锁的是 this 对象（不同类实例级别），加在类上锁的是 class 对象（类/JVM 级别）。
+
 ## Monitor
 ### Java 对象头
 
@@ -133,9 +132,28 @@ juc下的类
 每个 Java 对象都可以关联一个 Monitor 对象，如果使用 synchronized 给对象上锁（重量级）之后，该对象头的 Mark Word 就会被设置指向 Monitor 对象的指针。Monitor 对象包含了 Owner、EntryList、WaitSet。
 
 
+## Wait/Notify
+wait() 方法，让进入 object 监视器的线程到 waitSet 等待
+notify() 方法，在 object 上正在 waitSet 等待的线程中挑一个唤醒
+notifyAll() 方法，让 object 上正在 waitSet 等待的线程全部唤醒
+它们都是线程之间进行协作的手段，都属于 Object 对象的方法，**必须获得此对象的锁，才能调用这几个方法。**
 
- 
+使用模板
+```java
+synchronized (lock) {
+	while (条件不成立) {
+		lock.wait();
+	}
+	// 干活
+}
 
+synchronized (lock) {
+	lock.notifyAll();
+}
+```
+
+## 保护性暂停
+通过 wait/notify 机制实现。
 
 
 
