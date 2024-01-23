@@ -226,12 +226,32 @@ class MessageQueue {
 }
 ```
 
-LockSupport
+## LockSupport
 park()
 unpark()
 
 wait、notify 和 notifyAll 必须结合 ObjectMonitor 来使用。
 unpark 可以提前执行
+
+## 活跃性问题
+### 死锁
+
+
+### 活锁
+
+
+### 饥饿
+
+死锁和饥饿都可以使用 ReentrantLock 来解决。
+
+## ReentrantLock
+相比于 Synchronized，它
+- 可中断，使用 lockInterruptibly() 方法。
+- 可设置超时时间
+- 可设置为公平锁
+- 支持多个条件变量
+与 synchronized 一样，都可重入。
+
 
 
 # 非共享模型

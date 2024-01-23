@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "DashBoard",
-      "path": "DashBoard.md"
-    },
-    {
       "basename": "JUC",
       "path": "2、Tech/1、Java/JUC/JUC.md"
+    },
+    {
+      "basename": "死锁检测与排查",
+      "path": "2、Tech/24、在线运维篇/死锁检测与排查.md"
+    },
+    {
+      "basename": "Arthas工具使用",
+      "path": "2、Tech/24、在线运维篇/Arthas工具使用.md"
+    },
+    {
+      "basename": "消费积压问题如何解决",
+      "path": "2、Tech/24、在线运维篇/消费积压问题如何解决.md"
+    },
+    {
+      "basename": "慢查询优化",
+      "path": "2、Tech/24、在线运维篇/慢查询优化.md"
+    },
+    {
+      "basename": "DashBoard",
+      "path": "DashBoard.md"
     },
     {
       "basename": "Java新特性",
@@ -183,22 +199,6 @@
     {
       "basename": "集合",
       "path": "2、Tech/1、Java/基础/集合.md"
-    },
-    {
-      "basename": "注解",
-      "path": "2、Tech/1、Java/基础/注解.md"
-    },
-    {
-      "basename": "泛型",
-      "path": "2、Tech/1、Java/基础/泛型.md"
-    },
-    {
-      "basename": "反射",
-      "path": "2、Tech/1、Java/基础/反射.md"
-    },
-    {
-      "basename": "自己实现一个数据库连接池",
-      "path": "2、Tech/66、开源贡献/自己实现一个数据库连接池.md"
     }
   ],
   "omittedPaths": [],
