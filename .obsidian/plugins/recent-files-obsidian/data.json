@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "DashBoard",
+      "path": "DashBoard.md"
+    },
+    {
       "basename": "JUC",
       "path": "2、Tech/1、Java/JUC/JUC.md"
     },
@@ -19,10 +23,6 @@
     {
       "basename": "慢查询优化",
       "path": "2、Tech/24、在线运维篇/慢查询优化.md"
-    },
-    {
-      "basename": "DashBoard",
-      "path": "DashBoard.md"
     },
     {
       "basename": "Java新特性",
