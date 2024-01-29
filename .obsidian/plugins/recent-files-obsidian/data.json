@@ -5,8 +5,20 @@
       "path": "DashBoard.md"
     },
     {
+      "basename": "未命名",
+      "path": "1、Life/厨艺/未命名.md"
+    },
+    {
       "basename": "JUC",
       "path": "2、Tech/1、Java/JUC/JUC.md"
+    },
+    {
+      "basename": "类文件结构",
+      "path": "2、Tech/1、Java/JVM/类文件结构.md"
+    },
+    {
+      "basename": "JVM 概述",
+      "path": "2、Tech/1、Java/JVM/JVM 概述.md"
     },
     {
       "basename": "死锁检测与排查",
@@ -187,18 +199,6 @@
     {
       "basename": "分布式锁前世今生",
       "path": "2、Tech/20、分布式与四高/分布式锁前世今生.md"
-    },
-    {
-      "basename": "手写Ioc",
-      "path": "2、Tech/66、开源贡献/手写Ioc.md"
-    },
-    {
-      "basename": "99、注解大合集",
-      "path": "2、Tech/3、Spring/99、注解大合集.md"
-    },
-    {
-      "basename": "集合",
-      "path": "2、Tech/1、Java/基础/集合.md"
     }
   ],
   "omittedPaths": [],
