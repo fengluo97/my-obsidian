@@ -5,16 +5,36 @@
       "path": "DashBoard.md"
     },
     {
+      "basename": "Redis",
+      "path": "2、Tech/10、Redis/Redis.md"
+    },
+    {
+      "basename": "营养补剂",
+      "path": "1、Life/健康/营养补剂.md"
+    },
+    {
+      "basename": "医学概念",
+      "path": "1、Life/健康/医学概念.md"
+    },
+    {
+      "basename": "形象管理",
+      "path": "1、Life/健康/形象管理.md"
+    },
+    {
+      "basename": "身材管理",
+      "path": "1、Life/健康/身材管理.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "1、Life/厨艺/未命名.md"
+    },
+    {
       "basename": "JUC",
       "path": "2、Tech/1、Java/JUC/JUC.md"
     },
     {
       "basename": "刷题计划",
       "path": "2、Tech/66、力扣刷题/刷题计划.md"
-    },
-    {
-      "basename": "未命名",
-      "path": "1、Life/厨艺/未命名.md"
     },
     {
       "basename": "类文件结构",
@@ -73,22 +93,6 @@
       "path": "2、Tech/66、源码阅读/Tomcat/Tomcat 开篇与源码环境搭建.md"
     },
     {
-      "basename": "身材管理",
-      "path": "1、Life/健康/身材管理.md"
-    },
-    {
-      "basename": "形象管理",
-      "path": "1、Life/健康/形象管理.md"
-    },
-    {
-      "basename": "医学概念",
-      "path": "1、Life/健康/医学概念.md"
-    },
-    {
-      "basename": "营养补剂",
-      "path": "1、Life/健康/营养补剂.md"
-    },
-    {
       "basename": "99、Spring 里用到的设计模式",
       "path": "2、Tech/3、Spring/99、Spring 里用到的设计模式.md"
     },
@@ -99,10 +103,6 @@
     {
       "basename": "MyBatis",
       "path": "2、Tech/4、MyBatis/MyBatis.md"
-    },
-    {
-      "basename": "Redis",
-      "path": "2、Tech/10、Redis/Redis.md"
     },
     {
       "basename": "Dubbo",
