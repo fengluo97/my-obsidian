@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "a91a61a7a1a81295",
+        "id": "fca1d941e86a768c",
         "type": "tabs",
         "children": [
           {
-            "id": "ba8dab570974fa9f",
+            "id": "355c64320d1946c3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "DashBoard.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -67,7 +71,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2、Tech/10、Redis/Redis.md"
+                "file": "DashBoard.md"
               }
             }
           }
@@ -139,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2、Tech/10、Redis/Redis.md",
+                "file": "DashBoard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2、Tech/10、Redis/Redis.md",
+                "file": "DashBoard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,8 +211,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "850b5ea2b885aeff",
+  "active": "355c64320d1946c3",
   "lastOpenFiles": [
+    "resource/Pasted image 20240202235745.png",
+    "resource/Pasted image 20240202234757.png",
     "1、Life/健康/营养补剂.md",
     "1、Life/健康/医学概念.md",
     "1、Life/健康/形象管理.md",
@@ -247,14 +253,12 @@
     "2、Tech/6、Tomcat/resource/Pasted image 20240110223703.png",
     "2、Tech/1、Java/基础/网络编程.md",
     "2、Tech/4、MyBatis/MyBatis.md",
-    "2、Tech/10、Redis/Redis.md",
     "2、Tech/23、场景设计篇",
     "2、Tech/6、Tomcat/resource/Pasted image 20240110003638.png",
     "2、Tech/6、Tomcat/resource/Pasted image 20240110000417.png",
     "2、Tech/6、Tomcat/resource/Pasted image 20240110000251.png",
     "2、Tech/6、Tomcat/resource/Pasted image 20240109235850.png",
     "2、Tech/3、Spring/resource/Pasted image 20231230150829.png",
-    "2、Tech/66、开源贡献/resource/Pasted image 20231227222444.png",
     "Java Virtual Machine/未命名.canvas"
   ]
 }
