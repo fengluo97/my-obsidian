@@ -5,6 +5,46 @@
       "path": "DashBoard.md"
     },
     {
+      "basename": "4、Java新特性",
+      "path": "2、Tech/1、Java/4、Java新特性.md"
+    },
+    {
+      "basename": "常用类",
+      "path": "2、Tech/1、Java/1、基础/常用类.md"
+    },
+    {
+      "basename": "反射",
+      "path": "2、Tech/1、Java/1、基础/反射.md"
+    },
+    {
+      "basename": "网络编程",
+      "path": "2、Tech/1、Java/1、基础/网络编程.md"
+    },
+    {
+      "basename": "IO 模型",
+      "path": "2、Tech/1、Java/1、基础/IO 模型.md"
+    },
+    {
+      "basename": "面向对象",
+      "path": "2、Tech/1、Java/1、基础/面向对象.md"
+    },
+    {
+      "basename": "注解",
+      "path": "2、Tech/1、Java/1、基础/注解.md"
+    },
+    {
+      "basename": "序列化",
+      "path": "2、Tech/1、Java/1、基础/序列化.md"
+    },
+    {
+      "basename": "集合",
+      "path": "2、Tech/1、Java/1、基础/集合.md"
+    },
+    {
+      "basename": "泛型",
+      "path": "2、Tech/1、Java/1、基础/泛型.md"
+    },
+    {
       "basename": "Redis",
       "path": "2、Tech/10、Redis/Redis.md"
     },
@@ -30,7 +70,7 @@
     },
     {
       "basename": "JUC",
-      "path": "2、Tech/1、Java/JUC/JUC.md"
+      "path": "2、Tech/1、Java/3、JUC/JUC.md"
     },
     {
       "basename": "刷题计划",
@@ -38,11 +78,11 @@
     },
     {
       "basename": "类文件结构",
-      "path": "2、Tech/1、Java/JVM/类文件结构.md"
+      "path": "2、Tech/1、Java/2、JVM/类文件结构.md"
     },
     {
       "basename": "JVM 概述",
-      "path": "2、Tech/1、Java/JVM/JVM 概述.md"
+      "path": "2、Tech/1、Java/2、JVM/JVM 概述.md"
     },
     {
       "basename": "死锁检测与排查",
@@ -61,16 +101,8 @@
       "path": "2、Tech/24、在线运维篇/慢查询优化.md"
     },
     {
-      "basename": "Java新特性",
-      "path": "2、Tech/1、Java/Java新特性.md"
-    },
-    {
-      "basename": "IO 模型",
-      "path": "2、Tech/1、Java/基础/IO 模型.md"
-    },
-    {
       "basename": "Tomcat",
-      "path": "2、Tech/6、Tomcat/Tomcat.md"
+      "path": "2、Tech/3、Web开发/6、Tomcat/Tomcat.md"
     },
     {
       "basename": "操作系统",
@@ -82,7 +114,7 @@
     },
     {
       "basename": "1、Spring Framework",
-      "path": "2、Tech/3、Spring/1、Spring Framework.md"
+      "path": "2、Tech/3、Web开发/1、Spring Framework.md"
     },
     {
       "basename": "为什么要读源码？如何读源码？",
@@ -94,15 +126,11 @@
     },
     {
       "basename": "99、Spring 里用到的设计模式",
-      "path": "2、Tech/3、Spring/99、Spring 里用到的设计模式.md"
-    },
-    {
-      "basename": "网络编程",
-      "path": "2、Tech/1、Java/基础/网络编程.md"
+      "path": "2、Tech/3、Web开发/99、Spring 里用到的设计模式.md"
     },
     {
       "basename": "MyBatis",
-      "path": "2、Tech/4、MyBatis/MyBatis.md"
+      "path": "2、Tech/3、Web开发/4、MyBatis/MyBatis.md"
     },
     {
       "basename": "Dubbo",
@@ -170,35 +198,7 @@
     },
     {
       "basename": "凤凰架构",
-      "path": "2、Tech/22、架构设计篇/凤凰架构.md"
-    },
-    {
-      "basename": "DDD",
-      "path": "2、Tech/21、领域驱动设计/DDD.md"
-    },
-    {
-      "basename": "序列化",
-      "path": "2、Tech/1、Java/基础/序列化.md"
-    },
-    {
-      "basename": "Linux",
-      "path": "2、Tech/90、云原生/Linux.md"
-    },
-    {
-      "basename": "K8s",
-      "path": "2、Tech/90、云原生/K8s.md"
-    },
-    {
-      "basename": "Docker",
-      "path": "2、Tech/90、云原生/Docker.md"
-    },
-    {
-      "basename": "索引",
-      "path": "2、Tech/5、MySQL/索引.md"
-    },
-    {
-      "basename": "分布式锁前世今生",
-      "path": "2、Tech/20、分布式与四高/分布式锁前世今生.md"
+      "path": "2、Tech/22、系统架构篇/凤凰架构.md"
     }
   ],
   "omittedPaths": [],
