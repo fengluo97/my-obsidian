@@ -5,6 +5,10 @@
       "path": "DashBoard.md"
     },
     {
+      "basename": "Redis",
+      "path": "2、Tech/10、Redis/Redis.md"
+    },
+    {
       "basename": "4、Java新特性",
       "path": "2、Tech/1、Java/4、Java新特性.md"
     },
@@ -43,10 +47,6 @@
     {
       "basename": "泛型",
       "path": "2、Tech/1、Java/1、基础/泛型.md"
-    },
-    {
-      "basename": "Redis",
-      "path": "2、Tech/10、Redis/Redis.md"
     },
     {
       "basename": "营养补剂",
