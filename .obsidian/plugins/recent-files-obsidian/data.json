@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "RocketMQ retry 重试组件",
+      "path": "2、Tech/66、开源贡献/RocketMQ retry 重试组件.md"
+    },
+    {
+      "basename": "RocketMQ 自测与补充",
+      "path": "2、Tech/11、RocketMQ/RocketMQ 自测与补充.md"
+    },
+    {
       "basename": "DashBoard",
       "path": "DashBoard.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Tomcat 调优",
       "path": "2、Tech/25、系统调优篇/Tomcat 调优.md"
-    },
-    {
-      "basename": "JVM 调优",
-      "path": "2、Tech/25、系统调优篇/JVM 调优.md"
-    },
-    {
-      "basename": "凤凰架构",
-      "path": "2、Tech/22、系统架构篇/凤凰架构.md"
     }
   ],
   "omittedPaths": [],
