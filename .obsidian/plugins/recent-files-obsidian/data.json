@@ -5,6 +5,10 @@
       "path": "DashBoard.md"
     },
     {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
       "basename": "Redis",
       "path": "2、Tech/10、Redis/Redis.md"
     },
@@ -155,10 +159,6 @@
     {
       "basename": "Golang",
       "path": "2、Tech/90、云原生/Golang.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
     },
     {
       "basename": "经验",
