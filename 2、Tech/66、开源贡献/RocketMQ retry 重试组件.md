@@ -8,3 +8,7 @@
 
 2、如果要求强一致性，将本地消息表耦合在业务代码中，执行业务操作的同时向实例消息库插入消息
 
+
+start mqnamesrv.cmd
+
+start mqbroker.cmd -n 127.0.0.1:9876 autoCreateTopicEnable=true

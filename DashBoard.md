@@ -11,46 +11,6 @@ One By One，兴趣驱动
 
 **第二轮并行**：刷题 + 整理项目
 
-周内，每天三个小时。
-周末，每天八个小时。
-
-docker run -d \
---restart=always \
---name rmqnamesrv \
--p 9876:9876 \
--v /docker/rocketmq/data/namesrv/logs:/root/logs \
--v /docker/rocketmq/data/namesrv/store:/root/store \
--e "MAX_POSSIBLE_HEAP=100000000" \
-rocketmqinc/rocketmq:4.2.0 \
-sh mqnamesrv 
-
-docker run -d  \
---restart=always \
---name rmqbroker \
---link rmqnamesrv:namesrv \
--p 10911:10911 \
--p 10909:10909 \
--v  /docker/rocketmq/data/broker/logs:/root/logs \
--v  /docker/rocketmq/data/broker/store:/root/store \
--v /docker/rocketmq/conf/broker.conf:/opt/rocketmq-4.2.0/conf/broker.conf \
--e "NAMESRV_ADDR=namesrv:9876" \
--e "MAX_POSSIBLE_HEAP=200000000" \
-rocketmqinc/rocketmq:4.2.0 \
-sh mqbroker -c /opt/rocketmq-4.2.0/conf/broker.conf 
-
-docker run -d \
---restart=always \
---name rmqadmin \
--e "JAVA_OPTS=-Drocketmq.namesrv.addr=192.168.154.130:9876 \
--Dcom.rocketmq.sendMessageWithVIPChannel=false" \
--p 9999:8080 \
-pangliang/rocketmq-console-ng
-
-
-
-
-
-
 二月份到三月上旬：**第一轮**刷完所有基础项
 ![[Pasted image 20240202234757.png]]
 三月上旬到四月中旬：
