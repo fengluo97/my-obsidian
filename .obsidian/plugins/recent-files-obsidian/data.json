@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "RocketMQ retry 重试组件",
-      "path": "2、Tech/66、开源贡献/RocketMQ retry 重试组件.md"
-    },
-    {
       "basename": "DashBoard",
       "path": "DashBoard.md"
+    },
+    {
+      "basename": "分库分表",
+      "path": "2、Tech/4、MySQL/分库分表.md"
+    },
+    {
+      "basename": "分布式 Id 生成器",
+      "path": "2、Tech/66、开源贡献/分布式 Id 生成器.md"
+    },
+    {
+      "basename": "字段类型与使用",
+      "path": "2、Tech/4、MySQL/字段类型与使用.md"
+    },
+    {
+      "basename": "自测与补充",
+      "path": "2、Tech/4、MySQL/自测与补充.md"
+    },
+    {
+      "basename": "RocketMQ retry 重试组件",
+      "path": "2、Tech/66、开源贡献/RocketMQ retry 重试组件.md"
     },
     {
       "basename": "RocketMQ 自测与补充",
@@ -183,22 +199,6 @@
     {
       "basename": "未命名",
       "path": "2、Tech/66、力扣刷题/未命名.md"
-    },
-    {
-      "basename": "未命名",
-      "path": "2、Tech/23、场景设计篇/未命名.md"
-    },
-    {
-      "basename": "线上 CPU 飙升如何排查",
-      "path": "2、Tech/24、在线运维篇/线上 CPU 飙升如何排查.md"
-    },
-    {
-      "basename": "数据库调优",
-      "path": "2、Tech/25、系统调优篇/数据库调优.md"
-    },
-    {
-      "basename": "Tomcat 调优",
-      "path": "2、Tech/25、系统调优篇/Tomcat 调优.md"
     }
   ],
   "omittedPaths": [],
