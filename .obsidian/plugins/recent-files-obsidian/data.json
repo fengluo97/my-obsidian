@@ -1,24 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "DashBoard",
-      "path": "DashBoard.md"
-    },
-    {
-      "basename": "分库分表",
-      "path": "2、Tech/4、MySQL/分库分表.md"
+      "basename": "rpc",
+      "path": "2、Tech/66、开源贡献/rpc.md"
     },
     {
       "basename": "RocketMQ retry 重试组件",
       "path": "2、Tech/66、开源贡献/RocketMQ retry 重试组件.md"
     },
     {
+      "basename": "自己实现一个数据库连接池",
+      "path": "2、Tech/66、开源贡献/自己实现一个数据库连接池.md"
+    },
+    {
+      "basename": "缓存抽检与 hotkey",
+      "path": "2、Tech/66、开源贡献/缓存抽检与 hotkey.md"
+    },
+    {
       "basename": "分布式 Id 生成器",
       "path": "2、Tech/66、开源贡献/分布式 Id 生成器.md"
     },
     {
-      "basename": "自己实现一个数据库连接池",
-      "path": "2、Tech/66、开源贡献/自己实现一个数据库连接池.md"
+      "basename": "DashBoard",
+      "path": "DashBoard.md"
+    },
+    {
+      "basename": "分库分表",
+      "path": "2、Tech/4、MySQL/分库分表.md"
     },
     {
       "basename": "字段类型与使用",
@@ -187,18 +195,6 @@
     {
       "basename": "Golang",
       "path": "2、Tech/90、云原生/Golang.md"
-    },
-    {
-      "basename": "经验",
-      "path": "2、Tech/99、面试经验/经验.md"
-    },
-    {
-      "basename": "Spark",
-      "path": "2、Tech/92、大数据/Spark.md"
-    },
-    {
-      "basename": "Vue",
-      "path": "2、Tech/91、前端/Vue.md"
     }
   ],
   "omittedPaths": [],

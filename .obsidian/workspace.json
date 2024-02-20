@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DashBoard.md",
+                "file": "2、Tech/66、开源贡献/rpc.md",
                 "mode": "source",
                 "source": false
               }
@@ -71,7 +71,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DashBoard.md"
+                "file": "2、Tech/66、开源贡献/rpc.md"
               }
             }
           }
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DashBoard.md",
+                "file": "2、Tech/66、开源贡献/rpc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DashBoard.md",
+                "file": "2、Tech/66、开源贡献/rpc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,14 +213,17 @@
   },
   "active": "3789f79df12130df",
   "lastOpenFiles": [
-    "DashBoard.md",
     "2、Tech/66、开源贡献/RocketMQ retry 重试组件.md",
-    "2、Tech/66、开源贡献/分布式 Id 生成器.md",
     "2、Tech/66、开源贡献/自己实现一个数据库连接池.md",
+    "2、Tech/66、开源贡献/缓存抽检与 hotkey.md",
+    "2、Tech/66、开源贡献/分布式 Id 生成器.md",
+    "2、Tech/66、开源贡献/rpc.md",
+    "DashBoard.md",
+    "2、Tech/4、MySQL/分库分表.md",
+    "2、Tech/66、开源贡献/未命名.md",
     "2、Tech/66、开源贡献/手写Ioc.md",
     "2、Tech/4、MySQL/字段类型与使用.md",
     "2、Tech/4、MySQL/自测与补充.md",
-    "2、Tech/4、MySQL/分库分表.md",
     "2、Tech/11、RocketMQ/RocketMQ 自测与补充.md",
     "README.md",
     "2、Tech/1、Java/4、Java新特性.md",
@@ -239,9 +242,6 @@
     "1、Life/健康/营养补剂.md",
     "1、Life/健康/医学概念.md",
     "1、Life/健康/形象管理.md",
-    "1、Life/健康/身材管理.md",
-    "1、Life/厨艺/未命名.md",
-    "2、Tech/1、Java/3、JUC/JUC.md",
     "2、Tech/66、力扣刷题/resource/Pasted image 20240129235650.png",
     "2、Tech/66、力扣刷题/resource",
     "1、Life/厨艺",
