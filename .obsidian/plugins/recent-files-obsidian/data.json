@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "DashBoard",
+      "path": "DashBoard.md"
+    },
+    {
       "basename": "rpc",
       "path": "2、Tech/66、开源贡献/rpc.md"
     },
@@ -19,10 +23,6 @@
     {
       "basename": "分布式 Id 生成器",
       "path": "2、Tech/66、开源贡献/分布式 Id 生成器.md"
-    },
-    {
-      "basename": "DashBoard",
-      "path": "DashBoard.md"
     },
     {
       "basename": "分库分表",
