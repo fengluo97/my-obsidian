@@ -191,14 +191,6 @@
     {
       "basename": "MongDB",
       "path": "2、Tech/16、MongoDB/MongDB.md"
-    },
-    {
-      "basename": "网络 IO 模型",
-      "path": "2、Tech/17、Netty/网络 IO 模型.md"
-    },
-    {
-      "basename": "Golang",
-      "path": "2、Tech/90、云原生/Golang.md"
     }
   ],
   "omittedPaths": [],

@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "64c105f9ed6e974e",
+        "id": "d92b7eb84bd3527a",
         "type": "tabs",
         "children": [
           {
-            "id": "e51dfa052b5adf9e",
+            "id": "ab573038f5b39597",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.8"
+                "file": "DashBoard.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -29,7 +31,7 @@
       {
         "id": "85f702690bd89ad3",
         "type": "tabs",
-        "dimension": 48.60557768924303,
+        "dimension": 50.92857142857142,
         "children": [
           {
             "id": "850b5ea2b885aeff",
@@ -37,7 +39,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "custom"
+                "sortOrder": "alphabetical"
               }
             }
           },
@@ -47,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "192.168.154.130",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -61,7 +63,7 @@
       {
         "id": "dba66ff0f0387d2d",
         "type": "tabs",
-        "dimension": 36.90239043824701,
+        "dimension": 31.928571428571427,
         "children": [
           {
             "id": "54977890cbe08c4e",
@@ -78,7 +80,7 @@
       {
         "id": "a900ed8d160b5151",
         "type": "tabs",
-        "dimension": 14.492031872509962,
+        "dimension": 17.142857142857142,
         "children": [
           {
             "id": "259b886ad2eaa262",
@@ -103,7 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321.5
+    "width": 528.5
   },
   "right": {
     "id": "154e219a70cee5f6",
@@ -209,10 +211,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e51dfa052b5adf9e",
+  "active": "259b886ad2eaa262",
   "lastOpenFiles": [
-    "DashBoard.md",
     "2、Tech/66、开源贡献/优雅停机.md",
+    "DashBoard.md",
+    "未命名 3",
+    "未命名 2",
+    "未命名 1.md",
+    "未命名 1",
+    "未命名",
+    "未命名.md",
     "2、Tech/66、开源贡献/RocketMQ retry 重试组件.md",
     "2、Tech/66、开源贡献/自己实现一个数据库连接池.md",
     "2、Tech/66、开源贡献/缓存抽检与 hotkey.md",
@@ -237,9 +245,6 @@
     "2、Tech/1、Java/1、基础/泛型.md",
     "resource/Pasted image 20240202235745.png",
     "resource/Pasted image 20240202234757.png",
-    "1、Life/健康/营养补剂.md",
-    "1、Life/健康/医学概念.md",
-    "1、Life/健康/形象管理.md",
     "2、Tech/66、力扣刷题/resource/Pasted image 20240129235650.png",
     "2、Tech/66、力扣刷题/resource",
     "1、Life/厨艺",
@@ -248,10 +253,6 @@
     "2、Tech/3、Web开发/6、Tomcat/resource/Pasted image 20240114163427.png",
     "2、Tech/66、源码阅读/JDK/JUC",
     "2、Tech/66、源码阅读/JDK/集合",
-    "2、Tech/66、源码阅读/JDK",
-    "2、Tech/66、源码阅读/Tomcat/未命名",
-    "2、Tech/66、源码阅读/Tomcat",
-    "2、Tech/66、源码阅读",
     "2、Tech/3、Web开发/6、Tomcat/resource/Pasted image 20240110223703.png",
     "2、Tech/3、Web开发/6、Tomcat/resource/Pasted image 20240110003638.png",
     "2、Tech/3、Web开发/6、Tomcat/resource/Pasted image 20240110000417.png",
