@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "f5a56eb36866af0e",
+        "id": "20e98539505bdd9a",
         "type": "tabs",
         "children": [
           {
-            "id": "9f2f226980d98071",
+            "id": "afaa219ddbf71be4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "DashBoard.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -27,7 +31,7 @@
       {
         "id": "85f702690bd89ad3",
         "type": "tabs",
-        "dimension": 50.92857142857142,
+        "dimension": 40.14285714285714,
         "children": [
           {
             "id": "63e6573c6423682c",
@@ -60,14 +64,16 @@
       {
         "id": "dba66ff0f0387d2d",
         "type": "tabs",
-        "dimension": 25.857142857142858,
+        "dimension": 36.642857142857146,
         "children": [
           {
             "id": "54977890cbe08c4e",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "DashBoard.md"
+              }
             }
           }
         ]
@@ -100,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 528.5
+    "width": 245.5
   },
   "right": {
     "id": "154e219a70cee5f6",
@@ -111,7 +117,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3f64b3daa600c6a8",
+            "id": "c0c8bfe2fee93bb9",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "4294f518af691d0b",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -119,14 +133,15 @@
             }
           },
           {
-            "id": "c0c8bfe2fee93bb9",
+            "id": "2c92e44f03d01a62",
             "type": "leaf",
             "state": {
-              "type": "advanced-tables-toolbar",
+              "type": "todo",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "9a749d763150198d",
@@ -138,6 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "DashBoard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,17 +170,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "DashBoard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
-            }
-          },
-          {
-            "id": "414230acf1bb43f3",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {}
             }
           },
           {
@@ -198,15 +207,15 @@
       "workspaces:管理工作区布局": false,
       "random-note:开始漫游笔记": false,
       "obsidian42-brat:BRAT": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
       "homepage:Open homepage": false,
       "templater-obsidian:Templater": false,
-      "file-tree-alternative:File Tree Alternative Plugin": false
+      "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "8965bd32f48028e7",
+  "active": "afaa219ddbf71be4",
   "lastOpenFiles": [
+    "2、Tech/17、Netty/网络 IO 模型.md",
+    "2、Tech/17、Netty/Java NIO.md",
     "DashBoard.md",
     "未命名",
     "2、Tech/1、Java/1、基础/常用类.md",
@@ -236,7 +245,6 @@
     "README.md",
     "2、Tech/1、Java/4、Java新特性.md",
     "2、Tech/26、编译部署篇",
-    "2、Tech/1、Java/1、基础/反射.md",
     "resource/Pasted image 20240202235745.png",
     "resource/Pasted image 20240202234757.png",
     "2、Tech/66、力扣刷题/resource/Pasted image 20240129235650.png",

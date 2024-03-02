@@ -5,6 +5,14 @@
       "path": "DashBoard.md"
     },
     {
+      "basename": "网络 IO 模型",
+      "path": "2、Tech/17、Netty/网络 IO 模型.md"
+    },
+    {
+      "basename": "Java NIO",
+      "path": "2、Tech/17、Netty/Java NIO.md"
+    },
+    {
       "basename": "泛型",
       "path": "2、Tech/1、Java/1、基础/泛型.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Dubbo",
       "path": "2、Tech/12、Dubbo/Dubbo.md"
-    },
-    {
-      "basename": "ElasticSearch",
-      "path": "2、Tech/15、ElasticSearch/ElasticSearch.md"
-    },
-    {
-      "basename": "分布式",
-      "path": "2、Tech/14、SpringCloud/分布式.md"
     }
   ],
   "omittedPaths": [],
