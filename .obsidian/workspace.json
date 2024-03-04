@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "dc50d08664ad785b",
+        "id": "f026f3400268803d",
         "type": "tabs",
         "children": [
           {
-            "id": "260a860916130cbd",
+            "id": "7698a43c04f76f9e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -212,7 +212,7 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "260a860916130cbd",
+  "active": "7698a43c04f76f9e",
   "lastOpenFiles": [
     "2、Tech/17、Netty/网络 IO 模型.md",
     "2、Tech/17、Netty/Java NIO.md",
