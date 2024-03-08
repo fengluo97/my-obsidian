@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DashBoard.md",
+                "file": "2、Tech/66、开源贡献/基于netty的简易聊天室.md",
                 "mode": "source",
                 "source": false
               }
@@ -72,7 +72,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DashBoard.md"
+                "file": "2、Tech/66、开源贡献/基于netty的简易聊天室.md"
               }
             }
           }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DashBoard.md",
+                "file": "2、Tech/66、开源贡献/基于netty的简易聊天室.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DashBoard.md",
+                "file": "2、Tech/66、开源贡献/基于netty的简易聊天室.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,9 +214,10 @@
   },
   "active": "03dc83f2d1540607",
   "lastOpenFiles": [
+    "DashBoard.md",
+    "2、Tech/66、开源贡献/基于netty的简易聊天室.md",
     "2、Tech/17、Netty/网络 IO 模型.md",
     "2、Tech/17、Netty/Java NIO.md",
-    "DashBoard.md",
     "未命名",
     "2、Tech/1、Java/1、基础/常用类.md",
     "2、Tech/1、Java/2、JVM/类文件结构.md",
@@ -243,7 +244,6 @@
     "2、Tech/4、MySQL/自测与补充.md",
     "2、Tech/11、RocketMQ/RocketMQ 自测与补充.md",
     "README.md",
-    "2、Tech/1、Java/4、Java新特性.md",
     "2、Tech/26、编译部署篇",
     "resource/Pasted image 20240202235745.png",
     "resource/Pasted image 20240202234757.png",
