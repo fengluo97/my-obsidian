@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "51fecf03da569448",
+        "id": "f19126cd1f6b1596",
         "type": "tabs",
         "children": [
           {
-            "id": "03dc83f2d1540607",
+            "id": "f1ebc1bb2cdf850d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2、Tech/66、开源贡献/基于netty的简易聊天室.md",
+                "file": "1、Life/健康/身材管理.md",
                 "mode": "source",
                 "source": false
               }
@@ -72,7 +72,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2、Tech/66、开源贡献/基于netty的简易聊天室.md"
+                "file": "1、Life/健康/身材管理.md"
               }
             }
           }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2、Tech/66、开源贡献/基于netty的简易聊天室.md",
+                "file": "1、Life/健康/身材管理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2、Tech/66、开源贡献/基于netty的简易聊天室.md",
+                "file": "1、Life/健康/身材管理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,8 +212,11 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "03dc83f2d1540607",
+  "active": "f1ebc1bb2cdf850d",
   "lastOpenFiles": [
+    "1、Life/健康/营养补剂.md",
+    "1、Life/健康/医学概念.md",
+    "1、Life/健康/身材管理.md",
     "DashBoard.md",
     "2、Tech/66、开源贡献/基于netty的简易聊天室.md",
     "2、Tech/17、Netty/网络 IO 模型.md",
@@ -241,9 +244,6 @@
     "2、Tech/4、MySQL/分库分表.md",
     "2、Tech/66、开源贡献/手写Ioc.md",
     "2、Tech/4、MySQL/字段类型与使用.md",
-    "2、Tech/4、MySQL/自测与补充.md",
-    "2、Tech/11、RocketMQ/RocketMQ 自测与补充.md",
-    "README.md",
     "2、Tech/26、编译部署篇",
     "resource/Pasted image 20240202235745.png",
     "resource/Pasted image 20240202234757.png",
