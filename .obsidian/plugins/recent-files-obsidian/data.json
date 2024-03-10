@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "基于netty的简易聊天室",
+      "path": "2、Tech/66、开源贡献/基于netty的简易聊天室.md"
+    },
+    {
       "basename": "身材管理",
       "path": "1、Life/健康/身材管理.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "医学概念",
       "path": "1、Life/健康/医学概念.md"
-    },
-    {
-      "basename": "基于netty的简易聊天室",
-      "path": "2、Tech/66、开源贡献/基于netty的简易聊天室.md"
     },
     {
       "basename": "网络 IO 模型",
