@@ -1,6 +1,50 @@
 {
   "recentFiles": [
     {
+      "basename": "DashBoard",
+      "path": "DashBoard.md"
+    },
+    {
+      "basename": "RocketMQ retry 重试组件",
+      "path": "2、Tech/66、开源贡献/RocketMQ retry 重试组件.md"
+    },
+    {
+      "basename": "自己实现一个数据库连接池",
+      "path": "2、Tech/66、开源贡献/自己实现一个数据库连接池.md"
+    },
+    {
+      "basename": "基于 netty 的rpc",
+      "path": "2、Tech/66、开源贡献/基于 netty 的rpc.md"
+    },
+    {
+      "basename": "基于 netty 的 hotkey",
+      "path": "2、Tech/66、开源贡献/基于 netty 的 hotkey.md"
+    },
+    {
+      "basename": "分布式 Id 生成器",
+      "path": "2、Tech/66、开源贡献/分布式 Id 生成器.md"
+    },
+    {
+      "basename": "缓存抽检",
+      "path": "2、Tech/66、开源贡献/缓存抽检.md"
+    },
+    {
+      "basename": "基于 netty 的简易聊天室",
+      "path": "2、Tech/66、开源贡献/基于 netty 的简易聊天室.md"
+    },
+    {
+      "basename": "dubbo chain",
+      "path": "2、Tech/66、开源贡献/dubbo chain.md"
+    },
+    {
+      "basename": "优雅停机",
+      "path": "2、Tech/66、开源贡献/优雅停机.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
       "basename": "身材管理",
       "path": "1、Life/健康/身材管理.md"
     },
@@ -19,14 +63,6 @@
     {
       "basename": "常识",
       "path": "1、Life/厨艺/常识.md"
-    },
-    {
-      "basename": "基于netty的简易聊天室",
-      "path": "2、Tech/66、开源贡献/基于netty的简易聊天室.md"
-    },
-    {
-      "basename": "DashBoard",
-      "path": "DashBoard.md"
     },
     {
       "basename": "网络 IO 模型",
@@ -77,30 +113,6 @@
       "path": "2024-02-28.md"
     },
     {
-      "basename": "优雅停机",
-      "path": "2、Tech/66、开源贡献/优雅停机.md"
-    },
-    {
-      "basename": "rpc",
-      "path": "2、Tech/66、开源贡献/rpc.md"
-    },
-    {
-      "basename": "RocketMQ retry 重试组件",
-      "path": "2、Tech/66、开源贡献/RocketMQ retry 重试组件.md"
-    },
-    {
-      "basename": "自己实现一个数据库连接池",
-      "path": "2、Tech/66、开源贡献/自己实现一个数据库连接池.md"
-    },
-    {
-      "basename": "缓存抽检与 hotkey",
-      "path": "2、Tech/66、开源贡献/缓存抽检与 hotkey.md"
-    },
-    {
-      "basename": "分布式 Id 生成器",
-      "path": "2、Tech/66、开源贡献/分布式 Id 生成器.md"
-    },
-    {
       "basename": "分库分表",
       "path": "2、Tech/4、MySQL/分库分表.md"
     },
@@ -115,10 +127,6 @@
     {
       "basename": "RocketMQ 自测与补充",
       "path": "2、Tech/11、RocketMQ/RocketMQ 自测与补充.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
     },
     {
       "basename": "Redis",
@@ -191,14 +199,6 @@
     {
       "basename": "Tomcat 开篇与源码环境搭建",
       "path": "2、Tech/66、源码阅读/Tomcat/Tomcat 开篇与源码环境搭建.md"
-    },
-    {
-      "basename": "99、Spring 里用到的设计模式",
-      "path": "2、Tech/3、Web开发/99、Spring 里用到的设计模式.md"
-    },
-    {
-      "basename": "MyBatis",
-      "path": "2、Tech/3、Web开发/4、MyBatis/MyBatis.md"
     }
   ],
   "omittedPaths": [],
