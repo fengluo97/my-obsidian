@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "DashBoard",
+      "path": "DashBoard.md"
+    },
+    {
+      "basename": "基于 netty 的rpc",
+      "path": "2、Tech/66、开源贡献/基于 netty 的rpc.md"
+    },
+    {
       "basename": "基于 netty 的 hotkey",
       "path": "2、Tech/66、开源贡献/基于 netty 的 hotkey.md"
     },
@@ -11,6 +19,10 @@
     {
       "basename": "分布式 Id 生成器",
       "path": "2、Tech/66、开源贡献/分布式 Id 生成器.md"
+    },
+    {
+      "basename": "基于 netty 的简易聊天室",
+      "path": "2、Tech/66、开源贡献/基于 netty 的简易聊天室.md"
     },
     {
       "basename": "优雅停机",
@@ -29,20 +41,8 @@
       "path": "2、Tech/1、Java/3、JUC/对并发的深刻理解.md"
     },
     {
-      "basename": "DashBoard",
-      "path": "DashBoard.md"
-    },
-    {
       "basename": "RocketMQ retry 重试组件",
       "path": "2、Tech/66、开源贡献/RocketMQ retry 重试组件.md"
-    },
-    {
-      "basename": "基于 netty 的rpc",
-      "path": "2、Tech/66、开源贡献/基于 netty 的rpc.md"
-    },
-    {
-      "basename": "基于 netty 的简易聊天室",
-      "path": "2、Tech/66、开源贡献/基于 netty 的简易聊天室.md"
     },
     {
       "basename": "README",
