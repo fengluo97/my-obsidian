@@ -5,6 +5,14 @@
       "path": "DashBoard.md"
     },
     {
+      "basename": "项目",
+      "path": "2、Tech/99、面试经验/项目.md"
+    },
+    {
+      "basename": "经验",
+      "path": "2、Tech/99、面试经验/经验.md"
+    },
+    {
       "basename": "基于 netty 的rpc",
       "path": "2、Tech/66、开源贡献/基于 netty 的rpc.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "慢查询优化",
       "path": "2、Tech/24、在线运维篇/慢查询优化.md"
-    },
-    {
-      "basename": "Tomcat",
-      "path": "2、Tech/3、Web开发/6、Tomcat/Tomcat.md"
-    },
-    {
-      "basename": "为什么要读源码？如何读源码？",
-      "path": "2、Tech/66、源码阅读/为什么要读源码？如何读源码？.md"
     }
   ],
   "omittedPaths": [],
