@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "工程师思维",
-      "path": "2、Tech/99、面试经验/工程师思维.md"
-    },
-    {
       "basename": "DashBoard",
       "path": "DashBoard.md"
+    },
+    {
+      "basename": "优雅停机",
+      "path": "2、Tech/66、开源贡献/优雅停机.md"
+    },
+    {
+      "basename": "自己实现一个数据库连接池",
+      "path": "2、Tech/66、开源贡献/自己实现一个数据库连接池.md"
+    },
+    {
+      "basename": "工程师思维",
+      "path": "2、Tech/99、面试经验/工程师思维.md"
     },
     {
       "basename": "经验",
@@ -31,14 +39,6 @@
     {
       "basename": "基于 netty 的简易聊天室",
       "path": "2、Tech/66、开源贡献/基于 netty 的简易聊天室.md"
-    },
-    {
-      "basename": "优雅停机",
-      "path": "2、Tech/66、开源贡献/优雅停机.md"
-    },
-    {
-      "basename": "自己实现一个数据库连接池",
-      "path": "2、Tech/66、开源贡献/自己实现一个数据库连接池.md"
     },
     {
       "basename": "dubbo chain",
