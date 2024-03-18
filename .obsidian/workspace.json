@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1b16911abcbae722",
+        "id": "d29d1c00eae3bd00",
         "type": "tabs",
         "children": [
           {
-            "id": "6dc8c08d8907a464",
+            "id": "7b0604d4771cb2f8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2、Tech/66、开源贡献/优雅停机.md",
+                "file": "2、Tech/1、Java/1、基础/异常.md",
                 "mode": "source",
                 "source": false
               }
@@ -72,7 +72,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2、Tech/66、开源贡献/优雅停机.md"
+                "file": "2、Tech/1、Java/1、基础/异常.md"
               }
             }
           }
@@ -106,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.5
+    "width": 481.5
   },
   "right": {
     "id": "154e219a70cee5f6",
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2、Tech/66、开源贡献/优雅停机.md",
+                "file": "2、Tech/1、Java/1、基础/异常.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2、Tech/66、开源贡献/优雅停机.md",
+                "file": "2、Tech/1、Java/1、基础/异常.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,11 +212,25 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "6dc8c08d8907a464",
+  "active": "7b0604d4771cb2f8",
   "lastOpenFiles": [
+    "2、Tech/1、Java/1、基础/注解.md",
+    "2、Tech/1、Java/1、基础/异常.md",
+    "2、Tech/1、Java/1、基础/泛型.md",
+    "2、Tech/1、Java/1、基础/反射.md",
+    "2、Tech/1、Java/1、基础/常用类.md",
+    "2、Tech/1、Java/1、基础/IO.md",
+    "2、Tech/1、Java/1、基础/SPI.md",
+    "2、Tech/1、Java/1、基础/值传递.md",
+    "2、Tech/1、Java/1、基础/序列化.md",
+    "2、Tech/1、Java/1、基础/网络编程.md",
+    "2、Tech/1、Java/1、基础/面向对象.md",
+    "2、Tech/1、Java/1、基础/集合/ArrayList.md",
+    "2、Tech/1、Java/1、基础/集合/集合.md",
+    "2、Tech/1、Java/1、基础/集合",
+    "DashBoard.md",
     "2、Tech/66、开源贡献/自己实现一个数据库连接池.md",
     "2、Tech/99、面试经验/工程师思维.md",
-    "DashBoard.md",
     "2、Tech/99、面试经验/经验.md",
     "2、Tech/66、开源贡献/基于 netty 的 hotkey.md",
     "2、Tech/66、开源贡献/缓存抽检.md",
@@ -227,20 +241,7 @@
     "2、Tech/66、开源贡献/dubbo chain.md",
     "2、Tech/1、Java/3、JUC/对并发的深刻理解.md",
     "2、Tech/66、开源贡献/RocketMQ retry 重试组件.md",
-    "2、Tech/66、开源贡献/rpc.md",
-    "README.md",
-    "1、Life/健康/营养补剂.md",
-    "1、Life/健康/医学概念.md",
-    "1、Life/健康/形象管理.md",
-    "1、Life/厨艺/常识.md",
-    "1、Life/健康/身材管理.md",
-    "2、Tech/17、Netty/网络 IO 模型.md",
-    "2、Tech/17、Netty/Java NIO.md",
     "未命名",
-    "2、Tech/1、Java/1、基础/常用类.md",
-    "2、Tech/1、Java/2、JVM/类文件结构.md",
-    "2、Tech/1、Java/2、JVM/JVM 概述.md",
-    "2、Tech/0、CS/操作系统/进程和线程.md",
     "未命名 3",
     "未命名 2",
     "未命名 1",
@@ -254,7 +255,6 @@
     "2、Tech/3、Web开发/6、Tomcat/resource/Pasted image 20240114165342.png",
     "2、Tech/3、Web开发/6、Tomcat/resource/Pasted image 20240114163427.png",
     "2、Tech/66、源码阅读/JDK/JUC",
-    "2、Tech/66、源码阅读/JDK/集合",
     "2、Tech/3、Web开发/6、Tomcat/resource/Pasted image 20240110223703.png",
     "2、Tech/3、Web开发/6、Tomcat/resource/Pasted image 20240110003638.png",
     "2、Tech/3、Web开发/6、Tomcat/resource/Pasted image 20240110000417.png",
