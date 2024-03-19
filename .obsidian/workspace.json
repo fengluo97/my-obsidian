@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d29d1c00eae3bd00",
+        "id": "e20304f1cd45af7c",
         "type": "tabs",
         "children": [
           {
-            "id": "7b0604d4771cb2f8",
+            "id": "6de4934949193bb2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2、Tech/1、Java/1、基础/异常.md",
+                "file": "Tech/3、Web开发/4、MyBatis/MyBatis-Plus.md",
                 "mode": "source",
                 "source": false
               }
@@ -54,7 +54,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "custom"
               }
             }
           }
@@ -72,7 +72,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2、Tech/1、Java/1、基础/异常.md"
+                "file": "Tech/3、Web开发/4、MyBatis/MyBatis-Plus.md"
               }
             }
           }
@@ -106,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 481.5
+    "width": 341.5
   },
   "right": {
     "id": "154e219a70cee5f6",
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2、Tech/1、Java/1、基础/异常.md",
+                "file": "Tech/3、Web开发/4、MyBatis/MyBatis-Plus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2、Tech/1、Java/1、基础/异常.md",
+                "file": "Tech/3、Web开发/4、MyBatis/MyBatis-Plus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,54 +212,54 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "7b0604d4771cb2f8",
+  "active": "6de4934949193bb2",
   "lastOpenFiles": [
-    "2、Tech/1、Java/1、基础/注解.md",
-    "2、Tech/1、Java/1、基础/异常.md",
-    "2、Tech/1、Java/1、基础/泛型.md",
-    "2、Tech/1、Java/1、基础/反射.md",
-    "2、Tech/1、Java/1、基础/常用类.md",
-    "2、Tech/1、Java/1、基础/IO.md",
-    "2、Tech/1、Java/1、基础/SPI.md",
-    "2、Tech/1、Java/1、基础/值传递.md",
-    "2、Tech/1、Java/1、基础/序列化.md",
-    "2、Tech/1、Java/1、基础/网络编程.md",
-    "2、Tech/1、Java/1、基础/面向对象.md",
-    "2、Tech/1、Java/1、基础/集合/ArrayList.md",
-    "2、Tech/1、Java/1、基础/集合/集合.md",
-    "2、Tech/1、Java/1、基础/集合",
+    "Tech/8、RocketMQ/几大消息中间件类比.md",
+    "Tech/3、Web开发/4、MyBatis/MyBatis-Plus.md",
     "DashBoard.md",
-    "2、Tech/66、开源贡献/自己实现一个数据库连接池.md",
-    "2、Tech/99、面试经验/工程师思维.md",
-    "2、Tech/99、面试经验/经验.md",
-    "2、Tech/66、开源贡献/基于 netty 的 hotkey.md",
-    "2、Tech/66、开源贡献/缓存抽检.md",
-    "2、Tech/66、开源贡献/分布式 Id 生成器.md",
-    "2、Tech/66、开源贡献/基于 netty 的rpc.md",
-    "2、Tech/66、开源贡献/基于 netty 的简易聊天室.md",
-    "2、Tech/66、开源贡献/优雅停机.md",
-    "2、Tech/66、开源贡献/dubbo chain.md",
-    "2、Tech/1、Java/3、JUC/对并发的深刻理解.md",
-    "2、Tech/66、开源贡献/RocketMQ retry 重试组件.md",
-    "未命名",
+    "Tech/66、源码阅读篇/为什么要读源码？如何读源码？.md",
+    "Tech/66、技术广度篇",
+    "Tech/66、技术广度篇/云原生/Docker.md",
+    "Tech/66、技术广度篇/云原生/Linux.md",
+    "Tech/66、技术广度篇/云原生/K8s.md",
+    "Tech/66、技术广度篇/云原生/Golang.md",
+    "Tech/99、经验之谈/经验.md",
+    "Tech/99、经验之谈/面经",
+    "Tech/66、技术广度篇/多语言",
+    "Tech/99、经验之谈/工程师思维.md",
+    "Life/烹饪/常识.md",
+    "Life/健康/身材管理.md",
+    "Life/健康/营养补剂.md",
+    "Life/健康/医学概念.md",
+    "Life/健康/形象管理.md",
+    "resource/template/力扣模板.md",
+    "2、Tech/27、技术管理能力",
+    "resource/template/后端技术笔记模板.md",
+    "README.md",
+    "Tech/66、力扣刷题篇/刷题计划.md",
+    "2、Tech/66、力扣刷题/未命名.md",
+    "Tech/3、Web开发/1、Spring.md",
+    "Tech/66、技术广度篇/测试",
+    "Tech/1、Java/4、Java新特性/4、Java新特性.md",
+    "Tech/2、设计模式/设计模式.md",
+    "Tech/1、Java/1、基础/常用类.md",
+    "Tech/1、Java/1、基础/语法糖合辑.md",
+    "Tech/1、Java/1、基础/SPI 机制.md",
+    "Tech/1、Java/4、Java新特性",
+    "Tech/1、Java/1、基础/集合",
     "未命名 3",
     "未命名 2",
     "未命名 1",
-    "2、Tech/26、编译部署篇",
     "resource/Pasted image 20240202235745.png",
     "resource/Pasted image 20240202234757.png",
-    "2、Tech/66、力扣刷题/resource/Pasted image 20240129235650.png",
-    "2、Tech/66、力扣刷题/resource",
-    "1、Life/厨艺",
-    "2、Tech/24、在线运维篇/未命名",
-    "2、Tech/3、Web开发/6、Tomcat/resource/Pasted image 20240114165342.png",
-    "2、Tech/3、Web开发/6、Tomcat/resource/Pasted image 20240114163427.png",
-    "2、Tech/66、源码阅读/JDK/JUC",
-    "2、Tech/3、Web开发/6、Tomcat/resource/Pasted image 20240110223703.png",
-    "2、Tech/3、Web开发/6、Tomcat/resource/Pasted image 20240110003638.png",
-    "2、Tech/3、Web开发/6、Tomcat/resource/Pasted image 20240110000417.png",
-    "2、Tech/3、Web开发/6、Tomcat/resource/Pasted image 20240110000251.png",
-    "2、Tech/3、Web开发/6、Tomcat/resource/Pasted image 20240109235850.png",
+    "Tech/66、力扣刷题篇/resource/Pasted image 20240129235650.png",
+    "Tech/3、Web开发/6、Tomcat/resource/Pasted image 20240114165342.png",
+    "Tech/3、Web开发/6、Tomcat/resource/Pasted image 20240114163427.png",
+    "Tech/3、Web开发/6、Tomcat/resource/Pasted image 20240110223703.png",
+    "Tech/3、Web开发/6、Tomcat/resource/Pasted image 20240110003638.png",
+    "Tech/3、Web开发/6、Tomcat/resource/Pasted image 20240110000417.png",
+    "Tech/3、Web开发/6、Tomcat/resource/Pasted image 20240110000251.png",
+    "Tech/3、Web开发/6、Tomcat/resource/Pasted image 20240109235850.png",
     "Java Virtual Machine/未命名.canvas"
   ]
 }

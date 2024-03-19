@@ -11,4 +11,27 @@
 **并行**：整理知识库 + 刷题
 
 
+先以关键为主！
+3 月 - 4 月
+- [ ] Java
+- [ ] JVM
+- [ ] JUC
+- [ ] 新特性
+- [ ] 设计模式
+- [ ] Web 开发
 
+5 月 - 6 月
+- [ ] MySQL
+- [ ] Redis
+- [ ] MongoDB
+- [ ] ElasticSearch
+- [ ] RocketMQ
+- [ ] Netty
+
+7 月 - 8 月
+- [ ] Dubbo
+- [ ] Zookeeper
+- [ ] SpringCloud Alibaba
+
+9 月 - 10月
+综合能力提升
