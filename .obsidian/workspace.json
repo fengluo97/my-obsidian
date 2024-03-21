@@ -4,16 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "3d821ec1e2f052e7",
+        "id": "f5a3c98c82c2ad58",
         "type": "tabs",
         "children": [
           {
-            "id": "d7224cf33abe1071",
+            "id": "e61e71b8188a84ec",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.11"
+                "file": "Tech/8、RocketMQ/消息存储.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6676baa0eabd3b43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tech/0、CS/操作系统/零拷贝技术.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -70,7 +84,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DashBoard.md"
+                "file": "Tech/8、RocketMQ/消息存储.md"
               }
             }
           }
@@ -151,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DashBoard.md",
+                "file": "Tech/8、RocketMQ/消息存储.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DashBoard.md",
+                "file": "Tech/8、RocketMQ/消息存储.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,8 +224,19 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "d7224cf33abe1071",
+  "active": "e61e71b8188a84ec",
   "lastOpenFiles": [
+    "Tech/8、RocketMQ/RocketMQ 是如何保证高可用的？.md",
+    "Tech/8、RocketMQ/RocketMQ 概述.md",
+    "Tech/8、RocketMQ/RocketMQ 自测与补充.md",
+    "Tech/8、RocketMQ/NameServer.md",
+    "Tech/8、RocketMQ/消息存储.md",
+    "Tech/8、RocketMQ/resource/Pasted image 20240321204358.png",
+    "Tech/8、RocketMQ/resource/Pasted image 20240321203757.png",
+    "Tech/0、CS/操作系统/零拷贝技术.md",
+    "Tech/8、RocketMQ/消费者.md",
+    "Tech/8、RocketMQ/生产者.md",
+    "Tech/8、RocketMQ/几大消息中间件类比.md",
     "Tech/66、力扣刷题篇/刷题计划.md",
     "Tech/1、Java/4、Java新特性/Java8.md",
     "Tech/0、CS/未命名",
@@ -233,17 +258,8 @@
     "Tech/1、Java/1、基础/IO/文件编程.md",
     "Tech/1、Java/1、基础/IO/网络编程.md",
     "Tech/1、Java/1、基础/序列化.md",
-    "Tech/1、Java/1、基础/异常.md",
-    "Tech/1、Java/3、JUC/对并发的深刻理解.md",
     "Tech/1、Java/1、基础/IO",
-    "Tech/1、Java/1、基础/IO.md",
-    "Tech/1、Java/1、基础/网络编程.md",
-    "DashBoard.md",
-    "Tech/8、RocketMQ/几大消息中间件类比.md",
-    "Tech/3、Web开发/4、MyBatis/MyBatis-Plus.md",
-    "Tech/66、源码阅读篇/为什么要读源码？如何读源码？.md",
     "Tech/66、技术广度篇",
-    "Tech/66、技术广度篇/云原生/Docker.md",
     "Tech/99、经验之谈/面经",
     "Tech/66、技术广度篇/多语言",
     "2、Tech/27、技术管理能力",
@@ -256,8 +272,6 @@
     "Tech/3、Web开发/6、Tomcat/resource/Pasted image 20240110223703.png",
     "Tech/3、Web开发/6、Tomcat/resource/Pasted image 20240110003638.png",
     "Tech/3、Web开发/6、Tomcat/resource/Pasted image 20240110000417.png",
-    "Tech/3、Web开发/6、Tomcat/resource/Pasted image 20240110000251.png",
-    "Tech/3、Web开发/6、Tomcat/resource/Pasted image 20240109235850.png",
     "Java Virtual Machine/未命名.canvas"
   ]
 }

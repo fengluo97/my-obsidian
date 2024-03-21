@@ -1,6 +1,42 @@
 {
   "recentFiles": [
     {
+      "basename": "消息存储",
+      "path": "Tech/8、RocketMQ/消息存储.md"
+    },
+    {
+      "basename": "RocketMQ 是如何保证高可用的？",
+      "path": "Tech/8、RocketMQ/RocketMQ 是如何保证高可用的？.md"
+    },
+    {
+      "basename": "RocketMQ 概述",
+      "path": "Tech/8、RocketMQ/RocketMQ 概述.md"
+    },
+    {
+      "basename": "RocketMQ 自测与补充",
+      "path": "Tech/8、RocketMQ/RocketMQ 自测与补充.md"
+    },
+    {
+      "basename": "NameServer",
+      "path": "Tech/8、RocketMQ/NameServer.md"
+    },
+    {
+      "basename": "零拷贝技术",
+      "path": "Tech/0、CS/操作系统/零拷贝技术.md"
+    },
+    {
+      "basename": "消费者",
+      "path": "Tech/8、RocketMQ/消费者.md"
+    },
+    {
+      "basename": "生产者",
+      "path": "Tech/8、RocketMQ/生产者.md"
+    },
+    {
+      "basename": "几大消息中间件类比",
+      "path": "Tech/8、RocketMQ/几大消息中间件类比.md"
+    },
+    {
       "basename": "DashBoard",
       "path": "DashBoard.md"
     },
@@ -85,10 +121,6 @@
       "path": "Tech/3、Web开发/4、MyBatis/MyBatis-Plus.md"
     },
     {
-      "basename": "几大消息中间件类比",
-      "path": "Tech/8、RocketMQ/几大消息中间件类比.md"
-    },
-    {
       "basename": "常识",
       "path": "Life/烹饪/常识.md"
     },
@@ -167,38 +199,6 @@
     {
       "basename": "基于 netty 的 hotkey",
       "path": "Tech/66、开源贡献篇/基于 netty 的 hotkey.md"
-    },
-    {
-      "basename": "缓存抽检",
-      "path": "Tech/66、开源贡献篇/缓存抽检.md"
-    },
-    {
-      "basename": "分布式 Id 生成器",
-      "path": "Tech/66、开源贡献篇/分布式 Id 生成器.md"
-    },
-    {
-      "basename": "基于 netty 的简易聊天室",
-      "path": "Tech/66、开源贡献篇/基于 netty 的简易聊天室.md"
-    },
-    {
-      "basename": "dubbo chain",
-      "path": "Tech/66、开源贡献篇/dubbo chain.md"
-    },
-    {
-      "basename": "RocketMQ retry 重试组件",
-      "path": "Tech/66、开源贡献篇/RocketMQ retry 重试组件.md"
-    },
-    {
-      "basename": "网络 IO 模型",
-      "path": "Tech/9、Netty/网络 IO 模型.md"
-    },
-    {
-      "basename": "Java NIO",
-      "path": "Tech/9、Netty/Java NIO.md"
-    },
-    {
-      "basename": "类文件结构",
-      "path": "Tech/1、Java/2、JVM/类文件结构.md"
     }
   ],
   "omittedPaths": [],
