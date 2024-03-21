@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech/8、RocketMQ/消息存储.md",
+                "file": "Tech/8、RocketMQ/RocketMQ 自测与补充.md",
                 "mode": "source",
                 "source": false
               }
@@ -84,7 +84,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tech/8、RocketMQ/消息存储.md"
+                "file": "Tech/8、RocketMQ/RocketMQ 自测与补充.md"
               }
             }
           }
@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tech/8、RocketMQ/消息存储.md",
+                "file": "Tech/8、RocketMQ/RocketMQ 自测与补充.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tech/8、RocketMQ/消息存储.md",
+                "file": "Tech/8、RocketMQ/RocketMQ 自测与补充.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,16 +226,16 @@
   },
   "active": "e61e71b8188a84ec",
   "lastOpenFiles": [
-    "Tech/8、RocketMQ/RocketMQ 是如何保证高可用的？.md",
     "Tech/8、RocketMQ/RocketMQ 概述.md",
     "Tech/8、RocketMQ/RocketMQ 自测与补充.md",
+    "Tech/8、RocketMQ/RocketMQ 是如何保证高可用的？.md",
+    "Tech/8、RocketMQ/消费者.md",
     "Tech/8、RocketMQ/NameServer.md",
     "Tech/8、RocketMQ/消息存储.md",
+    "Tech/8、RocketMQ/生产者.md",
     "Tech/8、RocketMQ/resource/Pasted image 20240321204358.png",
     "Tech/8、RocketMQ/resource/Pasted image 20240321203757.png",
     "Tech/0、CS/操作系统/零拷贝技术.md",
-    "Tech/8、RocketMQ/消费者.md",
-    "Tech/8、RocketMQ/生产者.md",
     "Tech/8、RocketMQ/几大消息中间件类比.md",
     "Tech/66、力扣刷题篇/刷题计划.md",
     "Tech/1、Java/4、Java新特性/Java8.md",

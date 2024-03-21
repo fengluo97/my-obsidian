@@ -1,36 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "消息存储",
-      "path": "Tech/8、RocketMQ/消息存储.md"
-    },
-    {
-      "basename": "RocketMQ 是如何保证高可用的？",
-      "path": "Tech/8、RocketMQ/RocketMQ 是如何保证高可用的？.md"
+      "basename": "RocketMQ 自测与补充",
+      "path": "Tech/8、RocketMQ/RocketMQ 自测与补充.md"
     },
     {
       "basename": "RocketMQ 概述",
       "path": "Tech/8、RocketMQ/RocketMQ 概述.md"
     },
     {
-      "basename": "RocketMQ 自测与补充",
-      "path": "Tech/8、RocketMQ/RocketMQ 自测与补充.md"
-    },
-    {
-      "basename": "NameServer",
-      "path": "Tech/8、RocketMQ/NameServer.md"
-    },
-    {
-      "basename": "零拷贝技术",
-      "path": "Tech/0、CS/操作系统/零拷贝技术.md"
+      "basename": "RocketMQ 是如何保证高可用的？",
+      "path": "Tech/8、RocketMQ/RocketMQ 是如何保证高可用的？.md"
     },
     {
       "basename": "消费者",
       "path": "Tech/8、RocketMQ/消费者.md"
     },
     {
+      "basename": "NameServer",
+      "path": "Tech/8、RocketMQ/NameServer.md"
+    },
+    {
+      "basename": "消息存储",
+      "path": "Tech/8、RocketMQ/消息存储.md"
+    },
+    {
       "basename": "生产者",
       "path": "Tech/8、RocketMQ/生产者.md"
+    },
+    {
+      "basename": "零拷贝技术",
+      "path": "Tech/0、CS/操作系统/零拷贝技术.md"
     },
     {
       "basename": "几大消息中间件类比",
