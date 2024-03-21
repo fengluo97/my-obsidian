@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a55262f3e46048f7",
+        "id": "3d821ec1e2f052e7",
         "type": "tabs",
         "children": [
           {
-            "id": "87ebd01697b8a0cd",
+            "id": "d7224cf33abe1071",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "DashBoard.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.5.11"
               }
             }
           }
@@ -31,7 +29,7 @@
       {
         "id": "85f702690bd89ad3",
         "type": "tabs",
-        "dimension": 40.14285714285714,
+        "dimension": 66.63346613545816,
         "children": [
           {
             "id": "63e6573c6423682c",
@@ -64,7 +62,7 @@
       {
         "id": "dba66ff0f0387d2d",
         "type": "tabs",
-        "dimension": 36.642857142857146,
+        "dimension": 18.725099601593627,
         "children": [
           {
             "id": "54977890cbe08c4e",
@@ -81,7 +79,7 @@
       {
         "id": "a900ed8d160b5151",
         "type": "tabs",
-        "dimension": 23.214285714285715,
+        "dimension": 14.641434262948207,
         "children": [
           {
             "id": "259b886ad2eaa262",
@@ -106,7 +104,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 341.5
+    "width": 233.5
   },
   "right": {
     "id": "154e219a70cee5f6",
@@ -212,44 +210,44 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "87ebd01697b8a0cd",
+  "active": "d7224cf33abe1071",
   "lastOpenFiles": [
+    "Tech/66、力扣刷题篇/刷题计划.md",
+    "Tech/1、Java/4、Java新特性/Java8.md",
+    "Tech/0、CS/未命名",
+    "Tech/66、力扣刷题篇/数据结构",
+    "Tech/0、CS/计算机网络",
+    "Tech/0、CS/计算机组成原理",
+    "Tech/1、Java/1、基础/泛型.md",
+    "Tech/1、Java/1、基础/注解.md",
+    "Tech/1、Java/1、基础/反射.md",
+    "Tech/1、Java/1、基础/集合/ArrayList.md",
+    "Tech/1、Java/1、基础/集合/集合.md",
+    "Tech/1、Java/1、基础/面向对象.md",
+    "Tech/3、Web开发/1、Spring.md",
+    "Tech/3、Web开发/2、SpringMVC.md",
+    "Tech/1、Java/1、基础/常用类.md",
+    "Tech/1、Java/1、基础/值传递.md",
+    "Tech/1、Java/1、基础/SPI 机制.md",
+    "Tech/1、Java/1、基础/语法糖合辑.md",
+    "Tech/1、Java/1、基础/IO/文件编程.md",
+    "Tech/1、Java/1、基础/IO/网络编程.md",
+    "Tech/1、Java/1、基础/序列化.md",
+    "Tech/1、Java/1、基础/异常.md",
+    "Tech/1、Java/3、JUC/对并发的深刻理解.md",
+    "Tech/1、Java/1、基础/IO",
+    "Tech/1、Java/1、基础/IO.md",
+    "Tech/1、Java/1、基础/网络编程.md",
+    "DashBoard.md",
     "Tech/8、RocketMQ/几大消息中间件类比.md",
     "Tech/3、Web开发/4、MyBatis/MyBatis-Plus.md",
-    "DashBoard.md",
     "Tech/66、源码阅读篇/为什么要读源码？如何读源码？.md",
     "Tech/66、技术广度篇",
     "Tech/66、技术广度篇/云原生/Docker.md",
-    "Tech/66、技术广度篇/云原生/Linux.md",
-    "Tech/66、技术广度篇/云原生/K8s.md",
-    "Tech/66、技术广度篇/云原生/Golang.md",
-    "Tech/99、经验之谈/经验.md",
     "Tech/99、经验之谈/面经",
     "Tech/66、技术广度篇/多语言",
-    "Tech/99、经验之谈/工程师思维.md",
-    "Life/烹饪/常识.md",
-    "Life/健康/身材管理.md",
-    "Life/健康/营养补剂.md",
-    "Life/健康/医学概念.md",
-    "Life/健康/形象管理.md",
-    "resource/template/力扣模板.md",
     "2、Tech/27、技术管理能力",
-    "resource/template/后端技术笔记模板.md",
-    "README.md",
-    "Tech/66、力扣刷题篇/刷题计划.md",
-    "2、Tech/66、力扣刷题/未命名.md",
-    "Tech/3、Web开发/1、Spring.md",
     "Tech/66、技术广度篇/测试",
-    "Tech/1、Java/4、Java新特性/4、Java新特性.md",
-    "Tech/2、设计模式/设计模式.md",
-    "Tech/1、Java/1、基础/常用类.md",
-    "Tech/1、Java/1、基础/语法糖合辑.md",
-    "Tech/1、Java/1、基础/SPI 机制.md",
-    "Tech/1、Java/4、Java新特性",
-    "Tech/1、Java/1、基础/集合",
-    "未命名 3",
-    "未命名 2",
-    "未命名 1",
     "resource/Pasted image 20240202235745.png",
     "resource/Pasted image 20240202234757.png",
     "Tech/66、力扣刷题篇/resource/Pasted image 20240129235650.png",

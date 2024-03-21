@@ -12,20 +12,21 @@
 
 
 先以关键为主！
-3 月 - 4 月
+3 月 - 4 月 7 号
 - [ ] Java
 - [ ] JVM
 - [ ] JUC
 - [ ] 新特性
+
+4 月
 - [ ] 设计模式
 - [ ] Web 开发
 
 5 月 - 6 月
-- [ ] MySQL
+- [ ] MySQL - 锁、事务、索引、日志、分库分表、主从同步
 - [ ] Redis
-- [ ] MongoDB
-- [ ] ElasticSearch
 - [ ] RocketMQ
+- [ ] MongoDB + ElasticSearch 一共一周
 - [ ] Netty
 
 7 月 - 8 月
@@ -35,3 +36,5 @@
 
 9 月 - 10月
 综合能力提升
+
+别慌，一步一步来
