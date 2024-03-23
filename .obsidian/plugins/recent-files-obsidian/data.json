@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "DashBoard",
+      "path": "DashBoard.md"
+    },
+    {
+      "basename": "零拷贝技术",
+      "path": "Tech/0、CS/操作系统/零拷贝技术.md"
+    },
+    {
       "basename": "RocketMQ 自测与补充",
       "path": "Tech/8、RocketMQ/RocketMQ 自测与补充.md"
     },
@@ -29,16 +37,8 @@
       "path": "Tech/8、RocketMQ/生产者.md"
     },
     {
-      "basename": "零拷贝技术",
-      "path": "Tech/0、CS/操作系统/零拷贝技术.md"
-    },
-    {
       "basename": "几大消息中间件类比",
       "path": "Tech/8、RocketMQ/几大消息中间件类比.md"
-    },
-    {
-      "basename": "DashBoard",
-      "path": "DashBoard.md"
     },
     {
       "basename": "刷题计划",

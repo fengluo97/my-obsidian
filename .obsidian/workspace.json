@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f5a3c98c82c2ad58",
+        "id": "37de59d295671223",
         "type": "tabs",
         "children": [
           {
-            "id": "e61e71b8188a84ec",
+            "id": "b08be8092783087f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech/8、RocketMQ/RocketMQ 自测与补充.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6676baa0eabd3b43",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tech/0、CS/操作系统/零拷贝技术.md",
+                "file": "DashBoard.md",
                 "mode": "source",
                 "source": false
               }
@@ -84,7 +72,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tech/8、RocketMQ/RocketMQ 自测与补充.md"
+                "file": "DashBoard.md"
               }
             }
           }
@@ -165,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tech/8、RocketMQ/RocketMQ 自测与补充.md",
+                "file": "DashBoard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tech/8、RocketMQ/RocketMQ 自测与补充.md",
+                "file": "DashBoard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -224,10 +212,12 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "e61e71b8188a84ec",
+  "active": "b08be8092783087f",
   "lastOpenFiles": [
-    "Tech/8、RocketMQ/RocketMQ 概述.md",
+    "Tech/0、CS/操作系统/零拷贝技术.md",
+    "DashBoard.md",
     "Tech/8、RocketMQ/RocketMQ 自测与补充.md",
+    "Tech/8、RocketMQ/RocketMQ 概述.md",
     "Tech/8、RocketMQ/RocketMQ 是如何保证高可用的？.md",
     "Tech/8、RocketMQ/消费者.md",
     "Tech/8、RocketMQ/NameServer.md",
@@ -235,7 +225,6 @@
     "Tech/8、RocketMQ/生产者.md",
     "Tech/8、RocketMQ/resource/Pasted image 20240321204358.png",
     "Tech/8、RocketMQ/resource/Pasted image 20240321203757.png",
-    "Tech/0、CS/操作系统/零拷贝技术.md",
     "Tech/8、RocketMQ/几大消息中间件类比.md",
     "Tech/66、力扣刷题篇/刷题计划.md",
     "Tech/1、Java/4、Java新特性/Java8.md",
@@ -257,7 +246,6 @@
     "Tech/1、Java/1、基础/语法糖合辑.md",
     "Tech/1、Java/1、基础/IO/文件编程.md",
     "Tech/1、Java/1、基础/IO/网络编程.md",
-    "Tech/1、Java/1、基础/序列化.md",
     "Tech/1、Java/1、基础/IO",
     "Tech/66、技术广度篇",
     "Tech/99、经验之谈/面经",
