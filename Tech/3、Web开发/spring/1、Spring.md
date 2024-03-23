@@ -43,6 +43,7 @@ Spring 中通过 Ioc 容器来管理 Bean，所有的 Bean 都在 Ioc 容器中�
 - `@Service` : 对应服务层，主要涉及一些复杂的逻辑，需要用到 Dao 层。
 - `@Controller`: 对应 Spring MVC 控制层，主要用于接受用户请求并调用 `Service` 层返回数据给前端页面。
 -  `@Configuration`: 用来声明配置类。
+- 上面这几个注解内部都是以 Component 为实现的。
 - `@Bean`：唯一一个作用在方法上的注解，通常和 `@Configuration`注解配合使用。@Bean 注解用于告诉 Ioc，该方法会产生一个 Bean 对象，然后将这个 Bean 对象交给 Ioc 管理。产生这个 Bean 对象的方法 Spring 只会调用一次，随后 Spring 会将这个 Bean 对象放在自己的 Ioc 容器中；
 
 ### 注入 Bean 的注解

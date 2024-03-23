@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DashBoard.md",
+                "file": "Tech/3、Web开发/spring/1、Spring.md",
                 "mode": "source",
                 "source": false
               }
@@ -72,7 +72,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DashBoard.md"
+                "file": "Tech/3、Web开发/spring/1、Spring.md"
               }
             }
           }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DashBoard.md",
+                "file": "Tech/3、Web开发/spring/1、Spring.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DashBoard.md",
+                "file": "Tech/3、Web开发/spring/1、Spring.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,8 +214,11 @@
   },
   "active": "b08be8092783087f",
   "lastOpenFiles": [
-    "Tech/0、CS/操作系统/零拷贝技术.md",
+    "Tech/3、Web开发/spring/Bean 的生命周期.md",
+    "Tech/3、Web开发/spring/1、Spring.md",
+    "Tech/3、Web开发/spring",
     "DashBoard.md",
+    "Tech/0、CS/操作系统/零拷贝技术.md",
     "Tech/8、RocketMQ/RocketMQ 自测与补充.md",
     "Tech/8、RocketMQ/RocketMQ 概述.md",
     "Tech/8、RocketMQ/RocketMQ 是如何保证高可用的？.md",
@@ -238,20 +241,17 @@
     "Tech/1、Java/1、基础/集合/ArrayList.md",
     "Tech/1、Java/1、基础/集合/集合.md",
     "Tech/1、Java/1、基础/面向对象.md",
-    "Tech/3、Web开发/1、Spring.md",
     "Tech/3、Web开发/2、SpringMVC.md",
     "Tech/1、Java/1、基础/常用类.md",
     "Tech/1、Java/1、基础/值传递.md",
     "Tech/1、Java/1、基础/SPI 机制.md",
     "Tech/1、Java/1、基础/语法糖合辑.md",
     "Tech/1、Java/1、基础/IO/文件编程.md",
-    "Tech/1、Java/1、基础/IO/网络编程.md",
     "Tech/1、Java/1、基础/IO",
     "Tech/66、技术广度篇",
     "Tech/99、经验之谈/面经",
     "Tech/66、技术广度篇/多语言",
     "2、Tech/27、技术管理能力",
-    "Tech/66、技术广度篇/测试",
     "resource/Pasted image 20240202235745.png",
     "resource/Pasted image 20240202234757.png",
     "Tech/66、力扣刷题篇/resource/Pasted image 20240129235650.png",

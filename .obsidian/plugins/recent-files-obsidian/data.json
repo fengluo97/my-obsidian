@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "1、Spring",
+      "path": "Tech/3、Web开发/spring/1、Spring.md"
+    },
+    {
+      "basename": "Bean 的生命周期",
+      "path": "Tech/3、Web开发/spring/Bean 的生命周期.md"
+    },
+    {
       "basename": "DashBoard",
       "path": "DashBoard.md"
     },
@@ -71,10 +79,6 @@
     {
       "basename": "面向对象",
       "path": "Tech/1、Java/1、基础/面向对象.md"
-    },
-    {
-      "basename": "1、Spring",
-      "path": "Tech/3、Web开发/1、Spring.md"
     },
     {
       "basename": "2、SpringMVC",
@@ -195,10 +199,6 @@
     {
       "basename": "基于 netty 的rpc",
       "path": "Tech/66、开源贡献篇/基于 netty 的rpc.md"
-    },
-    {
-      "basename": "基于 netty 的 hotkey",
-      "path": "Tech/66、开源贡献篇/基于 netty 的 hotkey.md"
     }
   ],
   "omittedPaths": [],
