@@ -1,19 +1,4 @@
-# 一、简介
-## Spring 是啥？
-官网：[Spring | Home](https://spring.io/)
-1、Spring 是一个轻量级的开源框架，是Spring生态圈的基础和核心，面向企业级应用。
-2、Spring 包含了两个最核心的模块：
-- Ioc（Inverse of Control）控制反转
-- Aop（Aspect Oriented Programming）面向切面编程
-![[Pasted image 20231230150829.png]]
-## 特点
-- 非侵入式，对系统侵入很低
-- 控制反转
-- 面向切面编程
-- 容器管理
-- 一站式生态
-
-# 二、Ioc
+# 一、Ioc
 Inverse of Control 控制反转，把对象创建和对象之间的调用过程，交给 Spring 进行管理，解耦对象的创建与调用。也就是说 Spring Ioc 会帮我们实现创建对象与依赖注入的操作（可基于xml或者注解方式）。
 IoC 容器就像是一个工厂一样，当我们需要创建一个对象的时候，只需要配置好配置文件/注解即可，完全不用考虑对象是如何被创建出来的；当我们需要依赖一个对象的时候，只需要使用 Ioc 容器获取 Bean 或者使用注解将需要的 Bean 注入即可。
 在传统的Java开发中，对象的创建和依赖关系通常在类的内部或通过工厂模式等方式进行管理。而在IoC容器中，这些责任被反转了，对象的创建和依赖关系的管理由容器负责，而应用程序则从容器中获取所需的对象。
@@ -25,7 +10,7 @@ Spring 中通过 Ioc 容器来管理 Bean，所有的 Bean 都在 Ioc 容器中�
 相同类型的后置处理器之间的顺序通过 order 变量控制。
 
 ## Ioc 创建对象
-基本原理：xml 配置类属性定义或者注解方式获取类的信息（扫描包路径） + 反射或者工厂方法创建对象。
+基本原理：xml 配置类属性定义或者注解方式获取类的信息（扫描包路径；这一步就是为了提供类的定义信息） + 反射创建对象。
 
 ## Ioc 依赖注入
 基本原理：对容器中的 bean 进行依赖注入，通过反射获取需要的字段属性，并为其注入值。有三种方式注入属性或者对象。
@@ -68,7 +53,7 @@ Spring 内置的 `@Autowired` 以及 JDK 内置的 `@Resource`。
 如果是 singleton，那么就要看这个 Bean 内部是否是有状态的，也就是说是否有共享的变量，如果这个 Bean 是有状态的，那么就会存在线程安全问题。
 
 ### Bean 的生命周期
-1、实例化：Spring 容器启动时，读取配置信息或者注解信息，拿到类信息定义（BeanDefinition），再反射通过构造器创建 bean 实例，其实在实例化前后也有回调方法，在实例化前后做处理。
+1、实例化：Spring 容器启动时，读取配置信息或者注解信息，拿到类信息定义（BeanDefinition），再反射 getDeclaredConstructor 通过构造器 newInstance 创建 bean 实例，其实在实例化前后也有回调方法，在实例化前后做处理。
 2、设置对象属性（依赖注入），以及检查 Aware 相关接口，来 set 对应的 aware 的属性（比如 beanName，ApplicationContext，BeanFactory），并注入相关依赖（通过@Autowried与@Resource）。
 3、如果有实现 BeanPostProcessor 接口则执行`postProcessBeforeInitialization()`方法，进行前置处理。
 4、初始化，如果有实现 InitializingBean 接口则调用 afterPropertiesSet 方法或者存在被 @PostConstruct 注解标记的方法，则进行 bean 的初始化。

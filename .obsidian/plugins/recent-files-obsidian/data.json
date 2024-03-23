@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "1、Spring",
-      "path": "Tech/3、Web开发/spring/1、Spring.md"
-    },
-    {
       "basename": "Bean 的生命周期",
       "path": "Tech/3、Web开发/spring/Bean 的生命周期.md"
+    },
+    {
+      "basename": "Spring",
+      "path": "Tech/3、Web开发/spring/Spring.md"
     },
     {
       "basename": "DashBoard",
@@ -129,10 +129,6 @@
       "path": "Life/烹饪/常识.md"
     },
     {
-      "basename": "为什么要读源码？如何读源码？",
-      "path": "Tech/66、源码阅读篇/为什么要读源码？如何读源码？.md"
-    },
-    {
       "basename": "Docker",
       "path": "Tech/66、技术广度篇/云原生/Docker.md"
     },
@@ -195,10 +191,6 @@
     {
       "basename": "自己实现一个数据库连接池",
       "path": "Tech/66、开源贡献篇/自己实现一个数据库连接池.md"
-    },
-    {
-      "basename": "基于 netty 的rpc",
-      "path": "Tech/66、开源贡献篇/基于 netty 的rpc.md"
     }
   ],
   "omittedPaths": [],
