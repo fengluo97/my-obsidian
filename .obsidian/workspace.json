@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech/3、Web开发/spring/Bean 的生命周期.md",
+                "file": "Tech/3、Web开发/3、SpringBoot/SpringBoot 自动装配.md",
                 "mode": "source",
                 "source": false
               }
@@ -72,7 +72,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tech/3、Web开发/spring/Bean 的生命周期.md"
+                "file": "Tech/3、Web开发/3、SpringBoot/SpringBoot 自动装配.md"
               }
             }
           }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tech/3、Web开发/spring/Bean 的生命周期.md",
+                "file": "Tech/3、Web开发/3、SpringBoot/SpringBoot 自动装配.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tech/3、Web开发/spring/Bean 的生命周期.md",
+                "file": "Tech/3、Web开发/3、SpringBoot/SpringBoot 自动装配.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,8 +214,12 @@
   },
   "active": "b08be8092783087f",
   "lastOpenFiles": [
+    "Tech/3、Web开发/3、SpringBoot/resource/Pasted image 20240323233853.png",
+    "Tech/3、Web开发/3、SpringBoot/resource",
+    "Tech/3、Web开发/2、SpringMVC.md",
     "Tech/3、Web开发/spring/Spring.md",
     "Tech/3、Web开发/spring/Bean 的生命周期.md",
+    "Tech/3、Web开发/3、SpringBoot/SpringBoot 自动装配.md",
     "Tech/66、源码阅读篇/为什么要读源码？如何读源码？.md",
     "Tech/66、源码阅读篇/Tomcat/Tomcat 开篇与源码环境搭建.md",
     "Tech/3、Web开发/spring",
@@ -243,15 +247,11 @@
     "Tech/1、Java/1、基础/集合/ArrayList.md",
     "Tech/1、Java/1、基础/集合/集合.md",
     "Tech/1、Java/1、基础/面向对象.md",
-    "Tech/3、Web开发/2、SpringMVC.md",
     "Tech/1、Java/1、基础/常用类.md",
-    "Tech/1、Java/1、基础/值传递.md",
-    "Tech/1、Java/1、基础/SPI 机制.md",
     "Tech/1、Java/1、基础/IO",
     "Tech/66、技术广度篇",
     "Tech/99、经验之谈/面经",
     "Tech/66、技术广度篇/多语言",
-    "2、Tech/27、技术管理能力",
     "resource/Pasted image 20240202235745.png",
     "resource/Pasted image 20240202234757.png",
     "Tech/66、力扣刷题篇/resource/Pasted image 20240129235650.png",

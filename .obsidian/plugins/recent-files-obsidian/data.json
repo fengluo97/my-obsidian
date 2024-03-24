@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Bean 的生命周期",
-      "path": "Tech/3、Web开发/spring/Bean 的生命周期.md"
+      "basename": "DashBoard",
+      "path": "DashBoard.md"
+    },
+    {
+      "basename": "SpringBoot 自动装配",
+      "path": "Tech/3、Web开发/3、SpringBoot/SpringBoot 自动装配.md"
+    },
+    {
+      "basename": "2、SpringMVC",
+      "path": "Tech/3、Web开发/2、SpringMVC.md"
     },
     {
       "basename": "Spring",
       "path": "Tech/3、Web开发/spring/Spring.md"
     },
     {
-      "basename": "DashBoard",
-      "path": "DashBoard.md"
+      "basename": "Bean 的生命周期",
+      "path": "Tech/3、Web开发/spring/Bean 的生命周期.md"
     },
     {
       "basename": "零拷贝技术",
@@ -79,10 +87,6 @@
     {
       "basename": "面向对象",
       "path": "Tech/1、Java/1、基础/面向对象.md"
-    },
-    {
-      "basename": "2、SpringMVC",
-      "path": "Tech/3、Web开发/2、SpringMVC.md"
     },
     {
       "basename": "常用类",
