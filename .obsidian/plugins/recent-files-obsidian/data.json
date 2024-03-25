@@ -5,6 +5,22 @@
       "path": "DashBoard.md"
     },
     {
+      "basename": "跆拳道",
+      "path": "Life/健体/跆拳道.md"
+    },
+    {
+      "basename": "拳击",
+      "path": "Life/健体/拳击.md"
+    },
+    {
+      "basename": "摔跤",
+      "path": "Life/健体/摔跤.md"
+    },
+    {
+      "basename": "散打",
+      "path": "Life/健体/散打.md"
+    },
+    {
       "basename": "SpringBoot 自动装配",
       "path": "Tech/3、Web开发/3、SpringBoot/SpringBoot 自动装配.md"
     },
@@ -183,18 +199,6 @@
     {
       "basename": "README",
       "path": "README.md"
-    },
-    {
-      "basename": "设计模式",
-      "path": "Tech/2、设计模式/设计模式.md"
-    },
-    {
-      "basename": "优雅停机",
-      "path": "Tech/66、开源贡献篇/优雅停机.md"
-    },
-    {
-      "basename": "自己实现一个数据库连接池",
-      "path": "Tech/66、开源贡献篇/自己实现一个数据库连接池.md"
     }
   ],
   "omittedPaths": [],
