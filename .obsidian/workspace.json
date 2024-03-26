@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "64c222ecca4183ef",
+        "id": "2c55a1fb5c3e8392",
         "type": "tabs",
         "children": [
           {
-            "id": "7019e06491b1fcca",
+            "id": "3ebdc6091cb23e9e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "DashBoard.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -67,7 +71,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "DashBoard.md"
+              }
             }
           }
         ]
@@ -147,6 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "DashBoard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,6 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "DashBoard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,19 +212,19 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "7019e06491b1fcca",
+  "active": "3ebdc6091cb23e9e",
   "lastOpenFiles": [
+    "Tech/3、Web开发/spring/Spring.md",
+    "Tech/3、Web开发/spring/Bean 的生命周期.md",
+    "DashBoard.md",
     "Life/健体/跆拳道.md",
     "Life/健体/拳击.md",
     "Life/健体/摔跤.md",
     "Life/健体/散打.md",
-    "DashBoard.md",
     "Life/健体",
     "Tech/3、Web开发/3、SpringBoot/resource/Pasted image 20240323233853.png",
     "Tech/3、Web开发/3、SpringBoot/resource",
     "Tech/3、Web开发/2、SpringMVC.md",
-    "Tech/3、Web开发/spring/Spring.md",
-    "Tech/3、Web开发/spring/Bean 的生命周期.md",
     "Tech/3、Web开发/3、SpringBoot/SpringBoot 自动装配.md",
     "Tech/66、源码阅读篇/为什么要读源码？如何读源码？.md",
     "Tech/66、源码阅读篇/Tomcat/Tomcat 开篇与源码环境搭建.md",

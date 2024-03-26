@@ -5,6 +5,14 @@
       "path": "DashBoard.md"
     },
     {
+      "basename": "Bean 的生命周期",
+      "path": "Tech/3、Web开发/spring/Bean 的生命周期.md"
+    },
+    {
+      "basename": "Spring",
+      "path": "Tech/3、Web开发/spring/Spring.md"
+    },
+    {
       "basename": "跆拳道",
       "path": "Life/健体/跆拳道.md"
     },
@@ -27,14 +35,6 @@
     {
       "basename": "2、SpringMVC",
       "path": "Tech/3、Web开发/2、SpringMVC.md"
-    },
-    {
-      "basename": "Spring",
-      "path": "Tech/3、Web开发/spring/Spring.md"
-    },
-    {
-      "basename": "Bean 的生命周期",
-      "path": "Tech/3、Web开发/spring/Bean 的生命周期.md"
     },
     {
       "basename": "零拷贝技术",
