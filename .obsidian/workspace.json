@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DashBoard.md",
+                "file": "Tech/99、经验之谈/经验.md",
                 "mode": "source",
                 "source": false
               }
@@ -72,7 +72,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DashBoard.md"
+                "file": "Tech/99、经验之谈/经验.md"
               }
             }
           }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DashBoard.md",
+                "file": "Tech/99、经验之谈/经验.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DashBoard.md",
+                "file": "Tech/99、经验之谈/经验.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,9 +214,9 @@
   },
   "active": "3ebdc6091cb23e9e",
   "lastOpenFiles": [
+    "DashBoard.md",
     "Tech/3、Web开发/spring/Spring.md",
     "Tech/3、Web开发/spring/Bean 的生命周期.md",
-    "DashBoard.md",
     "Life/健体/跆拳道.md",
     "Life/健体/拳击.md",
     "Life/健体/摔跤.md",

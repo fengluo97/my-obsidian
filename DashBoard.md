@@ -11,29 +11,16 @@
 **并行**：整理知识库 + 刷题
 
 
-先以关键为主！面向面试题勾勒知识体系！
-
-3 月 - 4 月 7 号
-- [ ] Java
+复习：一周一个，周内专攻，关键问题，使用场景
+- [ ] 计算机基础
+- [ ] **Java**
 - [ ] JVM
 - [ ] JUC
-- [ ] 新特性
-
-4 月
-- [ ] 设计模式
-- [ ] Web 开发
-
-5 月 - 6 月
-- [ ] MySQL - 锁、事务、索引、日志、分库分表、主从同步
+- [ ] 设计模式、新特性
+- [x] **Web**（SSM、SpringBoot）
+- [ ] MySQL
 - [ ] Redis
-- [ ] RocketMQ
-- [ ] MongoDB + ElasticSearch 一共一周
-- [ ] Netty
-
-7 月 - 8 月
-- [ ] Dubbo
-- [ ] Zookeeper
-- [ ] SpringCloud Alibaba
-
-9 月 - 10月
-综合能力提升
+- [ ] **RocketMQ**
+- [ ] **Dubbo** + Zookeeper
+- [ ] **分布式事务**、分布式理论（可投）6月
+- [ ] 其他（MongoDB、ElasticSearch、Netty，Sentinel、Apollo、Elastic-Job）

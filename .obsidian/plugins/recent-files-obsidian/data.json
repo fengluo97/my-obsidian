@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "经验",
+      "path": "Tech/99、经验之谈/经验.md"
+    },
+    {
       "basename": "DashBoard",
       "path": "DashBoard.md"
     },
@@ -163,10 +167,6 @@
     {
       "basename": "Golang",
       "path": "Tech/66、技术广度篇/云原生/Golang.md"
-    },
-    {
-      "basename": "经验",
-      "path": "Tech/99、经验之谈/经验.md"
     },
     {
       "basename": "工程师思维",
