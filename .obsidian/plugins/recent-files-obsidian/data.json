@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "经验",
-      "path": "Tech/99、经验之谈/经验.md"
-    },
-    {
       "basename": "DashBoard",
       "path": "DashBoard.md"
+    },
+    {
+      "basename": "经验",
+      "path": "Tech/99、经验之谈/经验.md"
     },
     {
       "basename": "Bean 的生命周期",
