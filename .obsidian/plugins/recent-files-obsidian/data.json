@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Tomcat",
+      "path": "Tech/3、Web开发/6、Tomcat/Tomcat.md"
+    },
+    {
       "basename": "DashBoard",
       "path": "DashBoard.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "后端技术笔记模板",
       "path": "resource/template/后端技术笔记模板.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
     }
   ],
   "omittedPaths": [],

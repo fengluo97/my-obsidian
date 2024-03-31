@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "57c97c24e52f695c",
+        "id": "de794c26343c6999",
         "type": "tabs",
         "children": [
           {
-            "id": "f27b269ad5a33546",
+            "id": "817a6f8f1663dcd4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DashBoard.md",
+                "file": "Tech/3、Web开发/6、Tomcat/Tomcat.md",
                 "mode": "source",
                 "source": false
               }
@@ -72,7 +72,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DashBoard.md"
+                "file": "Tech/3、Web开发/6、Tomcat/Tomcat.md"
               }
             }
           }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DashBoard.md",
+                "file": "Tech/3、Web开发/6、Tomcat/Tomcat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DashBoard.md",
+                "file": "Tech/3、Web开发/6、Tomcat/Tomcat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,8 +212,9 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "f27b269ad5a33546",
+  "active": "817a6f8f1663dcd4",
   "lastOpenFiles": [
+    "Tech/3、Web开发/6、Tomcat/resource/Pasted image 20240331165148.png",
     "DashBoard.md",
     "Tech/3、Web开发/spring/Spring.md",
     "Tech/3、Web开发/spring/Bean 的生命周期.md",
@@ -249,7 +250,6 @@
     "Tech/1、Java/1、基础/泛型.md",
     "Tech/1、Java/1、基础/注解.md",
     "Tech/1、Java/1、基础/反射.md",
-    "Tech/1、Java/1、基础/集合/ArrayList.md",
     "Tech/1、Java/1、基础/IO",
     "Tech/66、技术广度篇",
     "Tech/99、经验之谈/面经",

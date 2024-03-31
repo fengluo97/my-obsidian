@@ -15,6 +15,7 @@ Servlet 生命周期：init() -> service() -> destroy()
 ## Tomcat 架构设计
 ![[Pasted image 20240110223703.png]]
 ### HTTP 服务器
+![[Pasted image 20240331165148.png]]
 HTTP（请求行、请求头、请求体）是超文本传输协议。
 在 Coyote 包下，由 Connector 连接器组件实现，负责接收请求和返回响应，监听端口接收外界请求，并将请求传递给容器进行业务处理，最后将结果返回给客户端。
 1、监听网络端口，接收和响应网络请求。
