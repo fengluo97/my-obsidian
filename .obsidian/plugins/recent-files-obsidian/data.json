@@ -5,6 +5,10 @@
       "path": "DashBoard.md"
     },
     {
+      "basename": "dubbo chain",
+      "path": "Tech/66、开源贡献篇/dubbo chain.md"
+    },
+    {
       "basename": "Tomcat",
       "path": "Tech/3、Web开发/6、Tomcat/Tomcat.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "力扣模板",
       "path": "resource/template/力扣模板.md"
-    },
-    {
-      "basename": "后端技术笔记模板",
-      "path": "resource/template/后端技术笔记模板.md"
     }
   ],
   "omittedPaths": [],
