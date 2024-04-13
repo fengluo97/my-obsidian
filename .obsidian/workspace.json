@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "48e51fc89e28a04d",
+        "id": "73dc182688ee2c83",
         "type": "tabs",
         "children": [
           {
-            "id": "101c5a52c8360001",
+            "id": "4f936321a1f6dde3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DashBoard.md",
+                "file": "Tech/66、开源贡献篇/dubbo chain.md",
                 "mode": "source",
                 "source": false
               }
@@ -72,7 +72,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DashBoard.md"
+                "file": "Tech/66、开源贡献篇/dubbo chain.md"
               }
             }
           }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DashBoard.md",
+                "file": "Tech/66、开源贡献篇/dubbo chain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DashBoard.md",
+                "file": "Tech/66、开源贡献篇/dubbo chain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,8 +212,12 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "101c5a52c8360001",
+  "active": "4f936321a1f6dde3",
   "lastOpenFiles": [
+    "Tech/66、开源贡献篇/优雅停机.md",
+    "Tech/66、开源贡献篇/分布式 Id 生成器.md",
+    "Tech/66、开源贡献篇/自己实现一个数据库连接池.md",
+    "Tech/66、开源贡献篇/RocketMQ retry 重试组件.md",
     "DashBoard.md",
     "Tech/3、Web开发/6、Tomcat/resource/Pasted image 20240331165148.png",
     "Tech/3、Web开发/spring/Spring.md",
@@ -247,9 +251,6 @@
     "Tech/66、力扣刷题篇/数据结构",
     "Tech/0、CS/计算机网络",
     "Tech/0、CS/计算机组成原理",
-    "Tech/1、Java/1、基础/泛型.md",
-    "Tech/1、Java/1、基础/注解.md",
-    "Tech/1、Java/1、基础/反射.md",
     "Tech/1、Java/1、基础/IO",
     "Tech/66、技术广度篇",
     "Tech/99、经验之谈/面经",

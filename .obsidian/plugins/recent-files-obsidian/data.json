@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "DashBoard",
-      "path": "DashBoard.md"
-    },
-    {
       "basename": "dubbo chain",
       "path": "Tech/66、开源贡献篇/dubbo chain.md"
+    },
+    {
+      "basename": "优雅停机",
+      "path": "Tech/66、开源贡献篇/优雅停机.md"
+    },
+    {
+      "basename": "分布式 Id 生成器",
+      "path": "Tech/66、开源贡献篇/分布式 Id 生成器.md"
+    },
+    {
+      "basename": "自己实现一个数据库连接池",
+      "path": "Tech/66、开源贡献篇/自己实现一个数据库连接池.md"
+    },
+    {
+      "basename": "RocketMQ retry 重试组件",
+      "path": "Tech/66、开源贡献篇/RocketMQ retry 重试组件.md"
+    },
+    {
+      "basename": "DashBoard",
+      "path": "DashBoard.md"
     },
     {
       "basename": "Tomcat",
@@ -183,22 +199,6 @@
     {
       "basename": "身材管理",
       "path": "Life/健康/身材管理.md"
-    },
-    {
-      "basename": "营养补剂",
-      "path": "Life/健康/营养补剂.md"
-    },
-    {
-      "basename": "医学概念",
-      "path": "Life/健康/医学概念.md"
-    },
-    {
-      "basename": "形象管理",
-      "path": "Life/健康/形象管理.md"
-    },
-    {
-      "basename": "力扣模板",
-      "path": "resource/template/力扣模板.md"
     }
   ],
   "omittedPaths": [],
