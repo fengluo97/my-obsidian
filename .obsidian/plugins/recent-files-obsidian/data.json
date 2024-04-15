@@ -1,12 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "DashBoard",
+      "path": "DashBoard.md"
+    },
+    {
       "basename": "dubbo chain",
       "path": "Tech/66、开源贡献篇/dubbo chain.md"
     },
     {
+      "basename": "RocketMQ retry 重试组件",
+      "path": "Tech/66、开源贡献篇/RocketMQ retry 重试组件.md"
+    },
+    {
+      "basename": "基于 netty 的 hotkey",
+      "path": "Tech/66、开源贡献篇/基于 netty 的 hotkey.md"
+    },
+    {
       "basename": "优雅停机",
       "path": "Tech/66、开源贡献篇/优雅停机.md"
+    },
+    {
+      "basename": "基于 netty 的简易聊天室",
+      "path": "Tech/66、开源贡献篇/基于 netty 的简易聊天室.md"
+    },
+    {
+      "basename": "基于 netty 的rpc",
+      "path": "Tech/66、开源贡献篇/基于 netty 的rpc.md"
     },
     {
       "basename": "分布式 Id 生成器",
@@ -15,14 +35,6 @@
     {
       "basename": "自己实现一个数据库连接池",
       "path": "Tech/66、开源贡献篇/自己实现一个数据库连接池.md"
-    },
-    {
-      "basename": "RocketMQ retry 重试组件",
-      "path": "Tech/66、开源贡献篇/RocketMQ retry 重试组件.md"
-    },
-    {
-      "basename": "DashBoard",
-      "path": "DashBoard.md"
     },
     {
       "basename": "Tomcat",
@@ -187,18 +199,6 @@
     {
       "basename": "K8s",
       "path": "Tech/66、技术广度篇/云原生/K8s.md"
-    },
-    {
-      "basename": "Golang",
-      "path": "Tech/66、技术广度篇/云原生/Golang.md"
-    },
-    {
-      "basename": "工程师思维",
-      "path": "Tech/99、经验之谈/工程师思维.md"
-    },
-    {
-      "basename": "身材管理",
-      "path": "Life/健康/身材管理.md"
     }
   ],
   "omittedPaths": [],
