@@ -5,6 +5,42 @@
       "path": "DashBoard.md"
     },
     {
+      "basename": "索引",
+      "path": "Tech/4、MySQL/索引.md"
+    },
+    {
+      "basename": "事务",
+      "path": "Tech/4、MySQL/事务.md"
+    },
+    {
+      "basename": "日志",
+      "path": "Tech/4、MySQL/日志.md"
+    },
+    {
+      "basename": "分库分表",
+      "path": "Tech/4、MySQL/分库分表.md"
+    },
+    {
+      "basename": "反射",
+      "path": "Tech/1、Java/1、基础/反射.md"
+    },
+    {
+      "basename": "注解",
+      "path": "Tech/1、Java/1、基础/注解.md"
+    },
+    {
+      "basename": "序列化",
+      "path": "Tech/1、Java/1、基础/序列化.md"
+    },
+    {
+      "basename": "异常",
+      "path": "Tech/1、Java/1、基础/异常.md"
+    },
+    {
+      "basename": "泛型",
+      "path": "Tech/1、Java/1、基础/泛型.md"
+    },
+    {
       "basename": "dubbo chain",
       "path": "Tech/66、开源贡献篇/dubbo chain.md"
     },
@@ -121,18 +157,6 @@
       "path": "Tech/1、Java/4、Java新特性/Java8.md"
     },
     {
-      "basename": "泛型",
-      "path": "Tech/1、Java/1、基础/泛型.md"
-    },
-    {
-      "basename": "注解",
-      "path": "Tech/1、Java/1、基础/注解.md"
-    },
-    {
-      "basename": "反射",
-      "path": "Tech/1、Java/1、基础/反射.md"
-    },
-    {
       "basename": "ArrayList",
       "path": "Tech/1、Java/1、基础/集合/ArrayList.md"
     },
@@ -169,36 +193,12 @@
       "path": "Tech/1、Java/1、基础/IO/网络编程.md"
     },
     {
-      "basename": "序列化",
-      "path": "Tech/1、Java/1、基础/序列化.md"
-    },
-    {
-      "basename": "异常",
-      "path": "Tech/1、Java/1、基础/异常.md"
-    },
-    {
       "basename": "对并发的深刻理解",
       "path": "Tech/1、Java/3、JUC/对并发的深刻理解.md"
     },
     {
       "basename": "MyBatis-Plus",
       "path": "Tech/3、Web开发/4、MyBatis/MyBatis-Plus.md"
-    },
-    {
-      "basename": "常识",
-      "path": "Life/烹饪/常识.md"
-    },
-    {
-      "basename": "Docker",
-      "path": "Tech/66、技术广度篇/云原生/Docker.md"
-    },
-    {
-      "basename": "Linux",
-      "path": "Tech/66、技术广度篇/云原生/Linux.md"
-    },
-    {
-      "basename": "K8s",
-      "path": "Tech/66、技术广度篇/云原生/K8s.md"
     }
   ],
   "omittedPaths": [],

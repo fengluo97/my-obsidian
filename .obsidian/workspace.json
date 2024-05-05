@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f0d11dae6cd26ae8",
+        "id": "f4b1f13ff68c5ffd",
         "type": "tabs",
         "children": [
           {
-            "id": "fed09492cf4798ab",
+            "id": "f445aec1f48214dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -212,14 +212,22 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "fed09492cf4798ab",
+  "active": "f445aec1f48214dc",
   "lastOpenFiles": [
+    "Tech/4、MySQL/事务.md",
+    "Tech/4、MySQL/日志.md",
+    "Tech/4、MySQL/分库分表.md",
+    "Tech/1、Java/1、基础/反射.md",
+    "Tech/1、Java/1、基础/注解.md",
+    "Tech/1、Java/1、基础/序列化.md",
+    "Tech/1、Java/1、基础/异常.md",
+    "Tech/1、Java/1、基础/泛型.md",
+    "DashBoard.md",
     "Tech/66、开源贡献篇/RocketMQ retry 重试组件.md",
     "Tech/66、开源贡献篇/基于 netty 的 hotkey.md",
     "Tech/66、开源贡献篇/优雅停机.md",
     "Tech/66、开源贡献篇/基于 netty 的简易聊天室.md",
     "Tech/66、开源贡献篇/基于 netty 的rpc.md",
-    "DashBoard.md",
     "Tech/66、开源贡献篇/分布式 Id 生成器.md",
     "Tech/66、开源贡献篇/自己实现一个数据库连接池.md",
     "Tech/3、Web开发/6、Tomcat/resource/Pasted image 20240331165148.png",
@@ -237,14 +245,6 @@
     "Tech/66、源码阅读篇/为什么要读源码？如何读源码？.md",
     "Tech/66、源码阅读篇/Tomcat/Tomcat 开篇与源码环境搭建.md",
     "Tech/3、Web开发/spring",
-    "Tech/0、CS/操作系统/零拷贝技术.md",
-    "Tech/8、RocketMQ/RocketMQ 自测与补充.md",
-    "Tech/8、RocketMQ/RocketMQ 概述.md",
-    "Tech/8、RocketMQ/RocketMQ 是如何保证高可用的？.md",
-    "Tech/8、RocketMQ/消费者.md",
-    "Tech/8、RocketMQ/NameServer.md",
-    "Tech/8、RocketMQ/消息存储.md",
-    "Tech/8、RocketMQ/生产者.md",
     "Tech/8、RocketMQ/resource/Pasted image 20240321204358.png",
     "Tech/8、RocketMQ/resource/Pasted image 20240321203757.png",
     "Tech/0、CS/未命名",
