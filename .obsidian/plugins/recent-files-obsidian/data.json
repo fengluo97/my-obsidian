@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "六大排序",
+      "path": "Tech/66、力扣刷题篇/六大排序.md"
+    },
+    {
       "basename": "DashBoard",
       "path": "DashBoard.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "对并发的深刻理解",
       "path": "Tech/1、Java/3、JUC/对并发的深刻理解.md"
-    },
-    {
-      "basename": "MyBatis-Plus",
-      "path": "Tech/3、Web开发/4、MyBatis/MyBatis-Plus.md"
     }
   ],
   "omittedPaths": [],
