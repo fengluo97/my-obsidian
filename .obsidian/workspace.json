@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4ea7df59be50fdff",
+        "id": "87d60707c6dba0e1",
         "type": "tabs",
         "children": [
           {
-            "id": "feedaa3c881b6147",
+            "id": "fd739a74869773b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech/3、Web开发/6、Tomcat/Tomcat.md",
+                "file": "Tech/66、力扣刷题篇/二叉树的非递归遍历.md",
                 "mode": "source",
                 "source": false
               }
@@ -72,7 +72,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tech/3、Web开发/6、Tomcat/Tomcat.md"
+                "file": "Tech/66、力扣刷题篇/二叉树的非递归遍历.md"
               }
             }
           }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tech/3、Web开发/6、Tomcat/Tomcat.md",
+                "file": "Tech/66、力扣刷题篇/二叉树的非递归遍历.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tech/3、Web开发/6、Tomcat/Tomcat.md",
+                "file": "Tech/66、力扣刷题篇/二叉树的非递归遍历.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,10 +212,14 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "8965bd32f48028e7",
+  "active": "fd739a74869773b1",
   "lastOpenFiles": [
-    "Tech/66、力扣刷题篇/二叉树的非递归遍历.md",
     "Tech/66、力扣刷题篇/六大排序.md",
+    "Tech/66、力扣刷题篇/刷题计划.md",
+    "Tech/99、经验之谈/工程师思维.md",
+    "Tech/99、经验之谈/经验.md",
+    "DashBoard.md",
+    "Tech/66、力扣刷题篇/二叉树的非递归遍历.md",
     "Tech/3、Web开发/6、Tomcat/Tomcat.md",
     "Tech/8、RocketMQ/NameServer.md",
     "Tech/8、RocketMQ/RocketMQ 自测与补充.md",
@@ -236,10 +240,6 @@
     "Tech/3、Web开发/spring/Bean 的生命周期.md",
     "Tech/3、Web开发/3、SpringBoot/SpringBoot 自动装配.md",
     "Tech/3、Web开发/4、MyBatis/MyBatis.md",
-    "Tech/3、Web开发/4、MyBatis/MyBatis-Plus.md",
-    "Tech/9、Netty/Java NIO.md",
-    "Tech/9、Netty/网络 IO 模型.md",
-    "Tech/11、Zookeeper/ZooKeeper.md",
     "Tech/3、Web开发/6、Tomcat/resource/Pasted image 20240331165148.png",
     "Life/健体",
     "Tech/3、Web开发/3、SpringBoot/resource/Pasted image 20240323233853.png",

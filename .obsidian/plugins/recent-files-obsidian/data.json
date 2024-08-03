@@ -1,16 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "Tomcat",
-      "path": "Tech/3、Web开发/6、Tomcat/Tomcat.md"
-    },
-    {
       "basename": "二叉树的非递归遍历",
       "path": "Tech/66、力扣刷题篇/二叉树的非递归遍历.md"
     },
     {
       "basename": "六大排序",
       "path": "Tech/66、力扣刷题篇/六大排序.md"
+    },
+    {
+      "basename": "刷题计划",
+      "path": "Tech/66、力扣刷题篇/刷题计划.md"
+    },
+    {
+      "basename": "工程师思维",
+      "path": "Tech/99、经验之谈/工程师思维.md"
+    },
+    {
+      "basename": "经验",
+      "path": "Tech/99、经验之谈/经验.md"
+    },
+    {
+      "basename": "DashBoard",
+      "path": "DashBoard.md"
+    },
+    {
+      "basename": "Tomcat",
+      "path": "Tech/3、Web开发/6、Tomcat/Tomcat.md"
     },
     {
       "basename": "NameServer",
@@ -101,18 +117,6 @@
       "path": "Tech/9、Netty/网络 IO 模型.md"
     },
     {
-      "basename": "刷题计划",
-      "path": "Tech/66、力扣刷题篇/刷题计划.md"
-    },
-    {
-      "basename": "经验",
-      "path": "Tech/99、经验之谈/经验.md"
-    },
-    {
-      "basename": "工程师思维",
-      "path": "Tech/99、经验之谈/工程师思维.md"
-    },
-    {
       "basename": "对并发的深刻理解",
       "path": "Tech/1、Java/3、JUC/对并发的深刻理解.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "自测与补充",
       "path": "Tech/4、MySQL/自测与补充.md"
-    },
-    {
-      "basename": "主从读写分离",
-      "path": "Tech/4、MySQL/主从读写分离.md"
     }
   ],
   "omittedPaths": [],
