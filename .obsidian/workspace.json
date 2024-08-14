@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "87d60707c6dba0e1",
+        "id": "e0ff7a2015d12e52",
         "type": "tabs",
         "children": [
           {
-            "id": "fd739a74869773b1",
+            "id": "b5bcd185c244e689",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech/66、力扣刷题篇/二叉树的非递归遍历.md",
+                "file": "Tech/8、RocketMQ/生产者.md",
                 "mode": "source",
                 "source": false
               }
@@ -72,7 +72,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tech/66、力扣刷题篇/二叉树的非递归遍历.md"
+                "file": "Tech/8、RocketMQ/生产者.md"
               }
             }
           }
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tech/66、力扣刷题篇/二叉树的非递归遍历.md",
+                "file": "Tech/8、RocketMQ/生产者.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tech/66、力扣刷题篇/二叉树的非递归遍历.md",
+                "file": "Tech/8、RocketMQ/生产者.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,19 +212,23 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "fd739a74869773b1",
+  "active": "b5bcd185c244e689",
   "lastOpenFiles": [
+    "Tech/8、RocketMQ/几大消息中间件类比.md",
+    "Tech/8、RocketMQ/生产者.md",
+    "Tech/8、RocketMQ/消费者.md",
+    "Tech/8、RocketMQ/消息存储.md",
+    "Tech/8、RocketMQ/NameServer.md",
+    "Tech/8、RocketMQ/RocketMQ 是如何保证高可用的？.md",
+    "Tech/8、RocketMQ/RocketMQ 概述.md",
+    "Tech/8、RocketMQ/RocketMQ 自测与补充.md",
+    "DashBoard.md",
     "Tech/66、力扣刷题篇/六大排序.md",
     "Tech/66、力扣刷题篇/刷题计划.md",
     "Tech/99、经验之谈/工程师思维.md",
     "Tech/99、经验之谈/经验.md",
-    "DashBoard.md",
     "Tech/66、力扣刷题篇/二叉树的非递归遍历.md",
     "Tech/3、Web开发/6、Tomcat/Tomcat.md",
-    "Tech/8、RocketMQ/NameServer.md",
-    "Tech/8、RocketMQ/RocketMQ 自测与补充.md",
-    "Tech/8、RocketMQ/RocketMQ 是如何保证高可用的？.md",
-    "Tech/8、RocketMQ/RocketMQ 概述.md",
     "Tech/7、ElasticSearch/ElasticSearch.md",
     "Tech/6、MongoDB/MongDB.md",
     "Tech/5、Redis/Redis.md",
@@ -236,10 +240,6 @@
     "Tech/4、MySQL/架构.md",
     "Tech/4、MySQL/分库分表.md",
     "Tech/3、Web开发/spring/Spring.md",
-    "Tech/3、Web开发/2、SpringMVC.md",
-    "Tech/3、Web开发/spring/Bean 的生命周期.md",
-    "Tech/3、Web开发/3、SpringBoot/SpringBoot 自动装配.md",
-    "Tech/3、Web开发/4、MyBatis/MyBatis.md",
     "Tech/3、Web开发/6、Tomcat/resource/Pasted image 20240331165148.png",
     "Life/健体",
     "Tech/3、Web开发/3、SpringBoot/resource/Pasted image 20240323233853.png",

@@ -1,6 +1,42 @@
 {
   "recentFiles": [
     {
+      "basename": "DashBoard",
+      "path": "DashBoard.md"
+    },
+    {
+      "basename": "生产者",
+      "path": "Tech/8、RocketMQ/生产者.md"
+    },
+    {
+      "basename": "几大消息中间件类比",
+      "path": "Tech/8、RocketMQ/几大消息中间件类比.md"
+    },
+    {
+      "basename": "消费者",
+      "path": "Tech/8、RocketMQ/消费者.md"
+    },
+    {
+      "basename": "消息存储",
+      "path": "Tech/8、RocketMQ/消息存储.md"
+    },
+    {
+      "basename": "NameServer",
+      "path": "Tech/8、RocketMQ/NameServer.md"
+    },
+    {
+      "basename": "RocketMQ 是如何保证高可用的？",
+      "path": "Tech/8、RocketMQ/RocketMQ 是如何保证高可用的？.md"
+    },
+    {
+      "basename": "RocketMQ 概述",
+      "path": "Tech/8、RocketMQ/RocketMQ 概述.md"
+    },
+    {
+      "basename": "RocketMQ 自测与补充",
+      "path": "Tech/8、RocketMQ/RocketMQ 自测与补充.md"
+    },
+    {
       "basename": "二叉树的非递归遍历",
       "path": "Tech/66、力扣刷题篇/二叉树的非递归遍历.md"
     },
@@ -21,28 +57,8 @@
       "path": "Tech/99、经验之谈/经验.md"
     },
     {
-      "basename": "DashBoard",
-      "path": "DashBoard.md"
-    },
-    {
       "basename": "Tomcat",
       "path": "Tech/3、Web开发/6、Tomcat/Tomcat.md"
-    },
-    {
-      "basename": "NameServer",
-      "path": "Tech/8、RocketMQ/NameServer.md"
-    },
-    {
-      "basename": "RocketMQ 自测与补充",
-      "path": "Tech/8、RocketMQ/RocketMQ 自测与补充.md"
-    },
-    {
-      "basename": "RocketMQ 是如何保证高可用的？",
-      "path": "Tech/8、RocketMQ/RocketMQ 是如何保证高可用的？.md"
-    },
-    {
-      "basename": "RocketMQ 概述",
-      "path": "Tech/8、RocketMQ/RocketMQ 概述.md"
     },
     {
       "basename": "ElasticSearch",
@@ -183,22 +199,6 @@
     {
       "basename": "集合",
       "path": "Tech/1、Java/1、基础/集合/集合.md"
-    },
-    {
-      "basename": "面向对象",
-      "path": "Tech/1、Java/1、基础/面向对象.md"
-    },
-    {
-      "basename": "操作系统",
-      "path": "Tech/0、CS/操作系统/操作系统.md"
-    },
-    {
-      "basename": "字段类型与使用",
-      "path": "Tech/4、MySQL/字段类型与使用.md"
-    },
-    {
-      "basename": "自测与补充",
-      "path": "Tech/4、MySQL/自测与补充.md"
     }
   ],
   "omittedPaths": [],
