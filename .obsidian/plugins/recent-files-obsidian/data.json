@@ -5,6 +5,10 @@
       "path": "DashBoard.md"
     },
     {
+      "basename": "NameServer",
+      "path": "Tech/8、RocketMQ/NameServer.md"
+    },
+    {
       "basename": "生产者",
       "path": "Tech/8、RocketMQ/生产者.md"
     },
@@ -19,10 +23,6 @@
     {
       "basename": "消息存储",
       "path": "Tech/8、RocketMQ/消息存储.md"
-    },
-    {
-      "basename": "NameServer",
-      "path": "Tech/8、RocketMQ/NameServer.md"
     },
     {
       "basename": "RocketMQ 是如何保证高可用的？",
