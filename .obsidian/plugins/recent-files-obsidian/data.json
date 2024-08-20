@@ -5,6 +5,10 @@
       "path": "DashBoard.md"
     },
     {
+      "basename": "六大排序",
+      "path": "Tech/66、力扣刷题篇/六大排序.md"
+    },
+    {
       "basename": "NameServer",
       "path": "Tech/8、RocketMQ/NameServer.md"
     },
@@ -39,10 +43,6 @@
     {
       "basename": "二叉树的非递归遍历",
       "path": "Tech/66、力扣刷题篇/二叉树的非递归遍历.md"
-    },
-    {
-      "basename": "六大排序",
-      "path": "Tech/66、力扣刷题篇/六大排序.md"
     },
     {
       "basename": "刷题计划",
