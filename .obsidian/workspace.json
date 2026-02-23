@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fb9350252903f87c",
+        "id": "03f2bde6f79e38c7",
         "type": "tabs",
         "children": [
           {
-            "id": "26ac7e89a3b16a23",
+            "id": "8ef681b5792d7e31",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -212,8 +212,15 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "26ac7e89a3b16a23",
+  "active": "8ef681b5792d7e31",
   "lastOpenFiles": [
+    "Tech/66、开源贡献篇/基于 netty 的简易聊天室.md",
+    "Tech/66、开源贡献篇/分布式 Id 生成器.md",
+    "Tech/66、开源贡献篇/优雅停机.md",
+    "Tech/66、开源贡献篇/基于 netty 的 hotkey.md",
+    "Tech/66、开源贡献篇/缓存抽检.md",
+    "Tech/66、开源贡献篇/RocketMQ retry 重试组件.md",
+    "Tech/66、开源贡献篇/dubbo chain.md",
     "DashBoard.md",
     "Tech/8、RocketMQ/几大消息中间件类比.md",
     "Tech/8、RocketMQ/生产者.md",
@@ -233,13 +240,6 @@
     "Tech/6、MongoDB/MongDB.md",
     "Tech/5、Redis/Redis.md",
     "Tech/4、MySQL/索引.md",
-    "Tech/4、MySQL/数据同步canal.md",
-    "Tech/4、MySQL/日志.md",
-    "Tech/4、MySQL/事务.md",
-    "Tech/4、MySQL/内存数据结构.md",
-    "Tech/4、MySQL/架构.md",
-    "Tech/4、MySQL/分库分表.md",
-    "Tech/3、Web开发/spring/Spring.md",
     "Tech/3、Web开发/6、Tomcat/resource/Pasted image 20240331165148.png",
     "Life/健体",
     "Tech/3、Web开发/3、SpringBoot/resource/Pasted image 20240323233853.png",
