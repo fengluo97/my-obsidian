@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "03f2bde6f79e38c7",
+        "id": "296e9d9f4dddd7cf",
         "type": "tabs",
         "children": [
           {
-            "id": "8ef681b5792d7e31",
+            "id": "b026782349d033a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -16,10 +16,23 @@
                 "file": "DashBoard.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "DashBoard"
+            }
+          },
+          {
+            "id": "d01899b4f7a35ed0",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -45,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
             }
           },
           {
@@ -54,8 +69,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "custom"
-              }
+                "sortOrder": "custom",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
             }
           }
         ],
@@ -72,8 +90,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DashBoard.md"
-              }
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
             }
           }
         ]
@@ -88,7 +110,9 @@
             "type": "leaf",
             "state": {
               "type": "recent-files",
-              "state": {}
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
             }
           },
           {
@@ -98,8 +122,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
             }
           }
         ]
@@ -121,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
             }
           },
           {
@@ -129,7 +159,9 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -137,7 +169,9 @@
             "type": "leaf",
             "state": {
               "type": "todo",
-              "state": {}
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
             }
           }
         ],
@@ -153,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DashBoard.md",
+                "file": "Tech/1、Java/3、JUC/JUC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +195,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "JUC 的反向链接列表"
             }
           },
           {
@@ -170,10 +206,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DashBoard.md",
+                "file": "Tech/1、Java/3、JUC/JUC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "JUC 的出链列表"
             }
           },
           {
@@ -185,7 +223,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
             }
           }
         ],
@@ -198,6 +238,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:新建数据库": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "switcher:打开快速切换": false,
@@ -212,34 +253,36 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "8ef681b5792d7e31",
+  "active": "d01899b4f7a35ed0",
   "lastOpenFiles": [
+    "DashBoard.md",
+    "Tech/1、Java/3、JUC/JUC.md",
+    "Tech/1、Java/3、JUC/resource/Pasted image 20260223155606.png",
+    "Tech/1、Java/3、JUC/resource/Pasted image 20260223155545.png",
+    "Tech/1、Java/3、JUC/resource",
+    "resource/template/后端技术笔记模板.md",
+    "Tech/8、RocketMQ/几大消息中间件类比.md",
+    "Tech/4、MySQL/自测与补充.md",
+    "README.md",
+    "Tech/2、设计模式/结构型模式/适配器模式.md",
+    "Tech/2、设计模式/结构型模式/桥接模式.md",
+    "Tech/2、设计模式/结构型模式/结构型模式.md",
+    "Tech/2、设计模式/结构型模式/过滤器模式.md",
+    "Tech/2、设计模式/创建型模式/建造者模式.md",
+    "Tech/2、设计模式/创建型模式/原型模式.md",
+    "Tech/2、设计模式/创建型模式/工厂模式.md",
+    "Tech/2、设计模式/创建型模式/单例模式.md",
+    "Tech/2、设计模式/创建型模式/创建型模式.md",
+    "Life/健康/医学概念.md",
+    "Life/健康/营养补剂.md",
+    "Life/健康/形象管理.md",
+    "Life/健康/身材管理.md",
+    "Life/烹饪/常识.md",
     "Tech/66、开源贡献篇/基于 netty 的简易聊天室.md",
     "Tech/66、开源贡献篇/分布式 Id 生成器.md",
     "Tech/66、开源贡献篇/优雅停机.md",
     "Tech/66、开源贡献篇/基于 netty 的 hotkey.md",
     "Tech/66、开源贡献篇/缓存抽检.md",
-    "Tech/66、开源贡献篇/RocketMQ retry 重试组件.md",
-    "Tech/66、开源贡献篇/dubbo chain.md",
-    "DashBoard.md",
-    "Tech/8、RocketMQ/几大消息中间件类比.md",
-    "Tech/8、RocketMQ/生产者.md",
-    "Tech/8、RocketMQ/消费者.md",
-    "Tech/8、RocketMQ/消息存储.md",
-    "Tech/8、RocketMQ/NameServer.md",
-    "Tech/8、RocketMQ/RocketMQ 是如何保证高可用的？.md",
-    "Tech/8、RocketMQ/RocketMQ 概述.md",
-    "Tech/8、RocketMQ/RocketMQ 自测与补充.md",
-    "Tech/66、力扣刷题篇/六大排序.md",
-    "Tech/66、力扣刷题篇/刷题计划.md",
-    "Tech/99、经验之谈/工程师思维.md",
-    "Tech/99、经验之谈/经验.md",
-    "Tech/66、力扣刷题篇/二叉树的非递归遍历.md",
-    "Tech/3、Web开发/6、Tomcat/Tomcat.md",
-    "Tech/7、ElasticSearch/ElasticSearch.md",
-    "Tech/6、MongoDB/MongDB.md",
-    "Tech/5、Redis/Redis.md",
-    "Tech/4、MySQL/索引.md",
     "Tech/3、Web开发/6、Tomcat/resource/Pasted image 20240331165148.png",
     "Life/健体",
     "Tech/3、Web开发/3、SpringBoot/resource/Pasted image 20240323233853.png",
@@ -253,13 +296,10 @@
     "Tech/0、CS/计算机组成原理",
     "Tech/1、Java/1、基础/IO",
     "Tech/66、技术广度篇",
-    "Tech/99、经验之谈/面经",
     "resource/Pasted image 20240202235745.png",
     "resource/Pasted image 20240202234757.png",
     "Tech/66、力扣刷题篇/resource/Pasted image 20240129235650.png",
     "Tech/3、Web开发/6、Tomcat/resource/Pasted image 20240114165342.png",
-    "Tech/3、Web开发/6、Tomcat/resource/Pasted image 20240114163427.png",
-    "Tech/3、Web开发/6、Tomcat/resource/Pasted image 20240110223703.png",
     "Java Virtual Machine/未命名.canvas"
   ]
 }

@@ -5,6 +5,86 @@
       "path": "DashBoard.md"
     },
     {
+      "basename": "JUC",
+      "path": "Tech/1、Java/3、JUC/JUC.md"
+    },
+    {
+      "basename": "Pasted image 20260223155545",
+      "path": "Tech/1、Java/3、JUC/resource/Pasted image 20260223155545.png"
+    },
+    {
+      "basename": "后端技术笔记模板",
+      "path": "resource/template/后端技术笔记模板.md"
+    },
+    {
+      "basename": "几大消息中间件类比",
+      "path": "Tech/8、RocketMQ/几大消息中间件类比.md"
+    },
+    {
+      "basename": "自测与补充",
+      "path": "Tech/4、MySQL/自测与补充.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "适配器模式",
+      "path": "Tech/2、设计模式/结构型模式/适配器模式.md"
+    },
+    {
+      "basename": "桥接模式",
+      "path": "Tech/2、设计模式/结构型模式/桥接模式.md"
+    },
+    {
+      "basename": "结构型模式",
+      "path": "Tech/2、设计模式/结构型模式/结构型模式.md"
+    },
+    {
+      "basename": "过滤器模式",
+      "path": "Tech/2、设计模式/结构型模式/过滤器模式.md"
+    },
+    {
+      "basename": "建造者模式",
+      "path": "Tech/2、设计模式/创建型模式/建造者模式.md"
+    },
+    {
+      "basename": "原型模式",
+      "path": "Tech/2、设计模式/创建型模式/原型模式.md"
+    },
+    {
+      "basename": "工厂模式",
+      "path": "Tech/2、设计模式/创建型模式/工厂模式.md"
+    },
+    {
+      "basename": "单例模式",
+      "path": "Tech/2、设计模式/创建型模式/单例模式.md"
+    },
+    {
+      "basename": "创建型模式",
+      "path": "Tech/2、设计模式/创建型模式/创建型模式.md"
+    },
+    {
+      "basename": "医学概念",
+      "path": "Life/健康/医学概念.md"
+    },
+    {
+      "basename": "营养补剂",
+      "path": "Life/健康/营养补剂.md"
+    },
+    {
+      "basename": "形象管理",
+      "path": "Life/健康/形象管理.md"
+    },
+    {
+      "basename": "身材管理",
+      "path": "Life/健康/身材管理.md"
+    },
+    {
+      "basename": "常识",
+      "path": "Life/烹饪/常识.md"
+    },
+    {
       "basename": "自己实现一个数据库连接池",
       "path": "Tech/66、开源贡献篇/自己实现一个数据库连接池.md"
     },
@@ -51,10 +131,6 @@
     {
       "basename": "生产者",
       "path": "Tech/8、RocketMQ/生产者.md"
-    },
-    {
-      "basename": "几大消息中间件类比",
-      "path": "Tech/8、RocketMQ/几大消息中间件类比.md"
     },
     {
       "basename": "消费者",
@@ -123,82 +199,6 @@
     {
       "basename": "事务",
       "path": "Tech/4、MySQL/事务.md"
-    },
-    {
-      "basename": "内存数据结构",
-      "path": "Tech/4、MySQL/内存数据结构.md"
-    },
-    {
-      "basename": "架构",
-      "path": "Tech/4、MySQL/架构.md"
-    },
-    {
-      "basename": "分库分表",
-      "path": "Tech/4、MySQL/分库分表.md"
-    },
-    {
-      "basename": "Spring",
-      "path": "Tech/3、Web开发/spring/Spring.md"
-    },
-    {
-      "basename": "2、SpringMVC",
-      "path": "Tech/3、Web开发/2、SpringMVC.md"
-    },
-    {
-      "basename": "Bean 的生命周期",
-      "path": "Tech/3、Web开发/spring/Bean 的生命周期.md"
-    },
-    {
-      "basename": "SpringBoot 自动装配",
-      "path": "Tech/3、Web开发/3、SpringBoot/SpringBoot 自动装配.md"
-    },
-    {
-      "basename": "MyBatis",
-      "path": "Tech/3、Web开发/4、MyBatis/MyBatis.md"
-    },
-    {
-      "basename": "MyBatis-Plus",
-      "path": "Tech/3、Web开发/4、MyBatis/MyBatis-Plus.md"
-    },
-    {
-      "basename": "Java NIO",
-      "path": "Tech/9、Netty/Java NIO.md"
-    },
-    {
-      "basename": "网络 IO 模型",
-      "path": "Tech/9、Netty/网络 IO 模型.md"
-    },
-    {
-      "basename": "对并发的深刻理解",
-      "path": "Tech/1、Java/3、JUC/对并发的深刻理解.md"
-    },
-    {
-      "basename": "JUC",
-      "path": "Tech/1、Java/3、JUC/JUC.md"
-    },
-    {
-      "basename": "JVM 概述",
-      "path": "Tech/1、Java/2、JVM/JVM 概述.md"
-    },
-    {
-      "basename": "类文件结构",
-      "path": "Tech/1、Java/2、JVM/类文件结构.md"
-    },
-    {
-      "basename": "语法糖合辑",
-      "path": "Tech/1、Java/1、基础/语法糖合辑.md"
-    },
-    {
-      "basename": "SPI 机制",
-      "path": "Tech/1、Java/1、基础/SPI 机制.md"
-    },
-    {
-      "basename": "值传递",
-      "path": "Tech/1、Java/1、基础/值传递.md"
-    },
-    {
-      "basename": "常用类",
-      "path": "Tech/1、Java/1、基础/常用类.md"
     }
   ],
   "omittedPaths": [],
