@@ -5,6 +5,54 @@
       "path": "DashBoard.md"
     },
     {
+      "basename": "生产者",
+      "path": "Tech/8、RocketMQ/生产者.md"
+    },
+    {
+      "basename": "几大消息中间件类比",
+      "path": "Tech/8、RocketMQ/几大消息中间件类比.md"
+    },
+    {
+      "basename": "MongDB",
+      "path": "Tech/6、MongoDB/MongDB.md"
+    },
+    {
+      "basename": "身材管理",
+      "path": "Life/健康/身材管理.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "经验",
+      "path": "Tech/99、经验之谈/经验.md"
+    },
+    {
+      "basename": "工程师思维",
+      "path": "Tech/99、经验之谈/工程师思维.md"
+    },
+    {
+      "basename": "Pasted image 20240202234757",
+      "path": "resource/Pasted image 20240202234757.png"
+    },
+    {
+      "basename": "Pasted image 20240202235745",
+      "path": "resource/Pasted image 20240202235745.png"
+    },
+    {
+      "basename": "力扣模板",
+      "path": "resource/template/力扣模板.md"
+    },
+    {
+      "basename": "后端技术笔记模板",
+      "path": "resource/template/后端技术笔记模板.md"
+    },
+    {
+      "basename": "常用类",
+      "path": "Tech/1、Java/1、基础/常用类.md"
+    },
+    {
       "basename": "JUC",
       "path": "Tech/1、Java/3、JUC/JUC.md"
     },
@@ -13,20 +61,8 @@
       "path": "Tech/1、Java/3、JUC/resource/Pasted image 20260223155545.png"
     },
     {
-      "basename": "后端技术笔记模板",
-      "path": "resource/template/后端技术笔记模板.md"
-    },
-    {
-      "basename": "几大消息中间件类比",
-      "path": "Tech/8、RocketMQ/几大消息中间件类比.md"
-    },
-    {
       "basename": "自测与补充",
       "path": "Tech/4、MySQL/自测与补充.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
     },
     {
       "basename": "适配器模式",
@@ -77,10 +113,6 @@
       "path": "Life/健康/形象管理.md"
     },
     {
-      "basename": "身材管理",
-      "path": "Life/健康/身材管理.md"
-    },
-    {
       "basename": "常识",
       "path": "Life/烹饪/常识.md"
     },
@@ -129,10 +161,6 @@
       "path": "Tech/8、RocketMQ/NameServer.md"
     },
     {
-      "basename": "生产者",
-      "path": "Tech/8、RocketMQ/生产者.md"
-    },
-    {
       "basename": "消费者",
       "path": "Tech/8、RocketMQ/消费者.md"
     },
@@ -161,14 +189,6 @@
       "path": "Tech/66、力扣刷题篇/刷题计划.md"
     },
     {
-      "basename": "工程师思维",
-      "path": "Tech/99、经验之谈/工程师思维.md"
-    },
-    {
-      "basename": "经验",
-      "path": "Tech/99、经验之谈/经验.md"
-    },
-    {
       "basename": "Tomcat",
       "path": "Tech/3、Web开发/6、Tomcat/Tomcat.md"
     },
@@ -177,28 +197,8 @@
       "path": "Tech/7、ElasticSearch/ElasticSearch.md"
     },
     {
-      "basename": "MongDB",
-      "path": "Tech/6、MongoDB/MongDB.md"
-    },
-    {
       "basename": "Redis",
       "path": "Tech/5、Redis/Redis.md"
-    },
-    {
-      "basename": "索引",
-      "path": "Tech/4、MySQL/索引.md"
-    },
-    {
-      "basename": "数据同步canal",
-      "path": "Tech/4、MySQL/数据同步canal.md"
-    },
-    {
-      "basename": "日志",
-      "path": "Tech/4、MySQL/日志.md"
-    },
-    {
-      "basename": "事务",
-      "path": "Tech/4、MySQL/事务.md"
     }
   ],
   "omittedPaths": [],
