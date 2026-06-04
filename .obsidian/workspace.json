@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f9a4799355d6348e",
+            "id": "cca5953ed05c127a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,7 +22,17 @@
             }
           },
           {
-            "id": "c9096a30dcd393a6",
+            "id": "15f8a8e68e2d883b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          },
+          {
+            "id": "0ed0f1f0f6430a44",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -206,12 +216,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tech/1、Java/3、JUC/JUC.md",
+                "file": "DashBoard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "JUC 的出链列表"
+              "title": "DashBoard 的出链列表"
             }
           },
           {
@@ -250,10 +260,11 @@
       "obsidian42-brat:BRAT": false,
       "homepage:Open homepage": false,
       "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "realclaudian:Open Claudian": false
     }
   },
-  "active": "c9096a30dcd393a6",
+  "active": "15f8a8e68e2d883b",
   "lastOpenFiles": [
     "DashBoard.md",
     "Tech/8、RocketMQ/生产者.md",
