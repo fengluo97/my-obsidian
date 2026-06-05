@@ -3,7 +3,7 @@
   "permissionMode": "yolo",
   "model": "haiku",
   "thinkingBudget": "off",
-  "effortLevel": "high",
+  "effortLevel": "max",
   "serviceTier": "default",
   "enableAutoTitleGeneration": true,
   "titleGenerationModel": "gpt-5.5",
@@ -38,10 +38,12 @@
       "environmentHash": ""
     },
     "codex": {
-      "enabled": false,
+      "enabled": true,
       "safeMode": "workspace-write",
       "cliPath": "",
-      "cliPathsByHost": {},
+      "cliPathsByHost": {
+        "device:b4ef4fd6-78b1-4e46-8112-0a078069dd66": "D:\\Program Files\\nodejs\\node_global\\codex.cmd"
+      },
       "customModels": "",
       "reasoningSummary": "detailed",
       "environmentVariables": "",
@@ -81,7 +83,7 @@
     "claude": "haiku"
   },
   "savedProviderEffort": {
-    "claude": "high"
+    "claude": "max"
   },
   "savedProviderServiceTier": {},
   "savedProviderThinkingBudget": {},

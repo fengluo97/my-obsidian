@@ -42,7 +42,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -153,6 +153,7 @@
       {
         "id": "32552a6bb5a545de",
         "type": "tabs",
+        "dimension": 82.48686514886164,
         "children": [
           {
             "id": "c0c8bfe2fee93bb9",
@@ -183,13 +184,24 @@
               "icon": "checkmark",
               "title": "Todo List"
             }
+          },
+          {
+            "id": "ba989ba5701647e5",
+            "type": "leaf",
+            "state": {
+              "type": "claudian-view",
+              "state": {},
+              "icon": "bot",
+              "title": "Claudian"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "9a749d763150198d",
         "type": "tabs",
+        "dimension": 17.513134851138354,
         "children": [
           {
             "id": "4648cc3218cc6f6f",
@@ -243,8 +255,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 515.5,
-    "collapsed": true
+    "width": 709.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -264,7 +275,7 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "15f8a8e68e2d883b",
+  "active": "ba989ba5701647e5",
   "lastOpenFiles": [
     "DashBoard.md",
     "Tech/8、RocketMQ/生产者.md",
