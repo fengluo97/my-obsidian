@@ -1,11 +1,22 @@
 {
   "id": "conv-1780537508835-mk69yvq5z",
   "providerId": "claude",
-  "title": "Greet the assistant",
+  "title": "Greet user",
   "titleGenerationStatus": "success",
   "createdAt": 1780537508835,
-  "updatedAt": 1780537699519,
-  "lastResponseAt": 1780537699519,
-  "sessionId": null,
-  "providerState": {}
+  "updatedAt": 1780670504080,
+  "lastResponseAt": 1780670504080,
+  "sessionId": "2edd18c3-0b3c-42ba-a15c-8cb432b28411",
+  "providerState": {
+    "providerSessionId": "2edd18c3-0b3c-42ba-a15c-8cb432b28411"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 0,
+    "percentage": 0
+  }
 }
