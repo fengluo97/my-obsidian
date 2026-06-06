@@ -20,19 +20,8 @@
               "icon": "lucide-file",
               "title": "DashBoard"
             }
-          },
-          {
-            "id": "32fb5004214039b9",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,12 +79,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "DashBoard.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "DashBoard 的大纲"
             }
           }
         ]
@@ -156,26 +146,6 @@
             }
           },
           {
-            "id": "4294f518af691d0b",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
-          },
-          {
-            "id": "2c92e44f03d01a62",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {},
-              "icon": "checkmark",
-              "title": "Todo List"
-            }
-          },
-          {
             "id": "ba989ba5701647e5",
             "type": "leaf",
             "state": {
@@ -186,7 +156,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       },
       {
         "id": "9a749d763150198d",
@@ -218,11 +188,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "DashBoard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "DashBoard 的出链列表"
             }
           },
           {
@@ -261,10 +232,11 @@
       "homepage:Open homepage": false,
       "templater-obsidian:Templater": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "realclaudian:Open Claudian": false
+      "realclaudian:Open Claudian": false,
+      "terminal:Open terminal": false
     }
   },
-  "active": "32fb5004214039b9",
+  "active": "dca45e186a85dbe9",
   "lastOpenFiles": [
     "DashBoard.md",
     "Tech/8、RocketMQ/生产者.md",
