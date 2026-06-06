@@ -1,0 +1,25 @@
+{
+  "id": "conv-1780683638458-qq7izejuk",
+  "providerId": "codex",
+  "title": "Greet the assistant",
+  "titleGenerationStatus": "success",
+  "createdAt": 1780683638459,
+  "updatedAt": 1780683664245,
+  "lastResponseAt": 1780683664245,
+  "sessionId": "019e9904-1b89-7751-a843-4bd4ba7d46be",
+  "providerState": {
+    "threadId": "019e9904-1b89-7751-a843-4bd4ba7d46be",
+    "sessionFilePath": "C:\\Users\\fengluo\\.codex\\sessions\\2026\\06\\06\\rollout-2026-06-06T02-20-48-019e9904-1b89-7751-a843-4bd4ba7d46be.jsonl",
+    "transcriptRootPath": "C:\\Users\\fengluo\\.codex\\sessions"
+  },
+  "usage": {
+    "inputTokens": 10196,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 6016,
+    "contextWindow": 258400,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 10196,
+    "percentage": 4,
+    "model": "gpt-5.5"
+  }
+}
